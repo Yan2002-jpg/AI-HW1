@@ -1,0 +1,1001 @@
+County,Race,Age,Gender,Education Level,Employment Status,Income Level,Prior Convictions,Risk Score,Judge Decision,Re-offense
+Copiah County,White,48,Female,Bachelor's Degree,Employed,34165.96989307567,1,8.774172213925253,0,1
+Copiah County,Black,70,Male,High School,Unemployed,34114.425796751995,1,8.721142890255866,0,1
+Copiah County,White,73,Male,High School,Employed,15609.381870781555,1,7.324791518535966,1,0
+Copiah County,White,26,Male,Some College,Unemployed,34123.41169947327,0,6.118390181036443,1,0
+Copiah County,White,38,Female,Master's Degree,Employed,73289.62294596473,0,2.793611184265462,1,0
+Copiah County,White,42,Male,Less than High School,Employed,76945.48696813472,4,5.587193424403443,1,0
+Copiah County,White,57,Male,Bachelor's Degree,Employed,74623.04881837904,1,4.5580836121682,1,1
+Copiah County,Black,37,Female,Less than High School,Unemployed,15415.065835432773,1,1.0732352291549871,1,1
+Copiah County,Black,33,Male,Some College,Unemployed,14348.049236346576,4,5.101115011743209,0,0
+Copiah County,White,33,Male,Less than High School,Unemployed,14981.356790510075,1,10.41614515559209,0,0
+Copiah County,White,70,Male,Master's Degree,Employed,71502.10200137462,3,4.520584494295802,1,0
+Copiah County,White,51,Female,Some College,Unemployed,33469.286212093735,2,5.469909852161995,0,0
+Copiah County,White,52,Male,High School,Employed,36422.531086705436,3,7.465419697120591,1,0
+Copiah County,Black,41,Female,Less than High School,Employed,33737.358798911584,1,7.539742577085242,0,1
+Copiah County,White,33,Female,Master's Degree,Employed,75243.15511706412,1,7.490919947531361,0,1
+Copiah County,Black,26,Female,Less than High School,Unemployed,14866.643403901058,1,5.620085411824121,1,1
+Copiah County,White,24,Female,High School,Employed,34465.701641905944,1,6.725939140143353,0,0
+Copiah County,Black,47,Male,Some College,Employed,36399.416709905454,2,4.01980514530579,1,0
+Copiah County,White,49,Female,Less than High School,Unemployed,33326.38188871421,3,6.904723026098963,1,0
+Copiah County,White,38,Female,Some College,Employed,76228.42264631692,4,3.832983312158434,1,0
+Copiah County,White,75,Female,Some College,Employed,15695.091651320326,3,3.0671117368334277,1,0
+Copiah County,Black,23,Male,Less than High School,Employed,15090.252275192763,2,5.56739263278245,0,1
+Copiah County,White,48,Female,High School,Employed,15655.233693049637,1,4.792144648535218,0,1
+Copiah County,Black,35,Female,Bachelor's Degree,Employed,71641.93409464517,1,6.812906580611168,1,0
+Copiah County,Black,60,Female,Bachelor's Degree,Employed,74390.94989305621,2,2.973641990530222,0,0
+Copiah County,White,68,Male,High School,Employed,73201.18343221537,4,6.342211153671617,1,1
+Copiah County,White,19,Female,Less than High School,Employed,35807.87337743255,0,4.69967378215836,0,1
+Copiah County,Black,45,Male,Bachelor's Degree,Employed,78609.72817872935,1,3.008540663048167,1,0
+Copiah County,White,53,Male,High School,Employed,14634.795093666371,1,4.073931655089634,1,1
+Copiah County,White,55,Female,Bachelor's Degree,Employed,126927.1825184259,1,1.8185801650879991,1,0
+Copiah County,White,51,Female,Less than High School,Unemployed,14547.146449139611,1,1.0215089703802878,1,1
+Copiah County,White,50,Male,Some College,Employed,75489.97690928707,2,3.7364192989498335,1,0
+Copiah County,White,42,Male,Less than High School,Unemployed,14945.898730032504,5,6.391072230179391,0,1
+Copiah County,Black,24,Female,Some College,Unemployed,15708.007994447305,0,6.538662644704001,0,1
+Copiah County,White,23,Male,Less than High School,Employed,35379.84545443763,2,4.372505626459647,1,0
+Copiah County,Black,30,Male,High School,Unemployed,14774.259558130227,0,8.493435756986338,0,1
+Copiah County,White,57,Male,Less than High School,Unemployed,14421.143677331898,1,0.9609227538346742,1,0
+Copiah County,White,38,Female,Bachelor's Degree,Employed,72384.35121551201,2,6.4367409596089376,0,1
+Copiah County,White,50,Male,Master's Degree,Employed,72939.87697463426,2,6.221079631814589,1,0
+Copiah County,White,27,Male,High School,Employed,121887.08326675372,1,2.9640914962437606,1,0
+Copiah County,Black,46,Male,Bachelor's Degree,Employed,129382.70072301422,1,2.7732229409068676,1,0
+Copiah County,White,63,Male,High School,Unemployed,15091.834182423787,0,4.995176910111271,1,1
+Copiah County,White,22,Male,Bachelor's Degree,Employed,35081.86818981028,2,4.534388521115218,1,0
+Copiah County,Black,24,Male,Less than High School,Unemployed,14422.153307803825,0,10.818640804157564,0,1
+Copiah County,White,59,Female,Master's Degree,Employed,36260.488926723025,1,7.614047970560027,1,0
+Copiah County,White,46,Female,Some College,Employed,76671.10727406362,2,2.065008913741593,1,0
+Copiah County,White,34,Female,High School,Employed,14351.502542850001,0,3.849368860871529,1,1
+Copiah County,White,54,Female,High School,Employed,15311.752645844654,3,6.024081625413372,1,0
+Copiah County,Other,68,Female,Bachelor's Degree,Employed,75326.53663006984,0,3.028026167605968,0,0
+Copiah County,White,41,Female,Less than High School,Employed,33536.038710113724,1,4.684854455525527,1,0
+Copiah County,White,47,Male,High School,Unemployed,34854.05224535029,3,8.751335404423294,1,1
+Copiah County,Black,28,Male,Less than High School,Employed,14977.044430695069,0,3.165079694016669,1,1
+Copiah County,White,73,Male,High School,Unemployed,72493.30905122457,1,5.439498941564189,0,0
+Copiah County,White,58,Male,High School,Unemployed,78342.73610250211,0,4.315861880342119,1,0
+Copiah County,White,31,Male,Bachelor's Degree,Employed,77624.81528610496,1,4.078319983048869,0,0
+Copiah County,White,27,Male,High School,Unemployed,35591.57818065188,2,8.674998776036986,0,1
+Copiah County,Black,32,Female,Bachelor's Degree,Employed,124528.69451250759,1,5.5061910024623035,0,0
+Copiah County,Black,71,Male,High School,Employed,14867.648312376763,0,3.756786289935316,1,1
+Copiah County,White,52,Female,High School,Employed,35528.40713502834,4,1.8180909155642153,1,1
+Copiah County,Black,33,Female,High School,Unemployed,35159.01154292416,1,5.790396396915917,0,1
+Copiah County,Other,73,Female,Bachelor's Degree,Employed,33467.9558705866,0,3.9109418317515856,0,0
+Copiah County,White,53,Male,High School,Employed,15018.753973155497,2,7.634158450838234,1,0
+Copiah County,Black,33,Male,High School,Unemployed,15459.60542584926,0,8.525980014643087,0,1
+Copiah County,White,25,Female,Bachelor's Degree,Employed,34857.33957158935,0,2.9140519960161537,1,0
+Copiah County,White,32,Female,High School,Unemployed,33431.84802143994,2,4.7809345096873805,1,0
+Copiah County,White,57,Female,High School,Employed,15429.41729907605,1,1.0085392166316498,1,0
+Copiah County,White,48,Male,Less than High School,Employed,14552.045673203962,1,4.640924224974762,1,1
+Copiah County,Black,69,Female,Some College,Unemployed,34155.17292210813,3,2.1208787923016157,1,1
+Copiah County,White,45,Female,Some College,Employed,14497.059530148443,2,8.234191158623588,0,0
+Copiah County,White,34,Male,Bachelor's Degree,Employed,73726.61298653623,3,3.29213216196031,1,0
+Copiah County,Black,55,Male,Bachelor's Degree,Employed,35898.63026991022,1,6.326693723155989,0,0
+Copiah County,White,60,Female,Less than High School,Unemployed,35067.85050826378,1,1.879486272613669,1,0
+Copiah County,Black,39,Female,Some College,Employed,33967.08445952749,5,4.505522117123602,0,0
+Copiah County,White,38,Female,Less than High School,Employed,15566.745117228062,1,6.3785537141458,1,1
+Copiah County,Black,70,Male,Some College,Unemployed,15569.372782427294,2,9.37234321892571,1,0
+Copiah County,White,43,Female,Some College,Employed,36297.02448766102,2,3.137404300824593,1,0
+Copiah County,White,44,Female,Less than High School,Unemployed,14608.194317072308,1,4.2170162773487565,1,0
+Copiah County,Black,30,Male,High School,Unemployed,14926.85901627148,0,3.6592357213872724,1,1
+Copiah County,White,55,Male,Less than High School,Employed,36697.463796493066,2,6.801852019961982,0,0
+Copiah County,Black,32,Male,Some College,Employed,35952.04366708497,3,2.769521435715078,0,1
+Copiah County,Black,62,Male,High School,Unemployed,14290.75113183834,1,5.363103425875594,0,0
+Copiah County,White,68,Male,High School,Employed,14347.806886890738,3,9.221936628289605,0,1
+Copiah County,Black,57,Male,Less than High School,Employed,34873.759818843166,1,5.797077629823179,0,0
+Copiah County,Black,21,Female,High School,Unemployed,36432.27072051546,0,4.563558350286024,1,0
+Copiah County,White,49,Male,Bachelor's Degree,Employed,125483.77247440892,1,1.9243929286862649,0,0
+Copiah County,Black,27,Female,High School,Employed,34992.34377812001,0,9.650366644053495,0,0
+Copiah County,White,55,Male,High School,Employed,33619.15794984821,1,3.1377637070028386,1,0
+Copiah County,Black,70,Female,High School,Employed,35548.730366535034,1,6.165068965626256,0,0
+Copiah County,Black,34,Female,Some College,Employed,15483.154740900336,3,4.309770194061061,0,1
+Copiah County,White,47,Male,Some College,Unemployed,34581.47002627647,2,5.966657910194339,1,0
+Copiah County,White,63,Male,High School,Employed,15413.417776387992,3,2.771756547562981,0,1
+Copiah County,Black,62,Female,Some College,Employed,15696.714980851217,1,9.38384061700139,0,0
+Copiah County,White,47,Male,High School,Employed,33963.18260694691,1,5.260785048616897,1,0
+Copiah County,White,70,Female,Some College,Unemployed,75174.97223396057,1,7.085788076597295,0,0
+Copiah County,Black,31,Female,Some College,Unemployed,34254.98285329602,2,7.379354051936385,0,0
+Copiah County,White,63,Female,Some College,Employed,36024.99046661844,2,4.993795596364391,1,0
+Copiah County,Black,59,Male,High School,Employed,35271.57678058405,5,7.031825961134792,0,1
+Copiah County,Black,50,Female,High School,Employed,35471.03846142606,1,5.91304922203026,0,0
+Copiah County,White,55,Male,Some College,Employed,36042.69955865562,2,4.5254191267440955,1,0
+Copiah County,Black,33,Male,High School,Employed,14843.95570899368,0,4.607891426993305,0,1
+Copiah County,White,45,Male,Some College,Employed,36452.81523942465,0,3.6251433485493876,1,0
+Copiah County,Black,37,Female,Some College,Employed,35115.601035361484,1,7.190974575769293,1,0
+Copiah County,White,67,Female,Some College,Unemployed,72434.6611712651,1,2.8886135886457964,0,1
+Copiah County,White,52,Male,High School,Employed,35685.64691359081,4,4.006856552931763,0,1
+Copiah County,White,45,Male,Bachelor's Degree,Employed,36026.41472653389,2,4.3260531791408745,0,0
+Copiah County,White,72,Male,Some College,Employed,122709.52096334407,0,3.7994337833191,1,0
+Copiah County,Black,34,Female,Master's Degree,Employed,77678.84442749064,4,7.856612676857008,0,1
+Copiah County,Black,26,Male,High School,Unemployed,130076.79068457206,1,4.204440910834439,1,0
+Copiah County,White,43,Male,Some College,Employed,14665.356731066713,4,3.7830385323932982,1,0
+Copiah County,White,36,Male,Some College,Unemployed,36692.325154503276,1,2.746187945897276,1,0
+Copiah County,Black,37,Female,Bachelor's Degree,Employed,14461.067292073136,4,7.663602324662029,0,1
+Copiah County,Black,51,Male,Bachelor's Degree,Employed,72765.11751301867,3,3.7289770298032034,1,0
+Copiah County,White,50,Female,Bachelor's Degree,Employed,121052.81049047533,1,1.0859395304685147,1,0
+Copiah County,White,35,Female,Some College,Employed,36378.96398502754,1,4.246496303651534,1,0
+Copiah County,White,70,Female,High School,Unemployed,35540.02393313737,2,5.133403756510424,1,0
+Copiah County,White,40,Male,Less than High School,Unemployed,33782.36499127795,2,7.520044826262804,0,0
+Copiah County,Other,24,Female,Bachelor's Degree,Employed,34791.13196428922,1,7.425140907658761,0,0
+Copiah County,Black,18,Female,Less than High School,Unemployed,35403.54308774431,2,7.4985120942176575,1,0
+Copiah County,White,67,Male,Some College,Employed,33542.12429746284,2,5.392558998489978,1,0
+Copiah County,Black,53,Female,High School,Unemployed,15573.624552611009,0,7.055079138681911,0,0
+Copiah County,Black,68,Male,Some College,Employed,77277.0265158115,1,7.430416217229688,1,0
+Copiah County,White,44,Female,Bachelor's Degree,Employed,35018.223707518235,1,5.396091299923493,0,0
+Copiah County,Black,60,Male,Bachelor's Degree,Employed,78503.44961444377,0,3.8544027799774914,0,0
+Copiah County,Black,69,Male,High School,Employed,34712.163427462845,3,5.532062309433212,0,0
+Copiah County,White,64,Female,High School,Employed,36694.38611662774,3,0.9455870325083884,1,0
+Copiah County,Black,29,Male,Less than High School,Unemployed,35587.719995812695,0,4.927107788626256,0,0
+Copiah County,White,46,Male,Some College,Unemployed,35471.349456388794,0,4.254411812737994,1,0
+Copiah County,White,41,Female,PhD,Employed,14498.932342943675,3,10.721461166512686,0,0
+Copiah County,White,33,Female,Some College,Employed,36336.74715406625,2,4.506952130531191,1,1
+Copiah County,White,49,Male,Bachelor's Degree,Employed,14891.234531880922,1,6.01289676309308,1,1
+Copiah County,Black,73,Female,High School,Employed,72466.75054336859,3,5.900893203778535,0,0
+Copiah County,Black,20,Male,High School,Unemployed,14268.911279963639,2,4.72210781047073,0,1
+Copiah County,Black,65,Male,Some College,Employed,15089.633525457573,1,5.543838440800419,0,0
+Copiah County,White,21,Male,Less than High School,Unemployed,35095.898677429366,1,4.837615171403628,1,0
+Copiah County,White,54,Female,Master's Degree,Employed,76645.15216776868,2,3.2657458223475118,1,0
+Copiah County,Black,40,Female,Less than High School,Unemployed,15585.387079526703,3,3.8585623456166043,1,1
+Copiah County,White,32,Male,Bachelor's Degree,Employed,33527.9230462506,1,5.018790621743366,0,0
+Copiah County,White,37,Female,Less than High School,Unemployed,15347.244735510543,4,4.1624151671161425,1,0
+Copiah County,White,52,Female,Less than High School,Unemployed,33905.941804341535,3,4.863629602379294,1,0
+Copiah County,White,64,Female,Less than High School,Unemployed,36253.61968605007,1,10.943564165441922,0,0
+Copiah County,White,65,Male,Less than High School,Employed,77392.97635396241,3,4.369957835953689,1,0
+Copiah County,White,54,Male,Some College,Employed,15061.190632478316,0,6.652495214155509,0,0
+Copiah County,White,26,Female,Bachelor's Degree,Employed,76576.82098967483,0,2.998349103535431,1,0
+Copiah County,Black,19,Male,Master's Degree,Employed,122679.37641479685,0,3.8407026478534156,1,0
+Copiah County,White,22,Female,Master's Degree,Employed,74783.75924199611,3,4.784840494377468,1,0
+Copiah County,White,50,Female,High School,Unemployed,15482.455346565706,2,4.5368869473545335,0,0
+Copiah County,White,26,Male,High School,Employed,34857.42819010625,0,5.109564333979897,1,0
+Copiah County,Black,54,Male,Less than High School,Unemployed,14786.697397988162,1,7.003750632520407,0,1
+Copiah County,White,29,Male,Less than High School,Unemployed,34979.74356537605,1,3.6411830009999915,0,0
+Copiah County,White,71,Male,Some College,Employed,36148.872383530266,1,3.8229171713892893,0,0
+Copiah County,White,24,Male,Some College,Employed,34423.22816579806,1,1.0816531771933309,1,0
+Copiah County,Black,75,Male,Bachelor's Degree,Employed,72553.21194851807,1,5.687474268800367,0,0
+Copiah County,White,21,Female,Bachelor's Degree,Employed,76590.10515248084,1,2.786936923254734,1,0
+Copiah County,White,36,Male,High School,Employed,15488.967319062123,1,0.9978905520555126,1,1
+Copiah County,White,57,Male,High School,Unemployed,120007.96848154416,0,4.388520363288481,1,0
+Copiah County,White,54,Female,Some College,Employed,14609.811169133916,4,5.690466325813801,1,0
+Copiah County,Black,69,Female,Less than High School,Unemployed,14462.95798464149,3,2.0688542189623513,1,1
+Copiah County,White,56,Male,Some College,Unemployed,34467.794940537584,4,10.523239230657435,1,1
+Copiah County,White,52,Male,Bachelor's Degree,Employed,124379.38723631765,3,7.580220070387839,1,1
+Copiah County,Black,20,Male,High School,Employed,15373.239505444959,0,2.0912865394447437,1,0
+Copiah County,White,26,Male,PhD,Employed,76133.60688661256,2,1.9471132530877013,1,0
+Copiah County,Black,30,Female,High School,Unemployed,35423.24998617451,1,6.158766996712296,0,0
+Copiah County,Black,52,Male,Some College,Employed,73892.8120995724,2,9.24035347936961,0,1
+Copiah County,Black,72,Female,High School,Unemployed,36195.06643579666,1,7.050084557704662,0,0
+Copiah County,Black,75,Male,High School,Employed,34899.50508589357,1,5.50834772406529,0,0
+Copiah County,White,25,Male,High School,Employed,78593.28703511365,3,6.402362994707086,1,0
+Copiah County,White,60,Male,Some College,Unemployed,15201.213207443605,0,4.820780064971736,1,0
+Copiah County,Black,20,Male,Some College,Unemployed,33691.92659547576,2,4.686518510399854,0,0
+Copiah County,Black,39,Female,High School,Employed,35616.62146726401,1,5.448930169865717,0,0
+Copiah County,White,44,Male,Master's Degree,Employed,122813.80019289623,1,3.054535765912945,1,0
+Copiah County,White,36,Male,Bachelor's Degree,Employed,76397.45397514573,1,4.142051489473826,1,0
+Copiah County,Black,54,Male,High School,Employed,33493.74401856842,3,9.033175657855711,1,1
+Copiah County,White,66,Female,Bachelor's Degree,Employed,120936.0179646995,0,4.0096744466394245,1,0
+Copiah County,White,59,Female,Less than High School,Employed,15533.60588835868,1,4.726495775197938,1,1
+Copiah County,White,18,Male,High School,Employed,14590.769335535271,1,4.11613823232756,1,0
+Copiah County,Black,34,Male,High School,Unemployed,15505.56168786441,2,4.6743664290049916,0,1
+Copiah County,White,27,Female,Some College,Employed,34227.46630959043,0,4.152750190481973,1,0
+Copiah County,Black,60,Female,High School,Employed,15214.322865088061,3,7.81877655408086,0,0
+Copiah County,White,72,Female,High School,Employed,76456.12930132373,3,1.087345997747347,1,0
+Copiah County,White,46,Male,Less than High School,Employed,15018.982129717577,4,2.782512566487596,1,1
+Copiah County,White,48,Male,Some College,Unemployed,34318.58736843856,1,5.809279621260311,0,0
+Copiah County,Black,60,Male,Some College,Employed,33994.255317298834,0,5.536168225488707,0,0
+Copiah County,White,67,Female,Some College,Employed,71498.92015921819,1,4.339754894622851,1,0
+Copiah County,White,53,Female,PhD,Employed,34313.81240434253,2,6.452807224057177,0,0
+Copiah County,Black,62,Male,High School,Unemployed,35536.06976685949,2,6.661118278801219,0,0
+Copiah County,White,66,Female,Some College,Employed,130478.81023060603,3,6.191980855241015,0,0
+Copiah County,Black,75,Male,High School,Employed,77784.0336169729,2,4.253777760160973,1,0
+Copiah County,Black,30,Male,Less than High School,Employed,35931.22671787356,2,5.055200811599462,0,0
+Copiah County,White,69,Male,High School,Unemployed,36009.56570138654,1,6.035580694027208,1,0
+Copiah County,Black,44,Male,High School,Unemployed,76237.38677606996,2,3.7934818327203614,1,0
+Copiah County,Black,29,Female,PhD,Employed,34161.00400148101,1,5.5117233213670795,0,0
+Copiah County,White,42,Female,High School,Unemployed,36425.1826074704,0,3.238329454771996,1,1
+Copiah County,White,74,Male,Less than High School,Employed,35597.56309167042,3,4.320334445730665,1,1
+Copiah County,White,55,Male,Some College,Employed,35211.542208431536,1,3.079860874363961,1,0
+Copiah County,White,60,Male,High School,Unemployed,33638.46314224718,2,4.8390297910487,1,0
+Copiah County,White,47,Male,High School,Unemployed,14920.583315709637,3,3.879367659690129,0,1
+Copiah County,White,25,Female,Master's Degree,Employed,74702.68703401444,1,4.180764543096192,0,1
+Copiah County,White,26,Male,Less than High School,Employed,36275.972633329344,1,5.397110259952578,0,0
+Copiah County,White,19,Female,Less than High School,Employed,35163.26877065726,2,5.387086424265117,1,0
+Copiah County,Black,70,Male,Less than High School,Unemployed,14820.600823455614,2,8.447800873372199,0,1
+Copiah County,White,62,Female,Some College,Employed,130960.00410638323,0,3.085218987692573,1,0
+Copiah County,Black,64,Female,Some College,Employed,33637.522076642104,2,2.7504839789970292,1,0
+Copiah County,Black,73,Male,High School,Unemployed,74419.11321233958,2,7.458605942551382,0,0
+Copiah County,White,50,Female,Less than High School,Unemployed,14313.037012757106,2,6.478265026232496,1,1
+Copiah County,White,73,Female,Less than High School,Unemployed,15359.856181150395,3,6.1277148715915075,1,0
+Copiah County,Black,57,Male,Master's Degree,Employed,36463.26793269703,1,0.9018394103233259,1,0
+Copiah County,White,66,Male,Some College,Employed,14670.055994325734,1,5.521765851439239,1,0
+Copiah County,Black,74,Female,Some College,Unemployed,77687.5625759934,4,4.130801415286445,1,1
+Copiah County,White,63,Female,High School,Employed,14688.327345692847,3,4.505061583846219,1,1
+Copiah County,Black,73,Female,Bachelor's Degree,Employed,130134.62702054893,0,4.660808051417499,1,0
+Copiah County,White,65,Male,High School,Employed,76904.71427697588,5,5.048733789366587,1,0
+Copiah County,Black,68,Female,Some College,Unemployed,36067.173718945036,6,6.230274237231232,0,0
+Copiah County,Black,43,Female,Bachelor's Degree,Employed,71385.04916700341,3,6.182353511403122,0,0
+Copiah County,Black,50,Male,Some College,Employed,36619.83624975909,2,6.613977033244784,0,0
+Copiah County,White,25,Male,Master's Degree,Employed,76700.03244052743,1,9.381922598425565,0,1
+Copiah County,Black,56,Male,High School,Unemployed,73535.633215396,2,7.579598539994881,0,1
+Copiah County,White,32,Male,Some College,Unemployed,77470.45998644135,1,3.8603197585274143,1,0
+Copiah County,Black,39,Female,High School,Unemployed,34235.32419445225,1,2.09859656204721,1,0
+Copiah County,White,23,Male,High School,Unemployed,15559.13075934919,2,1.029926579809443,1,0
+Copiah County,White,33,Male,Some College,Employed,14418.870585617906,2,8.558757456790685,0,0
+Copiah County,Black,49,Male,Less than High School,Employed,35712.90092111278,1,5.157612892300344,1,0
+Copiah County,White,71,Female,Some College,Employed,15061.047714967364,2,6.081970324002566,1,0
+Copiah County,Black,56,Female,Master's Degree,Employed,71974.0085264658,2,3.674939814262474,1,0
+Copiah County,Black,54,Female,High School,Unemployed,14612.840742388258,2,2.92062948183566,0,0
+Copiah County,Black,42,Female,Less than High School,Unemployed,118905.05045346644,2,9.530404735363451,0,0
+Copiah County,White,73,Female,Master's Degree,Employed,34890.68787912577,0,7.5903834294065335,0,1
+Copiah County,White,66,Female,Some College,Unemployed,14701.89789114,0,4.378408443801956,1,1
+Copiah County,White,21,Female,Master's Degree,Employed,75737.68113223318,3,5.871717269600113,1,0
+Copiah County,White,32,Male,Less than High School,Employed,34290.332326980155,3,5.392046555177114,0,0
+Copiah County,White,70,Female,Some College,Unemployed,122498.9888938373,3,6.157366351196715,1,0
+Copiah County,White,60,Female,Bachelor's Degree,Employed,35851.17619556061,3,4.235849042833319,0,0
+Copiah County,Black,27,Male,Some College,Employed,14322.21425396753,1,3.0015822558631156,1,1
+Copiah County,Black,71,Male,Less than High School,Employed,15604.34249278798,1,6.092284661551631,0,1
+Copiah County,White,21,Male,Some College,Employed,36232.923560369134,1,4.992517693818864,1,0
+Copiah County,White,19,Male,Bachelor's Degree,Employed,76258.53512419805,0,1.8780971951192178,1,0
+Copiah County,Black,45,Male,Some College,Employed,35326.27549537585,2,3.133471269156903,1,0
+Copiah County,White,48,Female,Less than High School,Employed,129903.78122674565,1,3.824617889952685,0,0
+Copiah County,White,64,Male,High School,Employed,72639.97634646535,0,3.6194527731451633,1,1
+Copiah County,White,50,Male,Bachelor's Degree,Employed,119737.11452738535,1,3.0872833775443005,0,0
+Copiah County,White,50,Female,High School,Employed,34088.28559468338,2,3.741688543525639,1,0
+Copiah County,White,48,Male,High School,Employed,36031.02397545067,0,3.2642751506117484,0,0
+Copiah County,White,57,Male,Some College,Unemployed,71510.02700044862,1,5.453928577002587,1,0
+Copiah County,White,44,Male,High School,Employed,15124.210252625233,2,2.1659457560881794,1,1
+Copiah County,Other,52,Female,Less than High School,Employed,36734.03130666959,1,2.922095220153267,1,0
+Copiah County,White,62,Male,High School,Employed,15533.544140756308,0,6.321639263140415,0,1
+Copiah County,Black,47,Male,Less than High School,Unemployed,35075.05991165256,6,6.513982275105271,0,0
+Copiah County,Black,58,Female,High School,Unemployed,14345.461363929962,0,6.89945780764424,0,1
+Copiah County,Black,22,Female,Some College,Unemployed,36159.80730034998,0,4.373323855234936,1,0
+Copiah County,Black,72,Female,High School,Employed,35346.42477862023,2,7.649067967924955,1,0
+Copiah County,White,34,Female,High School,Unemployed,33652.26548970848,4,4.282407564373888,1,0
+Copiah County,White,28,Male,Master's Degree,Employed,33578.500496881745,1,7.671118227311338,0,0
+Copiah County,White,67,Male,Some College,Employed,78072.20114577444,2,1.9540390914407701,1,0
+Copiah County,Black,25,Male,Less than High School,Employed,35592.20092028328,2,4.280909337213486,1,0
+Copiah County,White,53,Female,High School,Employed,77469.65099487566,4,0.9633844010312556,1,0
+Copiah County,White,74,Male,High School,Unemployed,15568.468350423402,2,0.9338985493372185,1,1
+Copiah County,White,40,Male,High School,Employed,15107.658528072485,2,1.01136025249167,1,1
+Copiah County,White,71,Male,Some College,Employed,125218.07939693802,1,7.610616683825093,0,0
+Copiah County,White,38,Female,Some College,Employed,14895.641115481485,1,6.235235756009969,1,0
+Copiah County,Black,67,Female,High School,Unemployed,73627.0994084334,1,3.042036702053619,1,0
+Copiah County,White,59,Female,High School,Employed,14901.893941288066,3,6.436047091279076,0,1
+Copiah County,White,69,Male,High School,Employed,128423.49569662695,2,4.092005781359336,1,0
+Copiah County,White,35,Male,High School,Employed,35356.732008552965,0,3.2940323100625584,1,0
+Copiah County,White,39,Female,Less than High School,Employed,15588.784934932268,1,4.640084015236524,1,0
+Copiah County,Black,18,Female,Less than High School,Employed,34801.83005032715,2,4.014663721890989,1,0
+Copiah County,Black,67,Male,Some College,Employed,15160.63436807813,2,3.2264238431567733,1,0
+Copiah County,White,18,Female,High School,Employed,35459.57643582196,1,6.288922341305046,1,0
+Copiah County,White,29,Female,Bachelor's Degree,Employed,75687.72871729745,1,6.236418889194321,1,0
+Copiah County,White,21,Male,Some College,Employed,76519.75329814137,0,3.1214904503922654,1,0
+Copiah County,Black,32,Female,Less than High School,Unemployed,34081.01713931182,1,5.831389381463707,0,0
+Copiah County,White,67,Male,Some College,Unemployed,125154.54721932237,2,4.793591844264494,1,0
+Copiah County,White,66,Male,High School,Employed,14406.337204212521,2,6.371233386574216,1,0
+Copiah County,White,34,Female,Some College,Unemployed,34595.78964675684,1,6.372136073615017,0,0
+Copiah County,White,49,Female,High School,Employed,14981.500602931896,1,4.293657854864083,1,0
+Copiah County,White,42,Female,Master's Degree,Employed,76141.68194659104,0,1.0826481105112942,1,0
+Copiah County,White,62,Female,High School,Employed,130631.63815732753,0,4.009073919088751,1,0
+Copiah County,White,43,Female,Master's Degree,Employed,75754.88299911267,1,4.0012130357497595,1,0
+Copiah County,White,20,Female,High School,Unemployed,15365.390874264838,0,7.417613250553486,0,1
+Copiah County,Black,48,Male,Bachelor's Degree,Employed,75046.99544621402,1,6.179956716933319,1,0
+Copiah County,White,52,Male,Some College,Unemployed,126676.30039220412,2,4.161573501806163,1,0
+Copiah County,Black,33,Male,Some College,Employed,71781.9916210033,2,8.473268271097762,0,1
+Copiah County,White,36,Female,Bachelor's Degree,Employed,121929.89476052308,2,3.2340032050905396,1,0
+Copiah County,Black,28,Female,Some College,Employed,14792.779639807708,2,2.902797094110922,1,1
+Copiah County,White,45,Male,Less than High School,Employed,34903.7267425228,2,5.8506995431679325,1,0
+Copiah County,Black,21,Male,Master's Degree,Employed,71592.36559126787,1,3.6751855518726955,1,0
+Copiah County,Black,67,Female,Some College,Employed,33740.08434143661,0,6.093936169195409,0,0
+Copiah County,White,75,Female,Less than High School,Employed,14665.221461686957,3,5.44313072855609,1,0
+Copiah County,White,52,Female,Some College,Employed,78536.49518175788,2,5.958717621758953,1,0
+Copiah County,White,19,Male,Some College,Employed,34409.714524860676,1,6.051173561649092,1,0
+Copiah County,Black,58,Female,High School,Unemployed,34937.143703392285,3,7.658466003405255,0,0
+Copiah County,White,58,Female,High School,Employed,14544.14656910759,1,10.181666521138022,0,0
+Copiah County,Black,37,Male,High School,Employed,35387.73024876518,3,4.53050024993905,0,0
+Copiah County,White,37,Female,Less than High School,Employed,73355.1241163698,2,1.8149392754996858,1,0
+Copiah County,White,50,Female,High School,Employed,14560.48886765764,2,8.516160897055453,0,1
+Copiah County,White,62,Male,High School,Unemployed,15024.858942668969,1,4.860190641411263,1,0
+Copiah County,White,42,Male,Less than High School,Unemployed,33269.27029706147,3,0.925412102530377,1,1
+Copiah County,White,42,Female,High School,Employed,33276.82411427228,0,4.017794608043843,1,0
+Copiah County,Black,72,Female,Bachelor's Degree,Employed,72893.01606826393,0,2.1079974212394443,1,0
+Copiah County,White,54,Female,Some College,Unemployed,119209.01703126026,4,4.715821027496843,1,0
+Copiah County,White,58,Male,Some College,Unemployed,14412.038631196037,2,3.0737342854914003,1,1
+Copiah County,Black,43,Female,Some College,Unemployed,34436.01227268563,4,5.502416957992522,0,1
+Copiah County,White,61,Male,PhD,Employed,36059.049878529346,3,3.6413453769348862,1,0
+Copiah County,White,42,Male,Bachelor's Degree,Employed,35252.17025179255,1,3.0188127789408887,0,1
+Copiah County,Black,24,Male,Less than High School,Unemployed,75095.00794467313,2,2.0162540486440426,1,0
+Copiah County,Black,40,Male,High School,Unemployed,122418.61029010151,5,6.164915881797849,0,0
+Copiah County,Black,57,Male,Bachelor's Degree,Employed,15647.630579149225,2,10.452182667445324,0,1
+Copiah County,Other,74,Female,Some College,Unemployed,34639.55264433017,3,7.666192911247549,1,0
+Copiah County,White,27,Male,Some College,Unemployed,33554.8246837852,2,6.019560417961435,1,0
+Copiah County,White,29,Male,Less than High School,Unemployed,35409.7328064123,0,3.858365178352997,1,0
+Copiah County,Black,75,Female,High School,Unemployed,72103.78795107451,1,2.1180744779074816,1,0
+Copiah County,Black,45,Female,Less than High School,Employed,34458.28099980592,0,6.679165151766904,0,0
+Copiah County,Black,50,Male,High School,Employed,15011.117908076714,1,8.890148557270145,0,1
+Copiah County,Black,46,Female,Less than High School,Employed,15561.333787027763,2,4.578456381342266,1,0
+Copiah County,White,44,Male,Master's Degree,Employed,74951.59935255088,0,7.240561189464732,0,0
+Copiah County,White,61,Female,Some College,Unemployed,35707.905681110824,1,3.277589048806755,1,0
+Copiah County,White,74,Female,High School,Unemployed,15739.225258498605,2,8.53756819281953,0,0
+Copiah County,Black,51,Male,Some College,Employed,72236.16839923486,4,8.313558729749918,0,0
+Copiah County,Black,28,Male,Less than High School,Employed,34211.56033931832,3,5.890743533297124,0,0
+Copiah County,White,51,Male,Bachelor's Degree,Employed,74209.32056698235,2,9.346588640141691,0,1
+Copiah County,White,75,Female,Some College,Unemployed,34726.39862488591,2,7.450299268273738,0,1
+Copiah County,White,65,Male,Less than High School,Employed,14866.531612898318,4,4.750242898164595,1,1
+Copiah County,Black,59,Male,High School,Unemployed,15611.416503834831,5,8.078762663529792,0,1
+Copiah County,White,55,Female,PhD,Employed,35749.11425563399,1,5.214595922700063,1,0
+Copiah County,White,27,Male,Less than High School,Unemployed,35377.66824931746,1,4.128157901374185,0,0
+Copiah County,Black,55,Female,Some College,Unemployed,14714.059076794174,1,8.603881014502697,0,0
+Copiah County,White,33,Female,Bachelor's Degree,Employed,77428.4278816597,0,5.454865280663195,0,0
+Copiah County,White,46,Female,Bachelor's Degree,Employed,78412.95383613741,2,1.0475793833391538,1,0
+Copiah County,White,25,Male,Bachelor's Degree,Employed,77408.98711912669,0,4.0434832420091205,1,0
+Copiah County,White,61,Male,PhD,Employed,33255.47786817016,1,8.178753193974964,0,0
+Copiah County,White,34,Male,Some College,Employed,35477.40479564192,1,2.9517600374566744,1,0
+Copiah County,White,18,Female,Master's Degree,Employed,71633.51536081576,2,5.697277187401389,1,0
+Copiah County,White,26,Female,Less than High School,Employed,73182.05415250291,1,5.8271672143815145,1,0
+Copiah County,White,67,Male,Master's Degree,Employed,119494.05875434713,1,5.257846110464369,1,0
+Copiah County,Other,47,Male,Bachelor's Degree,Employed,75778.4658971204,1,4.514393488629756,1,0
+Copiah County,White,32,Male,Less than High School,Unemployed,35653.06469722412,0,5.5392871686083,0,0
+Copiah County,Black,42,Female,Some College,Unemployed,14421.731457098858,1,6.364403698830454,1,1
+Copiah County,White,66,Male,Less than High School,Employed,14825.758324567469,2,4.54072880231897,1,0
+Copiah County,White,55,Female,Some College,Unemployed,14934.354763433312,2,8.568736934417611,0,0
+Copiah County,Black,31,Female,Less than High School,Employed,34541.68557616321,3,6.244389431256029,0,0
+Copiah County,White,29,Female,High School,Unemployed,72157.68750363894,1,4.974173829087325,1,0
+Copiah County,White,69,Male,Less than High School,Employed,14878.421685281211,1,4.597834160651002,1,0
+Copiah County,White,52,Female,High School,Employed,128139.72559760523,0,4.991615875116833,1,0
+Copiah County,White,25,Male,Some College,Unemployed,33498.52682586639,1,0.9946943541561132,1,0
+Copiah County,White,72,Female,Some College,Employed,14370.270021122855,0,7.4771229918560245,1,1
+Copiah County,White,45,Female,Bachelor's Degree,Employed,14782.156937753976,3,7.894162638780757,0,1
+Copiah County,White,35,Male,Less than High School,Unemployed,78312.94283714193,4,2.9391028406384243,1,0
+Copiah County,White,36,Male,High School,Unemployed,35590.004263530194,0,5.115850098052217,1,0
+Copiah County,Black,71,Female,High School,Employed,76340.02467504423,4,5.135093650867644,0,1
+Copiah County,White,25,Male,Less than High School,Employed,14792.879986256796,0,4.545304009772045,1,1
+Copiah County,White,73,Female,Less than High School,Unemployed,15140.491186812807,4,5.849535137551765,0,1
+Copiah County,White,51,Female,High School,Employed,71325.98388020806,3,4.10068793257139,1,0
+Copiah County,Black,31,Male,Less than High School,Unemployed,15204.144069614313,2,10.006272517160175,1,0
+Copiah County,White,26,Male,Bachelor's Degree,Employed,78099.65210682177,1,5.356489841188322,1,0
+Copiah County,Black,56,Female,High School,Employed,35394.007139206864,4,8.253909810590311,0,0
+Copiah County,White,46,Male,High School,Unemployed,36307.94507713221,2,4.66293442708143,1,0
+Copiah County,White,51,Female,High School,Employed,76679.7979159957,2,3.656454997920344,1,0
+Copiah County,White,44,Female,Some College,Unemployed,33671.95445741291,5,4.113935422565053,0,0
+Copiah County,White,66,Male,Some College,Employed,15603.679960928763,5,4.526511310541622,0,0
+Copiah County,Other,49,Male,Bachelor's Degree,Employed,14349.66576653366,0,5.085775581273464,1,1
+Copiah County,White,56,Male,Less than High School,Unemployed,15050.951208821643,1,7.616322337994942,0,0
+Copiah County,Black,52,Male,High School,Unemployed,33747.4799332771,3,6.090569013451056,0,0
+Copiah County,White,30,Female,Some College,Employed,14267.559916096356,2,4.888169926206522,0,0
+Copiah County,White,66,Male,Some College,Unemployed,34727.11991044674,3,2.0573152873769414,1,0
+Copiah County,Black,26,Female,Less than High School,Employed,73462.80530740616,1,6.941554046688124,0,0
+Copiah County,White,75,Female,Less than High School,Employed,34951.00172829161,2,6.054740147179123,1,0
+Copiah County,White,29,Male,Bachelor's Degree,Employed,35270.19960357093,3,5.441464808776525,1,1
+Copiah County,White,69,Female,Less than High School,Unemployed,14315.60860846342,4,5.86332316536093,1,1
+Copiah County,White,18,Female,Less than High School,Unemployed,14434.504942685619,0,2.1844762255295658,1,0
+Copiah County,Black,32,Male,Some College,Unemployed,125733.02995563032,0,9.729631155520915,1,0
+Copiah County,Black,37,Female,High School,Unemployed,14764.751029758987,4,5.6349493617471555,0,0
+Copiah County,Black,59,Male,Less than High School,Employed,15343.760231324171,2,2.7416167805250993,1,0
+Copiah County,Black,38,Male,High School,Unemployed,15228.43747288791,2,3.6806224011019415,0,1
+Copiah County,Black,22,Female,Less than High School,Employed,15518.40654448486,1,6.32551055591217,0,1
+Copiah County,White,18,Female,Some College,Unemployed,35673.72489334228,0,1.8377771843023714,0,0
+Copiah County,White,69,Male,Some College,Unemployed,34754.75877086551,4,8.29281083746617,0,0
+Copiah County,Black,27,Female,Bachelor's Degree,Employed,127162.08277993041,1,4.571188648460229,0,0
+Copiah County,White,30,Male,High School,Employed,14663.071761383126,1,4.818975630293761,0,0
+Copiah County,Black,31,Male,High School,Unemployed,14709.470248167318,2,4.275900248775564,1,1
+Copiah County,White,44,Female,High School,Employed,36011.44805972278,3,7.237235097177321,0,1
+Copiah County,Black,48,Female,Bachelor's Degree,Employed,124330.24395501976,1,6.377362179106724,0,0
+Copiah County,White,35,Male,Some College,Employed,36044.33119181423,2,5.7382257297280805,1,0
+Copiah County,White,27,Female,Some College,Employed,36128.478307838974,1,2.770898896572994,1,0
+Copiah County,White,27,Male,Less than High School,Unemployed,36251.46818181449,4,2.07869486614566,1,1
+Copiah County,Black,69,Female,Some College,Employed,36458.223325444225,2,4.103154277423907,0,0
+Copiah County,White,58,Female,Master's Degree,Employed,74482.38915384971,3,7.528460818937875,0,0
+Copiah County,Black,56,Female,High School,Employed,14728.300227481706,2,5.235071043803886,0,0
+Copiah County,Black,19,Male,Some College,Unemployed,15123.29811989117,0,8.485569488615758,0,0
+Copiah County,White,25,Male,High School,Unemployed,34549.10348203169,0,2.869220743542784,1,0
+Copiah County,White,71,Male,Bachelor's Degree,Employed,75758.05625100175,0,0.9354879087559446,1,0
+Copiah County,White,27,Female,Less than High School,Unemployed,15308.378793965736,1,4.200491801312687,0,0
+Copiah County,White,20,Female,Some College,Unemployed,35659.41756472248,2,4.2454677914138115,1,0
+Copiah County,White,71,Female,Less than High School,Employed,74059.1466526509,2,4.392404113600539,1,0
+Copiah County,Black,19,Male,High School,Employed,33834.010705945635,3,2.947570606146856,1,0
+Copiah County,Black,41,Male,Less than High School,Unemployed,34756.85268461773,1,5.846421702951339,0,0
+Copiah County,Black,43,Female,Less than High School,Unemployed,33749.07950428668,3,6.331695552890396,0,0
+Copiah County,Black,28,Female,High School,Unemployed,36365.33962314333,2,2.904482124151811,1,1
+Copiah County,White,69,Male,Less than High School,Unemployed,34460.571112582504,0,2.172302930241426,1,1
+Copiah County,White,74,Female,Master's Degree,Employed,33790.60911528163,1,7.501777852580216,0,0
+Copiah County,White,55,Male,Less than High School,Unemployed,71440.85819929313,1,2.957396416425011,1,0
+Copiah County,White,60,Male,Some College,Employed,35510.37835200269,2,6.301045281349797,1,0
+Copiah County,White,58,Male,Less than High School,Employed,15205.353476182116,1,6.305451448901619,1,1
+Copiah County,Black,56,Male,Some College,Unemployed,14760.906249871938,3,7.364998190137492,0,1
+Copiah County,White,59,Female,Some College,Unemployed,33500.991610966776,1,6.483063488015481,1,0
+Copiah County,Black,65,Male,Bachelor's Degree,Employed,74322.21671171424,3,8.008403795916571,0,0
+Copiah County,Black,60,Male,Some College,Employed,73584.13121297545,1,7.457040452550838,0,0
+Copiah County,White,34,Female,High School,Employed,35619.92223907253,3,0.9640099202061224,1,0
+Copiah County,Other,45,Female,Bachelor's Degree,Employed,75793.34437089517,2,7.553732519894681,0,0
+Copiah County,Black,70,Female,Master's Degree,Employed,123307.42160246924,1,8.800563021721494,0,0
+Copiah County,Black,33,Female,Master's Degree,Employed,72884.19415691242,0,7.217340242368477,0,0
+Copiah County,Black,50,Female,Bachelor's Degree,Employed,36708.12588154457,1,7.567534766986968,0,0
+Copiah County,White,62,Female,Less than High School,Employed,14931.002431794172,1,6.427801347500587,1,1
+Copiah County,White,60,Female,Some College,Employed,76412.05676835177,1,1.927725455036166,1,0
+Copiah County,White,31,Female,High School,Unemployed,33741.93538652426,3,6.540074360460967,1,0
+Copiah County,Black,73,Female,High School,Employed,14978.384549489096,4,7.6308500057125785,0,1
+Copiah County,White,36,Male,Some College,Unemployed,33346.37851954313,2,6.088125465747944,1,0
+Copiah County,White,20,Male,Some College,Employed,35019.092912686574,1,6.158204654603759,1,0
+Copiah County,White,34,Male,Master's Degree,Employed,78480.13055338277,1,5.938134626373984,0,0
+Copiah County,White,66,Male,High School,Unemployed,14826.3100694787,2,5.751852926037678,1,1
+Copiah County,Black,27,Female,Some College,Employed,71542.47009431184,0,1.9314658181479665,1,0
+Copiah County,White,23,Female,High School,Employed,14296.433686379014,2,4.138014764861631,1,1
+Copiah County,Black,18,Female,Less than High School,Employed,34607.95365981404,1,5.25237452943768,1,0
+Copiah County,White,48,Male,Master's Degree,Employed,72450.18702347396,2,3.1749474262355095,1,0
+Copiah County,White,46,Female,Bachelor's Degree,Employed,71425.1407224614,1,6.347541771353465,1,0
+Copiah County,Black,53,Female,Master's Degree,Employed,76921.60210462632,0,3.6729648824389525,1,0
+Copiah County,Black,50,Female,Less than High School,Unemployed,14937.784513322835,1,4.994420304702581,0,0
+Copiah County,White,27,Female,Bachelor's Degree,Employed,73419.3357897949,1,1.8230235040066578,0,0
+Copiah County,White,73,Male,Less than High School,Unemployed,130001.039787706,1,3.0297173293942414,0,0
+Copiah County,White,40,Male,Some College,Employed,72121.04220150394,1,4.941530501373378,1,0
+Copiah County,Black,55,Male,Bachelor's Degree,Employed,36595.71590134362,2,7.542785855861619,1,0
+Copiah County,Black,54,Male,Some College,Unemployed,34348.883510820735,2,4.850915012552079,0,0
+Copiah County,White,32,Male,High School,Employed,36359.41285308039,3,1.8468268065710425,0,0
+Copiah County,White,32,Male,PhD,Employed,75772.07157359597,4,2.785795009231702,1,0
+Copiah County,White,61,Female,High School,Unemployed,36143.47575909521,4,7.36611488440446,0,0
+Copiah County,Black,21,Male,High School,Employed,36694.046071236626,1,7.165505288642765,0,0
+Copiah County,White,64,Female,Less than High School,Unemployed,14682.608156728118,0,7.361796281796464,0,0
+Copiah County,White,64,Male,Bachelor's Degree,Employed,130764.19356759492,2,6.4177495285609965,0,0
+Copiah County,White,19,Female,High School,Employed,74171.11421176814,1,5.20096913145912,1,0
+Copiah County,Black,70,Male,Some College,Unemployed,14828.267857105384,5,5.487315607637033,0,1
+Copiah County,White,43,Female,Less than High School,Unemployed,14760.580656381759,2,3.1931160355742136,1,1
+Copiah County,White,61,Female,High School,Employed,35144.92662571655,2,4.164993781725197,1,1
+Copiah County,White,30,Male,High School,Employed,33789.5076511247,0,3.66507902451352,1,1
+Copiah County,White,33,Male,Bachelor's Degree,Employed,125671.39356697512,1,5.50180525690223,0,0
+Copiah County,Black,74,Male,High School,Employed,35145.96684343502,0,7.6812954099016455,0,0
+Copiah County,White,63,Female,High School,Employed,35916.656344117044,2,4.874270795756121,1,0
+Copiah County,White,70,Male,Some College,Unemployed,129170.62452421982,2,4.870642147066891,1,1
+Copiah County,White,20,Female,Less than High School,Unemployed,74553.31012734318,1,4.250239653806002,0,1
+Copiah County,Black,25,Female,Some College,Unemployed,34308.16637273023,1,2.1788994309535434,1,0
+Copiah County,White,31,Female,Some College,Unemployed,34157.67214060983,3,5.4860010638228704,1,0
+Copiah County,Black,58,Male,High School,Unemployed,14541.935755057308,1,7.354729459362518,0,1
+Copiah County,Black,39,Male,Less than High School,Unemployed,71682.35686649269,2,3.901007668424733,0,0
+Copiah County,Black,70,Female,Less than High School,Unemployed,14763.671968252069,1,5.500200860038403,0,1
+Copiah County,Black,70,Male,Some College,Employed,34195.86692245774,1,5.277146915927437,0,0
+Copiah County,White,65,Male,Less than High School,Unemployed,36632.46085053242,1,7.081765949630127,0,0
+Copiah County,Black,60,Female,Bachelor's Degree,Employed,75432.81619687531,3,7.878755214795162,1,0
+Copiah County,Black,35,Male,Bachelor's Degree,Employed,34465.46963660677,2,5.406354385094736,0,0
+Copiah County,White,64,Female,High School,Employed,35281.63660347793,1,3.688957985844921,1,1
+Copiah County,White,48,Male,Some College,Employed,14458.795052018542,2,2.9955750625745154,0,1
+Copiah County,Black,55,Male,Bachelor's Degree,Employed,34804.15312220771,4,7.2181658316278705,0,1
+Copiah County,Black,48,Male,Some College,Unemployed,15189.351482131595,6,6.956124898791777,0,0
+Copiah County,Black,52,Male,Some College,Employed,34961.14241127358,0,2.7337819654091025,1,0
+Copiah County,White,19,Male,Master's Degree,Employed,74263.34100490743,1,0.9237635832536144,1,0
+Copiah County,Black,27,Female,Bachelor's Degree,Employed,131173.10486124622,3,4.617526246777105,0,0
+Copiah County,Black,20,Male,Less than High School,Employed,15570.47214322339,1,10.298420604232128,0,1
+Copiah County,Black,63,Female,High School,Unemployed,35431.92085355804,2,6.295253855118508,0,0
+Copiah County,White,60,Male,Bachelor's Degree,Employed,35242.82076413799,2,7.116716271136023,0,0
+Copiah County,White,63,Male,Some College,Unemployed,15180.990719736876,0,8.739476077559267,1,1
+Copiah County,White,53,Female,Master's Degree,Employed,121266.40134778041,2,4.874870579523704,1,0
+Copiah County,Black,36,Female,High School,Employed,34632.982101425114,2,0.9571424172563722,0,0
+Copiah County,White,39,Female,Less than High School,Employed,119243.24416113624,6,5.3685991281894605,1,1
+Copiah County,Black,19,Female,Some College,Unemployed,34914.411131203895,1,7.557753341631124,1,1
+Copiah County,White,21,Female,High School,Employed,75322.68437968247,0,4.370578031552489,1,0
+Copiah County,White,35,Male,High School,Employed,14591.624604154815,5,7.219447159503706,0,1
+Copiah County,White,44,Female,Less than High School,Unemployed,36624.1009650793,3,5.469878826707639,1,0
+Copiah County,White,33,Male,Some College,Unemployed,36433.091138280346,3,5.451791894340691,0,0
+Copiah County,White,33,Male,High School,Employed,35777.50132409567,0,2.1564572454792286,1,0
+Copiah County,White,61,Female,Less than High School,Employed,15050.079943148043,2,6.03324133090356,1,0
+Copiah County,Black,61,Male,Less than High School,Employed,15554.953739471528,2,4.3943718368954405,1,1
+Copiah County,Black,33,Female,Some College,Unemployed,72229.89257867596,0,5.4885558776824785,0,1
+Copiah County,Black,35,Male,Some College,Employed,15435.764691412327,1,6.064625141281585,0,1
+Copiah County,White,41,Male,Some College,Unemployed,33686.87284888397,1,8.750884056990559,0,1
+Copiah County,White,34,Male,Some College,Employed,36029.73731892292,3,4.018478275336119,1,0
+Copiah County,White,53,Female,Less than High School,Employed,14663.651352377035,2,8.20703782101642,0,1
+Copiah County,White,58,Female,Bachelor's Degree,Employed,36319.81703356366,3,1.0391497377969234,1,0
+Copiah County,White,60,Female,High School,Unemployed,15666.063140738099,2,5.945449277721329,1,0
+Copiah County,Black,50,Male,High School,Employed,14473.193954107672,4,9.229604544151314,0,0
+Copiah County,White,52,Female,Bachelor's Degree,Employed,74720.06703799045,2,5.084314311923101,1,0
+Copiah County,Black,19,Male,Some College,Employed,36683.4558235694,1,5.40115801049099,0,0
+Copiah County,Black,38,Female,High School,Unemployed,34941.92602590601,3,4.545446380341458,0,0
+Copiah County,Black,36,Male,High School,Unemployed,15545.321283771817,2,4.780963189592231,0,1
+Copiah County,White,42,Female,Some College,Unemployed,15133.09728319698,3,6.54049378089187,1,0
+Copiah County,White,62,Female,Master's Degree,Employed,123441.62384899502,1,6.4683165406690994,1,0
+Copiah County,White,54,Female,Bachelor's Degree,Employed,34250.24244434055,3,3.9645254022285705,1,0
+Copiah County,White,42,Male,Less than High School,Employed,72774.17318314566,1,2.0480530391206146,1,0
+Copiah County,White,27,Female,High School,Employed,76963.48643533271,1,4.777381182981133,1,0
+Copiah County,White,52,Female,Less than High School,Employed,34602.8917738806,2,3.7504969277790092,1,0
+Copiah County,White,20,Male,High School,Employed,35039.46411770263,2,8.934657128891969,0,1
+Copiah County,White,62,Male,Bachelor's Degree,Employed,124904.06850001478,2,5.824022673631263,1,0
+Copiah County,Black,57,Male,High School,Employed,75579.59271924848,2,5.083656111850871,0,0
+Copiah County,Black,39,Male,Master's Degree,Employed,77741.82859218413,0,9.15546927392997,0,1
+Copiah County,White,59,Male,High School,Employed,36682.587702542005,3,1.0948789615332333,1,0
+Copiah County,Black,49,Female,Less than High School,Unemployed,14861.376312860724,3,10.972421488959206,1,1
+Copiah County,White,49,Female,Less than High School,Employed,15491.278383159453,2,4.1585293712157965,1,0
+Copiah County,White,62,Female,Some College,Employed,35925.847281291506,1,5.03609636634412,1,0
+Copiah County,White,48,Female,Some College,Employed,35257.351330094505,0,4.809527616286328,1,1
+Copiah County,Black,55,Male,Less than High School,Employed,36596.16500264176,1,8.502072031531117,0,1
+Copiah County,Black,26,Female,Some College,Employed,72753.55886646302,3,4.147784938043103,1,0
+Copiah County,White,75,Male,High School,Employed,72069.48157732215,1,1.8650467757379565,1,0
+Copiah County,White,21,Male,Some College,Employed,15530.942950433131,0,4.328741747595074,1,1
+Copiah County,Black,43,Male,Master's Degree,Employed,74543.6236247531,1,2.1290148971692675,1,0
+Copiah County,White,70,Male,Master's Degree,Employed,36214.39098972471,3,4.359839930633539,1,0
+Copiah County,White,35,Male,Some College,Unemployed,15589.635307793122,1,6.270863410066032,1,1
+Copiah County,White,52,Male,Bachelor's Degree,Employed,71718.43195214303,2,4.090732156748632,1,0
+Copiah County,White,63,Female,Some College,Employed,36342.126670451216,4,6.8855402508068675,0,0
+Copiah County,White,33,Female,Less than High School,Employed,74612.39291527066,2,3.259637090012408,0,1
+Copiah County,Black,40,Male,Some College,Employed,15015.648733506347,2,8.585702223200654,0,1
+Copiah County,Black,60,Female,Less than High School,Employed,15189.888766639817,0,5.4542624041274275,0,0
+Copiah County,Black,54,Male,Bachelor's Degree,Employed,78197.86955047565,2,4.526366974497252,0,1
+Copiah County,White,34,Male,High School,Employed,71393.37070822323,0,6.82704871362927,0,0
+Copiah County,Black,54,Female,Some College,Employed,34918.952139112356,1,5.310553330781833,1,0
+Copiah County,White,51,Male,High School,Employed,35657.02714850696,0,7.682186581040922,0,0
+Copiah County,Black,30,Female,Some College,Employed,35779.4743519438,0,2.790250134662117,0,0
+Copiah County,Black,53,Female,Master's Degree,Employed,76443.9932365283,2,5.094130715352136,0,0
+Copiah County,White,74,Male,Some College,Unemployed,33720.522952928426,3,3.9047126853048173,0,0
+Copiah County,White,21,Male,High School,Unemployed,14699.093382557521,0,2.1879657591258415,1,0
+Copiah County,Black,33,Male,High School,Employed,123233.94406771267,0,7.478966492389993,0,0
+Copiah County,White,55,Female,Some College,Employed,36065.53022687826,2,2.1353314818844553,1,0
+Copiah County,White,28,Female,High School,Employed,34225.65955345093,0,2.981215895876982,1,0
+Copiah County,White,48,Female,Bachelor's Degree,Employed,72830.28722900402,2,4.914819502337665,1,1
+Copiah County,White,29,Male,High School,Employed,36601.068066633336,1,6.682769900702989,0,0
+Copiah County,White,55,Male,Some College,Unemployed,14263.294927670202,2,3.645100397320742,1,0
+Copiah County,Black,38,Male,Master's Degree,Employed,36742.37299488692,1,3.218833425753032,1,0
+Copiah County,White,30,Female,Less than High School,Employed,35618.87454600088,0,1.0625802018260155,1,0
+Copiah County,Black,20,Female,High School,Employed,36149.64254807191,4,6.599661207943357,0,1
+Copiah County,Black,48,Male,High School,Employed,14691.929094519288,3,6.595964204488686,0,1
+Copiah County,Black,72,Male,Some College,Employed,33300.10347183471,0,3.033259023361577,1,0
+Copiah County,Black,30,Female,Bachelor's Degree,Employed,15356.804277842293,1,5.2689874151805105,0,0
+Copiah County,White,21,Male,Bachelor's Degree,Employed,77506.08447750506,3,5.444765729882429,1,0
+Copiah County,Black,65,Female,Bachelor's Degree,Employed,76803.57098965139,4,6.419576868812895,0,1
+Copiah County,White,40,Female,Some College,Employed,14464.275430951257,1,7.595756962789117,0,0
+Copiah County,White,65,Female,Some College,Unemployed,35886.99772789939,2,1.9802176541240375,1,0
+Copiah County,White,34,Female,Some College,Employed,35941.22973737674,0,3.7033275321211963,1,0
+Copiah County,White,67,Female,High School,Unemployed,35554.89180484519,1,5.454051027258723,1,0
+Copiah County,White,65,Female,High School,Employed,15399.173899193378,2,4.084939707560704,1,1
+Copiah County,White,40,Male,Some College,Employed,36210.725038872064,7,5.674371366604156,1,1
+Copiah County,White,44,Male,Less than High School,Employed,126420.05142796822,1,9.309061231930542,0,0
+Copiah County,Black,29,Female,High School,Employed,14382.907070954518,0,4.094502592366316,0,1
+Copiah County,Black,39,Female,Master's Degree,Employed,34956.69733383523,1,5.829795261639409,0,0
+Copiah County,White,47,Female,Master's Degree,Employed,33521.77267135062,0,1.8454230368798517,1,0
+Copiah County,White,70,Male,Less than High School,Employed,34676.400608613505,0,6.20588783471136,1,0
+Copiah County,White,40,Male,Less than High School,Employed,14860.659733688442,1,9.036553861626828,0,1
+Copiah County,White,54,Female,Bachelor's Degree,Employed,119575.123051753,4,6.326782070082768,1,0
+Copiah County,White,43,Female,Less than High School,Employed,73866.15400477109,2,8.03226160177919,1,1
+Copiah County,White,65,Male,Bachelor's Degree,Employed,72082.48574093486,1,3.211308900191124,1,0
+Copiah County,White,28,Female,High School,Employed,36078.82323503228,0,4.041525471019589,1,0
+Copiah County,Black,23,Female,High School,Employed,36566.908090875644,0,5.060937971535386,1,0
+Copiah County,Black,65,Male,High School,Employed,14358.474712886908,2,9.677976484785022,0,1
+Copiah County,White,61,Female,Bachelor's Degree,Employed,36592.90322552095,2,0.9806965732424795,1,0
+Copiah County,White,27,Male,Less than High School,Employed,75169.32449502559,2,6.487621319830897,0,0
+Copiah County,Black,39,Male,Some College,Unemployed,34298.47987283856,4,6.340295746838675,0,1
+Copiah County,White,52,Male,Master's Degree,Employed,33519.01726346657,2,3.153082353404171,1,0
+Copiah County,Black,64,Female,Bachelor's Degree,Employed,75004.68201052812,0,4.096247641082772,0,0
+Copiah County,White,71,Female,Some College,Employed,15441.773316736122,3,5.2040797680992235,1,1
+Copiah County,White,22,Male,Some College,Employed,35724.80267043344,1,3.7703713292071286,1,0
+Copiah County,Black,48,Female,Some College,Employed,71626.69508597981,1,5.563645770704124,0,0
+Copiah County,White,36,Female,Bachelor's Degree,Employed,119661.27294209879,4,2.708726799400729,1,1
+Copiah County,White,62,Male,High School,Employed,34660.05648921423,0,6.790822582329236,0,0
+Copiah County,Black,18,Female,Less than High School,Unemployed,34283.5167291678,0,5.089917686854633,0,0
+Copiah County,White,70,Male,High School,Employed,121654.80403820059,2,5.870692854119679,1,0
+Copiah County,White,71,Male,Master's Degree,Employed,122262.55623635891,2,0.9874949844047458,1,0
+Copiah County,White,21,Female,Some College,Unemployed,15455.224114945326,2,9.727485650088747,0,1
+Copiah County,White,40,Male,Some College,Employed,36502.29818771149,2,2.9089532802139804,1,0
+Copiah County,White,49,Male,Less than High School,Unemployed,34667.85943084648,3,2.0055957956639245,1,0
+Copiah County,White,72,Female,High School,Employed,36421.38850746374,1,6.3403836152893716,1,0
+Copiah County,White,47,Male,Less than High School,Employed,14732.243551871823,2,4.89654278232127,1,1
+Copiah County,White,44,Male,High School,Unemployed,14964.655479515686,1,6.146504040273449,0,1
+Copiah County,White,27,Female,Less than High School,Unemployed,14589.043496724,1,5.362363708746746,1,0
+Copiah County,White,54,Female,Less than High School,Unemployed,35491.666147615455,9,6.5394247483891705,1,0
+Copiah County,White,65,Male,High School,Employed,15718.471672762213,1,4.647073480929038,1,0
+Copiah County,Black,46,Female,Less than High School,Unemployed,15155.239644065068,2,7.597222675226092,0,0
+Copiah County,White,60,Male,High School,Unemployed,14786.721126170323,1,5.990539551695446,1,0
+Copiah County,White,25,Male,High School,Unemployed,15221.726168985791,1,5.70989326595875,1,1
+Copiah County,Black,44,Male,Some College,Employed,33680.22237462886,3,4.959135756238261,0,0
+Copiah County,White,38,Male,Some College,Employed,36360.3067809289,2,5.4800325752854775,1,0
+Copiah County,Black,64,Male,High School,Unemployed,35010.79382772943,1,4.99261809399287,0,0
+Copiah County,White,25,Female,Less than High School,Employed,34822.724097138744,1,4.828751610287508,1,0
+Copiah County,White,35,Male,Some College,Employed,15128.797182680277,2,5.133400854316726,0,1
+Copiah County,White,37,Female,Some College,Unemployed,35436.7435197629,2,2.844087371266916,1,0
+Copiah County,White,30,Female,High School,Employed,71788.31854669884,0,4.575863328108664,1,0
+Copiah County,White,67,Male,High School,Employed,15273.925831835104,3,4.628879721910649,1,1
+Copiah County,White,71,Female,High School,Employed,34096.760881104354,1,5.553655006749327,1,0
+Copiah County,White,54,Male,High School,Employed,76604.64474379942,1,0.9303805387024588,1,0
+Copiah County,White,22,Male,High School,Employed,77419.01095788147,3,2.783296303589646,1,1
+Copiah County,Black,75,Male,High School,Unemployed,36063.85477643382,4,7.1972246427245,1,1
+Copiah County,White,49,Female,High School,Unemployed,15078.751451111833,4,2.8091280506394867,1,0
+Copiah County,White,50,Female,Some College,Unemployed,35070.59462308763,3,3.8765338266590907,1,0
+Copiah County,Black,40,Female,Master's Degree,Employed,72321.56971004559,3,7.555503773868418,0,0
+Copiah County,Black,41,Male,Less than High School,Employed,77065.09612802352,0,5.968753968315447,0,0
+Copiah County,White,42,Male,Less than High School,Unemployed,34199.9328315635,2,3.100534643112616,1,0
+Copiah County,Other,52,Female,Some College,Employed,14995.043134226918,1,1.868927948480652,1,1
+Copiah County,White,31,Female,High School,Unemployed,14676.411139391274,3,7.507662430093873,0,1
+Copiah County,White,58,Male,High School,Unemployed,14450.742544499539,1,5.4490423395197745,0,1
+Copiah County,White,34,Female,Some College,Employed,126619.4712111467,1,4.668935063072165,1,0
+Copiah County,Black,47,Male,High School,Employed,14331.498052234356,2,6.690026474644743,0,1
+Copiah County,Black,28,Female,Less than High School,Employed,35870.258319441695,4,3.7416083874213975,1,0
+Copiah County,Black,70,Male,High School,Employed,34361.5537834139,3,9.177405067514112,0,1
+Copiah County,White,75,Male,Some College,Unemployed,33250.471425515694,2,3.6965086968804806,1,0
+Copiah County,Black,50,Female,Less than High School,Unemployed,35038.9519873303,2,6.945090275245816,0,0
+Copiah County,Black,72,Female,High School,Unemployed,33413.98167984661,5,2.8238002310434753,1,1
+Copiah County,White,30,Male,High School,Unemployed,14664.25433673135,0,3.8914158888384605,1,1
+Copiah County,White,59,Male,High School,Employed,15310.464731183574,6,8.005467633367772,0,0
+Copiah County,White,75,Male,High School,Employed,33469.41367567653,0,6.228473794355239,1,1
+Copiah County,Black,26,Female,Less than High School,Unemployed,77545.03869267002,2,5.447174567809319,1,0
+Copiah County,Black,70,Female,Master's Degree,Employed,71278.64941993938,2,4.239528319127234,1,0
+Copiah County,White,63,Male,High School,Unemployed,34113.883542206655,1,3.0767402336945446,1,0
+Copiah County,Black,55,Female,Bachelor's Degree,Employed,128011.3007019009,0,5.498110838338647,0,0
+Copiah County,White,40,Female,High School,Unemployed,14724.405224593958,2,3.2241471744640666,1,0
+Copiah County,Black,45,Female,Some College,Employed,33606.623358231045,7,3.252523440319088,1,1
+Copiah County,White,21,Male,High School,Employed,73951.75439100321,0,2.7366467759129183,0,0
+Copiah County,White,32,Female,High School,Employed,34196.37650234584,2,0.9553755296294407,1,0
+Copiah County,Black,36,Female,Master's Degree,Employed,129283.89877700694,2,5.306201279793061,0,0
+Copiah County,Black,30,Female,High School,Unemployed,122666.84896981428,2,6.29791162846039,0,0
+Copiah County,Other,48,Male,Bachelor's Degree,Employed,128611.65589720008,0,0.9369042038712755,1,0
+Copiah County,Black,67,Male,High School,Unemployed,15587.808217216101,8,4.709349323336711,0,1
+Copiah County,Black,41,Male,Less than High School,Employed,14900.726129364793,3,4.870472102791382,0,1
+Copiah County,White,24,Male,Bachelor's Degree,Employed,130124.28929817991,0,2.990713791114613,0,0
+Copiah County,Black,74,Female,Less than High School,Unemployed,74079.88540472394,4,4.094603817224237,1,0
+Copiah County,White,24,Female,Master's Degree,Employed,15696.117624735161,1,4.868913639569772,1,0
+Copiah County,Black,22,Female,High School,Unemployed,14383.934286788359,0,7.940055545813037,0,1
+Copiah County,White,59,Male,Some College,Employed,35654.56743276135,3,6.296965125760508,1,0
+Copiah County,Black,36,Female,High School,Unemployed,34978.349141599254,2,3.6293465623124783,1,0
+Copiah County,White,24,Male,Some College,Employed,34606.77081909476,1,7.603899110950433,0,1
+Copiah County,White,44,Female,Some College,Unemployed,35464.49157562011,2,7.298689420238373,0,0
+Copiah County,Black,19,Female,Some College,Unemployed,127548.21364542912,1,4.31616547014976,1,0
+Copiah County,White,54,Female,Less than High School,Unemployed,14256.544904475464,0,6.014012930538799,1,1
+Copiah County,White,52,Male,Some College,Employed,33834.33581061519,2,4.025690788212253,1,0
+Copiah County,White,47,Male,High School,Unemployed,15319.569075951476,1,5.528606413607731,0,1
+Copiah County,White,48,Male,High School,Employed,15249.578120367307,0,4.947412366823455,1,1
+Copiah County,White,23,Male,High School,Employed,15699.071257693016,0,5.032617266455023,1,0
+Copiah County,Black,52,Female,Bachelor's Degree,Employed,76957.78342688087,1,6.639458705088622,0,0
+Copiah County,White,36,Female,Some College,Employed,15676.159061597005,2,2.8615459385696287,0,0
+Copiah County,White,69,Female,Some College,Employed,35708.89175537183,2,5.852740995725547,0,0
+Copiah County,White,39,Female,Less than High School,Unemployed,14697.078312959164,3,3.616056958222181,1,0
+Copiah County,White,33,Male,Bachelor's Degree,Employed,72040.23691688142,2,5.786494998699814,1,1
+Copiah County,White,65,Female,High School,Employed,35986.38352170727,1,1.884579202798618,1,0
+Copiah County,Other,29,Male,Less than High School,Unemployed,35504.522275165706,2,2.896498411306749,1,0
+Copiah County,White,61,Male,Less than High School,Unemployed,33418.651043376536,2,2.7718572790915506,1,0
+Copiah County,Black,21,Female,Some College,Unemployed,34510.17663065343,2,5.390527280739895,0,0
+Copiah County,White,59,Female,Less than High School,Unemployed,36598.799354195,2,3.0561554721324296,1,0
+Copiah County,Black,24,Female,High School,Employed,15000.6017185653,1,7.250743246802285,0,0
+Copiah County,White,60,Male,Less than High School,Employed,34764.551976068964,2,2.1156684954429354,1,0
+Copiah County,Other,36,Female,Bachelor's Degree,Employed,34851.948618057526,0,6.99781907850068,0,1
+Copiah County,Black,44,Female,Master's Degree,Employed,72816.62043003873,2,8.256456518557362,0,1
+Copiah County,White,62,Male,Less than High School,Unemployed,34540.47509802678,2,7.051949158545967,0,0
+Copiah County,Black,32,Female,Some College,Unemployed,34544.346395955115,4,3.0521046708125277,1,1
+Copiah County,Black,21,Male,Less than High School,Unemployed,14328.532530281207,2,5.24543947418433,0,1
+Copiah County,Black,34,Male,Less than High School,Unemployed,15401.351442776877,1,6.904323364721551,0,1
+Copiah County,White,41,Male,Bachelor's Degree,Employed,123956.30539879849,1,2.776548181677338,0,0
+Copiah County,White,34,Female,High School,Unemployed,36127.62960385748,2,2.870265543479235,1,0
+Copiah County,Black,19,Male,High School,Unemployed,15525.522001679843,1,5.835698755678362,0,1
+Copiah County,Black,45,Female,High School,Unemployed,33991.9791914453,2,1.0291834482663202,1,0
+Copiah County,White,67,Female,Some College,Employed,35550.73718759545,2,7.099089626536477,0,1
+Copiah County,White,65,Female,Some College,Employed,74792.11353122236,1,0.9712193451795693,1,0
+Copiah County,White,52,Female,Some College,Unemployed,36330.5485827252,4,7.681121348310173,0,0
+Copiah County,Black,20,Male,Bachelor's Degree,Employed,121446.75848970567,1,10.211549638713775,1,0
+Copiah County,White,72,Female,High School,Unemployed,15266.719800465065,2,2.8423360750415965,1,1
+Copiah County,White,56,Female,High School,Unemployed,35377.13242788453,1,6.442495461668566,1,0
+Copiah County,White,32,Female,High School,Unemployed,14692.95221635775,2,2.7917154835105995,0,1
+Copiah County,White,33,Male,Less than High School,Unemployed,14454.901355476759,2,4.745957728384508,1,1
+Copiah County,Black,74,Female,High School,Employed,35530.73916167046,6,6.524953922563379,1,1
+Copiah County,Black,21,Male,Some College,Employed,35835.09110346316,1,5.6238804288615665,0,0
+Copiah County,Black,24,Female,Bachelor's Degree,Employed,34354.695703171725,0,3.8280761349550776,1,0
+Copiah County,White,62,Male,PhD,Employed,126810.40755027892,2,0.9346747190589509,1,0
+Copiah County,Black,20,Female,High School,Employed,14842.696361417253,1,5.396765424626425,1,1
+Copiah County,White,51,Male,Some College,Employed,15319.810324923927,1,4.580233745661642,0,1
+Copiah County,Black,43,Male,Master's Degree,Employed,72744.1145617054,3,8.039218223312407,0,1
+Copiah County,White,55,Female,High School,Employed,15585.322503954261,1,5.892476192387594,1,1
+Copiah County,Black,52,Male,Some College,Employed,34255.93358762953,2,5.482378616908607,0,0
+Copiah County,White,64,Male,Some College,Employed,14801.678981634228,1,5.534446682601663,1,1
+Copiah County,Black,30,Male,Some College,Employed,14337.137928120525,2,6.8569978386640384,0,1
+Copiah County,White,32,Male,High School,Employed,14417.268318481914,5,7.6572586065855175,0,1
+Copiah County,Black,64,Male,High School,Employed,75118.96427034246,1,5.365507125893981,0,0
+Copiah County,Black,55,Male,Less than High School,Unemployed,14651.389015091956,1,6.380486485139136,0,1
+Copiah County,Black,41,Female,High School,Unemployed,15503.220338613293,3,4.75790282704494,1,0
+Copiah County,White,38,Male,Master's Degree,Employed,33301.42686029234,2,2.802532552434039,1,0
+Copiah County,White,18,Male,Some College,Employed,14818.641073007904,0,7.236100507894204,0,1
+Copiah County,White,58,Female,Some College,Employed,14756.018320153638,3,3.2576255934765515,1,0
+Copiah County,Black,52,Female,High School,Employed,71394.957231882,2,5.0567628930139294,1,0
+Copiah County,Black,59,Male,Bachelor's Degree,Employed,33685.28939650179,2,7.10025776525786,1,1
+Copiah County,Other,24,Female,Less than High School,Unemployed,14870.464012377952,2,7.647966549856455,0,0
+Copiah County,White,64,Male,PhD,Employed,34975.02604556606,1,4.21559434655355,1,0
+Copiah County,Black,73,Male,Bachelor's Degree,Employed,34665.01411539204,2,7.499269997692037,0,1
+Copiah County,White,42,Female,Some College,Unemployed,35108.28187444233,2,0.9647358472808487,1,0
+Copiah County,White,72,Male,Some College,Employed,15142.697512358523,4,6.895611014062983,0,0
+Copiah County,White,74,Female,High School,Employed,14264.885731691753,2,5.007610378684455,1,1
+Copiah County,White,53,Female,Bachelor's Degree,Employed,34874.333058087264,5,7.587855571864129,0,1
+Copiah County,Black,35,Male,Master's Degree,Employed,36622.24734310656,1,3.691869459791363,1,0
+Copiah County,White,52,Female,Less than High School,Unemployed,15028.548420194322,1,5.110620042441632,1,1
+Copiah County,White,34,Male,High School,Unemployed,15266.313401188429,1,6.704082774536358,0,0
+Copiah County,White,58,Male,Bachelor's Degree,Employed,73588.97893437662,1,3.0487429328535676,1,0
+Copiah County,White,32,Male,Less than High School,Unemployed,15410.987067229144,2,8.377852887493564,1,0
+Copiah County,White,46,Male,Less than High School,Unemployed,35955.2251865664,2,5.977368122225781,1,0
+Copiah County,White,29,Female,High School,Employed,15031.944071481206,2,4.026071546041269,0,1
+Copiah County,Black,20,Female,Master's Degree,Employed,36666.048381477245,2,7.282917658915883,0,0
+Copiah County,Black,32,Female,Some College,Unemployed,120319.37768453316,1,8.705887700749058,0,1
+Copiah County,White,30,Female,High School,Employed,14275.42149733437,1,2.7806488061633847,1,1
+Copiah County,White,69,Female,High School,Unemployed,35945.55374114984,2,2.738024982283661,1,1
+Copiah County,Black,59,Male,Some College,Unemployed,15460.733306047325,2,6.5879522788679346,0,1
+Copiah County,Black,54,Female,High School,Employed,14430.310843680863,6,8.680236920954503,0,1
+Copiah County,White,67,Female,High School,Employed,34179.53991535512,1,5.309874445854636,1,0
+Copiah County,Black,42,Female,High School,Employed,14276.328545049942,4,8.558353178574775,0,1
+Copiah County,Black,74,Female,High School,Employed,73449.81458085423,3,10.36300544444786,0,1
+Copiah County,Black,30,Female,Some College,Employed,35955.99655871535,1,3.156136715933812,1,0
+Copiah County,Black,67,Female,High School,Unemployed,35062.86184699403,4,6.114766488729413,0,0
+Copiah County,White,25,Male,High School,Employed,34468.33457608901,1,9.943152377100317,0,1
+Copiah County,White,31,Male,Less than High School,Unemployed,74038.04471179747,3,1.9647363656589074,1,0
+Copiah County,Black,71,Female,Some College,Employed,71260.15219286601,0,6.788415573160194,0,1
+Copiah County,White,60,Female,Some College,Employed,73498.50395673927,5,3.257717486548696,0,0
+Copiah County,Black,64,Male,Some College,Unemployed,76098.44056228446,0,7.46286717090282,0,0
+Copiah County,White,53,Male,Master's Degree,Employed,36659.68055335725,0,4.37202152853321,1,0
+Copiah County,Black,47,Male,Less than High School,Employed,15520.591240475847,5,5.549156668182654,1,0
+Copiah County,White,27,Female,Less than High School,Employed,33332.58237625935,1,6.277040970244373,1,0
+Copiah County,White,22,Male,Bachelor's Degree,Employed,36394.96211636193,0,5.438340456821038,1,0
+Copiah County,White,50,Male,Some College,Unemployed,35991.194446545196,9,7.489972905865057,0,1
+Copiah County,White,47,Female,Some College,Employed,15420.56418535647,2,5.479795520840133,1,0
+Copiah County,White,67,Female,Some College,Employed,14936.993638505355,2,2.0964482597160234,1,1
+Copiah County,Black,26,Female,Bachelor's Degree,Employed,74235.03969715878,1,3.044683867907947,1,0
+Copiah County,Other,27,Male,Master's Degree,Employed,34310.20505091617,1,4.273463021406618,1,1
+Copiah County,White,44,Female,Some College,Employed,33479.93200634028,0,5.567726851951547,1,0
+Copiah County,White,67,Male,Bachelor's Degree,Employed,72961.76522620274,2,6.354320774231868,0,0
+Copiah County,White,42,Male,Some College,Unemployed,14619.905452467036,0,2.820976392028647,1,1
+Copiah County,Black,55,Male,Bachelor's Degree,Employed,74880.5780228265,2,3.730924754292564,1,0
+Copiah County,White,33,Male,High School,Unemployed,35866.05542308842,1,4.664265797930993,1,0
+Copiah County,White,38,Female,Some College,Unemployed,14960.71474259692,3,6.377489664277658,1,0
+Copiah County,White,34,Male,Some College,Unemployed,119473.05561808951,2,4.13215777655696,1,0
+Copiah County,Black,49,Male,Some College,Unemployed,15686.684701482307,3,6.027678509722944,0,1
+Copiah County,White,45,Female,Some College,Employed,78320.43239320585,0,4.858830484123502,1,0
+Copiah County,White,36,Male,High School,Unemployed,15427.78431472261,3,3.2263203244878653,0,1
+Copiah County,White,24,Female,Some College,Unemployed,15736.991852346331,1,1.9569780429690542,1,1
+Copiah County,White,29,Female,High School,Employed,15066.723499200392,0,4.253279551577262,1,1
+Copiah County,White,21,Female,Some College,Unemployed,15694.15252537981,1,6.914788871998306,0,1
+Copiah County,Black,64,Male,High School,Unemployed,14363.407560925125,4,3.901555543539926,1,0
+Copiah County,Black,67,Female,Some College,Employed,14798.521122392056,1,6.947751699937449,0,0
+Copiah County,White,75,Male,Some College,Employed,14588.071902010148,3,5.76165344899697,1,1
+Copiah County,White,50,Female,High School,Unemployed,121197.91355167837,1,4.198087504141001,1,0
+Copiah County,Other,32,Male,Bachelor's Degree,Employed,72306.02211669507,0,3.0016322340554873,1,0
+Copiah County,Black,62,Male,High School,Employed,75918.10231174498,3,3.785770156117454,1,0
+Copiah County,Black,52,Female,Master's Degree,Employed,15421.982783620957,3,5.399574573274569,0,0
+Copiah County,White,69,Female,High School,Employed,35274.04439797126,1,2.930334732823927,1,0
+Copiah County,Other,64,Female,Some College,Unemployed,14470.444064382315,2,6.052263433336787,1,1
+Copiah County,Black,26,Male,Master's Degree,Employed,77333.42827450103,2,9.731649799736186,0,1
+Copiah County,White,54,Female,Less than High School,Employed,15203.932060745592,2,5.124237995913992,1,0
+Copiah County,Black,34,Female,Master's Degree,Employed,123602.07132658744,0,4.616898040708365,0,0
+Copiah County,Black,27,Female,Some College,Employed,15261.195443304096,1,5.439832123613475,0,1
+Copiah County,Other,63,Male,PhD,Employed,73199.28734432124,0,7.178791274299986,0,0
+Copiah County,Black,35,Female,Master's Degree,Employed,34458.17272972973,2,5.801886737588504,0,0
+Copiah County,Black,54,Female,Bachelor's Degree,Employed,130218.57303914988,2,5.567126487196065,1,0
+Copiah County,Black,45,Female,High School,Employed,14685.75675850713,5,10.588050378540592,0,0
+Copiah County,White,42,Male,Less than High School,Unemployed,14954.982402236905,1,3.072043653557108,0,1
+Copiah County,White,42,Female,Some College,Unemployed,36365.49398088605,2,10.066922183952641,0,0
+Copiah County,Other,72,Male,Some College,Unemployed,76557.91012700646,3,3.2363355498305744,1,0
+Copiah County,Black,53,Female,High School,Employed,14343.304839247054,0,9.519474980204155,0,1
+Copiah County,White,66,Female,High School,Unemployed,33765.56065497639,1,2.7910049278396505,1,0
+Copiah County,Black,32,Female,Some College,Unemployed,33277.4455677017,3,3.849377654236439,1,0
+Copiah County,Black,23,Male,High School,Unemployed,35458.22626580207,0,7.597582623703145,0,0
+Copiah County,Black,34,Male,Some College,Employed,14921.510138115627,3,9.439103326630818,0,0
+Copiah County,Black,37,Male,Bachelor's Degree,Employed,33719.96197815796,5,5.440238921682935,0,0
+Copiah County,Black,44,Male,Bachelor's Degree,Employed,78434.50590792576,2,4.055911747897054,1,0
+Copiah County,Black,49,Male,High School,Employed,15044.489585918427,1,9.472425634333243,0,0
+Copiah County,Black,43,Female,Less than High School,Unemployed,14612.839941169334,0,6.4521187641141005,0,1
+Copiah County,Black,74,Female,Bachelor's Degree,Employed,125007.54463943384,3,2.9052490492295444,1,0
+Copiah County,White,26,Female,Master's Degree,Employed,35628.67116457287,1,5.321257304672013,1,0
+Copiah County,White,65,Female,Some College,Employed,14364.358826960346,3,5.5327580843462485,1,1
+Copiah County,White,18,Male,Master's Degree,Employed,34211.46335266762,0,7.485033208428325,0,1
+Copiah County,White,62,Female,High School,Employed,15460.448236325989,2,6.4784841272647755,1,0
+Copiah County,White,46,Male,Some College,Employed,14939.49730560399,1,4.897287290560367,0,1
+Copiah County,White,18,Female,High School,Unemployed,15069.86571304844,0,6.356754438935464,1,1
+Copiah County,White,31,Male,Some College,Employed,14899.224003314204,4,4.649917427348774,1,0
+Copiah County,White,63,Male,Less than High School,Unemployed,71579.24956982254,1,2.837550837139585,1,0
+Copiah County,Black,74,Male,High School,Employed,33830.12422937054,2,7.311153595750293,0,0
+Copiah County,White,45,Male,High School,Employed,14918.312458112836,1,3.1320219219276444,1,1
+Copiah County,White,61,Male,Some College,Employed,33982.14912892775,0,5.141147632885298,1,0
+Copiah County,Black,45,Male,High School,Unemployed,33424.92660030888,4,5.1939484444671,0,1
+Copiah County,White,18,Female,Bachelor's Degree,Employed,77577.37248038867,2,8.068359109356154,1,1
+Copiah County,White,68,Male,Bachelor's Degree,Employed,131014.90661455145,2,5.7021588706883435,1,0
+Copiah County,White,60,Male,Some College,Unemployed,128664.28592495924,1,3.8765567948031356,1,0
+Copiah County,White,54,Male,Less than High School,Unemployed,36238.247225966334,2,3.7452781734411404,1,0
+Copiah County,Black,70,Male,High School,Employed,34096.91995610966,1,6.490140673600354,1,0
+Copiah County,White,37,Male,Master's Degree,Employed,130757.83719391498,1,2.0333567179064485,1,0
+Copiah County,White,29,Male,High School,Unemployed,14545.388556680142,0,3.920681133410912,1,0
+Copiah County,Black,23,Female,High School,Employed,15677.144715542749,1,4.962005803644133,0,1
+Copiah County,Black,49,Female,Less than High School,Unemployed,78711.14470474463,3,2.1789133358447264,1,1
+Copiah County,Other,18,Female,Some College,Unemployed,35741.02982011117,1,4.653351403116081,1,0
+Copiah County,White,20,Male,High School,Unemployed,36684.003061271374,0,6.103475798420157,1,0
+Copiah County,White,21,Male,Bachelor's Degree,Employed,125869.24724458878,2,5.005888678884466,1,0
+Copiah County,White,43,Female,Less than High School,Unemployed,121994.27228970113,6,5.111454235434648,1,1
+Copiah County,White,55,Female,PhD,Employed,74527.46914249215,2,3.6144881470566723,1,0
+Copiah County,Black,61,Male,Some College,Unemployed,15140.341403068178,2,7.5209734725218125,0,1
+Copiah County,Black,67,Male,Some College,Unemployed,33505.78546709455,1,5.4321182824836125,0,0
+Copiah County,Black,61,Male,High School,Employed,35428.20142616036,2,5.065133183589209,0,0
+Copiah County,White,20,Female,Less than High School,Employed,36684.12242866803,3,5.196650823876893,1,0
+Copiah County,Black,39,Male,Master's Degree,Employed,33915.37677424304,0,5.422499381177296,0,0
+Copiah County,White,19,Male,High School,Employed,15438.892674432574,0,8.331581814901439,1,0
+Copiah County,Black,56,Male,Some College,Unemployed,15611.848190669429,2,7.4440624686628185,0,0
+Copiah County,Black,47,Female,High School,Employed,78327.76194615166,1,5.076288360166813,0,0
+Copiah County,Black,60,Female,Master's Degree,Employed,78451.01703304086,2,8.17074407421257,0,1
+Copiah County,White,70,Male,Some College,Unemployed,75160.94729041103,4,4.924130671302386,1,1
+Copiah County,White,57,Male,Bachelor's Degree,Employed,78579.80930993626,0,4.1891553884997785,1,1
+Copiah County,Black,62,Female,Less than High School,Employed,15385.965310701657,5,10.868734029538029,0,0
+Copiah County,White,54,Male,Master's Degree,Employed,33815.850026829365,1,5.425568512906777,1,0
+Copiah County,White,31,Female,Some College,Employed,74826.75079850978,2,5.9410072456849585,1,0
+Copiah County,White,69,Female,High School,Employed,76637.48381529003,4,0.922647609168151,1,0
+Copiah County,Black,69,Female,Bachelor's Degree,Employed,34115.69110536679,2,10.96968239792467,0,0
+Copiah County,White,37,Male,Some College,Unemployed,35492.153142421106,3,4.271118469156748,1,0
+Copiah County,White,23,Female,High School,Unemployed,35583.101676663166,0,4.624662681203267,1,0
+Copiah County,Black,65,Male,High School,Employed,14494.049615712847,0,4.336673506093898,1,1
+Copiah County,White,73,Female,Master's Degree,Employed,35227.798593584645,2,6.443875634474555,1,0
+Copiah County,White,30,Female,High School,Unemployed,35950.69418842513,1,4.015070445700858,0,0
+Copiah County,White,30,Female,Less than High School,Employed,74991.71748401957,0,3.054765261446958,1,0
+Copiah County,Black,25,Female,Some College,Employed,33292.36090871638,1,4.8990027038701305,0,0
+Copiah County,Other,65,Male,Some College,Employed,118862.98086349115,1,1.8219046555288125,1,0
+Copiah County,White,29,Female,Some College,Unemployed,34499.60270389504,1,4.835197241645901,1,0
+Copiah County,White,47,Female,High School,Employed,15639.291102647674,2,10.605706897196024,0,0
+Copiah County,Black,72,Male,High School,Employed,34050.36872861263,1,7.207411236807364,0,0
+Copiah County,Black,59,Female,Some College,Employed,76007.72766653764,1,6.766898840367602,0,0
+Copiah County,White,30,Female,High School,Employed,34027.26554742662,1,1.9592674774363774,1,0
+Copiah County,Black,19,Male,High School,Employed,34375.84496380842,1,10.074791205875846,0,1
+Copiah County,Black,61,Male,Less than High School,Employed,36218.14731360519,1,4.335884493130209,1,0
+Copiah County,White,72,Female,Bachelor's Degree,Employed,76716.46081702459,1,5.815615193239154,1,0
+Copiah County,White,35,Male,Bachelor's Degree,Employed,71965.49457984908,0,5.816343842275474,0,0
+Copiah County,White,49,Male,Less than High School,Unemployed,74465.26515739824,6,3.142500748865849,1,1
+Copiah County,White,74,Female,Bachelor's Degree,Employed,33352.09417275843,2,3.9617743527118456,1,0
+Copiah County,White,67,Female,Less than High School,Unemployed,124761.12683253761,2,5.669525787527979,0,0
+Copiah County,Black,23,Male,High School,Employed,15243.6510175516,0,4.952439516132693,0,1
+Copiah County,White,35,Female,High School,Employed,14427.753935397226,0,3.71268561630384,1,1
+Copiah County,Black,47,Female,High School,Unemployed,14683.327408363748,2,3.741109589204979,1,1
+Copiah County,Black,72,Male,Some College,Employed,14846.754938253234,2,3.998694218191584,1,1
+Copiah County,Black,48,Female,Bachelor's Degree,Employed,78146.48268492038,0,4.918925449504548,0,0
+Copiah County,White,27,Female,Some College,Unemployed,15739.882523134447,1,9.746722621922581,0,0
+Copiah County,Black,74,Male,Bachelor's Degree,Employed,71586.83474246711,2,3.8899151192933066,1,0
+Copiah County,White,68,Male,Some College,Employed,15391.511885243086,4,5.080588350278044,0,1
+Copiah County,Black,29,Female,Bachelor's Degree,Employed,14807.586099603515,1,5.13226428791953,0,1
+Copiah County,White,56,Female,Less than High School,Employed,34623.603651803176,4,1.8052377826353334,1,1
+Copiah County,White,36,Female,High School,Employed,15381.397460020535,1,5.163537372016711,1,1
+Copiah County,Black,47,Male,Bachelor's Degree,Employed,78138.19824109056,2,3.742428773495801,1,0
+Copiah County,White,58,Male,Less than High School,Unemployed,36578.250080758924,0,5.4610703174694555,1,0
+Copiah County,Black,44,Male,Some College,Unemployed,35269.929051134124,2,2.789197636651868,0,0
+Copiah County,White,49,Female,Less than High School,Unemployed,34499.92405755176,2,4.914624123727024,1,0
+Copiah County,Black,28,Male,High School,Employed,15431.323628788166,4,8.25362940254156,0,1
+Copiah County,White,56,Female,Less than High School,Unemployed,14626.50207489345,1,8.794998802953517,0,0
+Copiah County,Black,22,Male,Less than High School,Unemployed,75480.55521625139,2,6.0026340123974915,1,0
+Copiah County,White,20,Female,High School,Unemployed,73939.33846143655,2,5.095385017320044,1,0
+Copiah County,White,46,Female,Some College,Employed,15234.946610561814,0,7.307322363821484,0,1
+Copiah County,White,52,Male,PhD,Employed,73052.9918467013,3,3.1499762822395065,1,0
+Copiah County,White,23,Male,Some College,Employed,14537.389418602237,0,4.709905593095586,0,1
+Copiah County,Black,50,Female,High School,Employed,36463.83680336403,2,3.2388325736644283,1,1
+Copiah County,Black,21,Male,Some College,Employed,14402.705524424306,2,6.58719549667481,1,1
+Copiah County,Black,59,Male,Master's Degree,Employed,35020.85267707225,1,5.6288252647964,0,0
+Copiah County,Black,68,Male,High School,Unemployed,14581.279174444513,0,7.258479468556952,0,0
+Copiah County,White,36,Male,Master's Degree,Employed,119236.62454157084,3,2.9832401670659996,1,0
+Copiah County,White,47,Male,Some College,Employed,71520.1411371857,0,7.090777586567663,0,0
+Copiah County,White,20,Male,High School,Employed,14512.832658158739,1,6.391992095199694,0,0
+Copiah County,Black,66,Female,High School,Unemployed,15550.155531759001,2,7.385738663373015,0,1
+Copiah County,Black,54,Male,High School,Unemployed,73368.5905798277,2,4.953288834748028,0,0
+Copiah County,Black,62,Female,Some College,Employed,36576.60709701353,0,5.02439026932758,0,0
+Copiah County,Black,40,Female,Bachelor's Degree,Employed,75612.16719741895,3,8.89337294448881,0,1
+Copiah County,Black,54,Female,High School,Unemployed,124207.67737210957,1,4.900763060875326,1,0
+Copiah County,White,49,Male,Less than High School,Unemployed,15120.133252004181,4,6.071568397569862,0,0
+Copiah County,Black,24,Female,Some College,Employed,35058.44434829194,1,7.44838439348914,0,1
+Copiah County,Black,18,Male,Some College,Unemployed,35905.71688815064,1,3.745542504396217,1,0
+Copiah County,Other,54,Male,Some College,Unemployed,34238.736230904986,1,3.2170713726081104,1,0
+Copiah County,Black,33,Female,High School,Employed,14779.575587400454,2,3.26766927728018,1,1
+Copiah County,White,60,Male,High School,Employed,15591.141453799875,2,6.822633042791654,0,1
+Copiah County,White,63,Male,High School,Employed,78348.42384862805,4,2.862446803886132,1,1
+Copiah County,Black,46,Female,Less than High School,Employed,36373.95379620266,0,8.230399269182426,0,0
+Copiah County,White,68,Female,Some College,Employed,14879.171990935969,2,0.9817468342196193,1,1
+Copiah County,Black,31,Male,Less than High School,Employed,77102.7412725516,2,4.525386355660345,0,0
+Copiah County,White,60,Male,Bachelor's Degree,Employed,124704.19666626373,1,4.656152597366191,1,0
+Copiah County,Black,27,Female,Master's Degree,Employed,74981.54889109576,1,2.086388891538959,1,0
+Copiah County,Black,70,Female,Some College,Employed,33966.38038170049,1,4.127139153528121,1,0
+Copiah County,White,35,Female,High School,Unemployed,35318.9560614048,2,3.621676794002787,1,0
+Copiah County,White,62,Female,Less than High School,Employed,33901.47564213671,2,3.7775777295463597,1,0
+Copiah County,White,41,Female,Some College,Unemployed,14747.34704860079,0,5.6772897559056865,1,0
+Copiah County,White,29,Female,High School,Employed,36242.60570566977,0,1.0343785487197457,0,0
+Copiah County,Black,53,Male,PhD,Employed,72803.06856908141,0,6.32759475285611,0,1
+Copiah County,Black,25,Female,Master's Degree,Employed,33499.05399810701,0,6.445752014778403,0,0
+Copiah County,Black,43,Female,Less than High School,Employed,33491.52657414485,1,6.359899302447827,0,0
+Copiah County,White,62,Female,High School,Unemployed,15661.176780754662,1,7.485671459286934,0,0
+Copiah County,White,21,Female,Less than High School,Unemployed,15010.380656942752,1,5.152746107851875,1,0
+Copiah County,White,48,Male,Less than High School,Employed,14864.118107725526,1,6.633455893465417,0,0
+Copiah County,Black,74,Male,High School,Unemployed,15466.317871511877,3,5.5193296713112145,0,0
+Copiah County,Black,19,Male,High School,Unemployed,36175.390747686804,0,5.691806629199345,1,0
+Copiah County,White,40,Female,Less than High School,Employed,73741.43274836703,0,5.222266931855659,1,0
+Copiah County,Black,33,Female,Some College,Employed,76452.13543105345,1,7.4979750553488,0,0
+Copiah County,Black,19,Male,High School,Employed,15406.684223777827,0,6.39626383748039,0,1
+Copiah County,White,37,Male,High School,Employed,15231.97603029893,3,5.876620235542147,1,1
+Copiah County,White,26,Male,Less than High School,Employed,33780.582761800346,0,6.201702163884775,1,0
+Copiah County,White,29,Female,High School,Unemployed,129698.53854396321,3,6.58697801358215,0,0
+Copiah County,White,33,Female,Master's Degree,Employed,35136.83093457603,3,6.710406822365418,0,0
+Copiah County,White,51,Female,High School,Employed,14673.708639555005,1,6.475602982225343,1,1
+Copiah County,Black,31,Male,High School,Unemployed,34738.29864903192,1,5.4156023082128835,0,0
+Copiah County,White,37,Male,Some College,Employed,33381.498816396175,0,3.6684068246835744,1,0
+Copiah County,Black,46,Female,Less than High School,Employed,120348.3350152802,2,7.532618008233644,0,1
+Copiah County,White,46,Male,High School,Employed,15398.320125773793,0,5.431838644648584,1,1
+Copiah County,Black,54,Female,Some College,Unemployed,71250.08726066524,3,4.6814354350897975,0,1
+Copiah County,White,20,Female,Less than High School,Unemployed,74374.2437136172,1,1.0166083121939384,1,0
+Copiah County,White,23,Female,Some College,Employed,15033.765271628383,1,7.874279280947997,0,1
+Copiah County,White,70,Male,Bachelor's Degree,Employed,71659.75815000728,2,3.235603026646185,1,0
+Copiah County,White,69,Male,High School,Unemployed,15709.6172444585,2,4.253954849390753,0,1
+Copiah County,White,55,Male,High School,Unemployed,34041.438659373845,1,7.746907762716602,0,0
+Copiah County,White,21,Female,Less than High School,Employed,34314.69551872698,2,0.9518846866862585,1,0
+Copiah County,Black,23,Male,Less than High School,Unemployed,34313.798792892594,1,6.831569371434174,0,0
+Copiah County,White,51,Male,Less than High School,Unemployed,34056.458317410725,0,1.0180589885029616,1,0
+Copiah County,Black,33,Male,Less than High School,Employed,33255.15837730208,1,6.675289097152027,1,0
+Copiah County,White,42,Female,Bachelor's Degree,Employed,35802.706779307984,5,6.148978689418961,0,1
+Copiah County,Black,75,Male,Bachelor's Degree,Employed,15700.268249698927,3,5.891293982629489,0,0
+Copiah County,Black,31,Female,High School,Employed,34035.027191497655,5,4.0416377446815845,1,1
+Copiah County,White,53,Male,Some College,Employed,35570.66517131198,0,2.96167591748119,1,0
+Copiah County,Black,31,Male,High School,Unemployed,35846.6371443555,2,7.671145215267068,1,0
+Copiah County,Black,56,Female,Some College,Unemployed,15522.638068635786,1,4.358762645569725,1,0
+Copiah County,Black,51,Male,High School,Employed,34729.20218954763,1,6.316326952991714,0,0
+Copiah County,White,48,Male,Master's Degree,Employed,122536.63632050536,3,3.712090540613162,1,0
+Copiah County,Black,52,Male,Less than High School,Employed,14737.942701034546,1,7.515855166257078,0,1
+Copiah County,White,75,Female,Less than High School,Employed,15318.93199964777,2,5.9849174378994165,1,1
+Copiah County,White,64,Male,High School,Unemployed,15475.169199758451,2,6.47346267227291,1,0
+Copiah County,White,40,Female,Some College,Employed,33885.64888714811,1,3.179913153568389,1,0
+Copiah County,Black,34,Female,Some College,Employed,74032.05756118325,1,4.925213504469234,0,1
+Copiah County,Black,67,Male,Bachelor's Degree,Employed,78014.55147561862,0,3.617975446656094,1,0
+Copiah County,Black,59,Female,Some College,Unemployed,77300.20139771054,1,4.768677359384946,0,0
+Copiah County,Black,23,Female,Less than High School,Employed,15727.287604143714,0,5.041634214660867,0,1
+Copiah County,Other,44,Female,High School,Employed,15381.37238952312,3,3.0800869318956883,1,0
+Copiah County,White,36,Female,Bachelor's Degree,Employed,34626.18320359773,3,5.709465222519843,1,0
+Copiah County,White,35,Male,Less than High School,Employed,15135.956750991956,5,4.639356074072824,1,1
+Copiah County,Black,19,Female,High School,Employed,35563.54988986562,3,6.401916284159158,0,0
+Copiah County,Black,19,Male,Master's Degree,Employed,33524.59535710993,3,8.775043489125684,0,0
+Copiah County,White,42,Male,High School,Employed,15066.745438655795,3,7.03596625522376,0,1
+Copiah County,Black,45,Female,High School,Employed,35732.62289965413,1,8.409022714526946,0,1
+Copiah County,White,33,Male,High School,Employed,14500.98195600159,1,4.7723073265193685,1,0
+Copiah County,Black,62,Male,High School,Employed,15420.947576138335,2,3.6147125412379735,1,0
+Copiah County,Black,46,Female,Master's Degree,Employed,15125.659170771167,0,8.662878090496799,0,0
+Copiah County,White,52,Female,High School,Employed,36582.776249941584,2,3.694200866312113,1,0
+Copiah County,White,34,Male,High School,Unemployed,33398.47804372412,0,5.076516475514254,1,0
+Copiah County,Black,67,Female,Some College,Unemployed,34178.64148144413,3,5.728866264824648,0,0
+Copiah County,Black,27,Female,Some College,Employed,35355.43857754938,1,9.097520404528428,0,0
+Copiah County,White,67,Male,High School,Employed,14694.839868308894,2,6.181704466022237,1,1
+Copiah County,White,21,Female,High School,Employed,35750.48457424934,0,3.197845082224321,1,0
+Copiah County,Black,53,Female,High School,Employed,15388.507923782898,1,6.5889897804648445,0,1
+Copiah County,Black,33,Male,Less than High School,Unemployed,14403.77394609971,2,5.413194994390176,0,1
+Copiah County,White,73,Male,Some College,Employed,35048.49062472369,3,5.564262756082568,1,0
+Copiah County,White,39,Female,High School,Employed,35031.11694456869,2,1.080003728369621,1,0
+Copiah County,White,49,Male,Some College,Unemployed,34542.48269575439,1,5.373890077562516,1,0
+Copiah County,Black,40,Female,Bachelor's Degree,Employed,130411.56078212091,1,6.1168957226043705,0,0
+Copiah County,White,46,Female,High School,Employed,15491.25947980983,2,6.120620232520384,1,0
+Copiah County,Black,22,Male,Bachelor's Degree,Employed,35690.232836683725,1,9.297066014183258,0,1
+Copiah County,Black,66,Male,High School,Employed,15321.489953602493,3,8.41566830152221,0,1
+Copiah County,White,44,Male,High School,Unemployed,34866.00650334592,6,6.4972943351099515,1,1
+Copiah County,White,61,Female,Less than High School,Employed,78157.45890822432,4,5.902524629870488,0,0
+Copiah County,White,18,Male,Some College,Unemployed,35681.0839953865,0,6.836393939549296,1,0
+Copiah County,White,23,Female,Some College,Unemployed,35801.433715795356,2,5.018917705282837,1,1
+Copiah County,White,70,Male,High School,Employed,36265.9181632557,5,4.546965966775055,1,1
+Copiah County,White,51,Female,Bachelor's Degree,Employed,14661.107384013285,4,7.466053390009727,0,1
+Copiah County,White,54,Male,High School,Employed,36074.748163533455,4,3.1428201698558222,1,1
+Copiah County,Black,58,Male,Some College,Employed,33933.34211034772,2,9.165597335850252,0,0
+Copiah County,White,34,Female,Some College,Employed,123066.77440306109,2,6.123782531359666,1,0
+Copiah County,White,60,Male,High School,Employed,122945.13067837303,0,3.796279287745057,1,0
+Copiah County,Black,42,Female,Less than High School,Employed,15717.78820258371,2,9.778591228083954,0,0
+Copiah County,Black,53,Male,Less than High School,Unemployed,36247.88028311774,0,6.70417123147898,0,0
+Copiah County,White,50,Female,Less than High School,Employed,15301.75479238539,2,3.8845381731719595,1,1
+Copiah County,Black,66,Male,Some College,Unemployed,15340.585142423084,4,8.350473448294792,0,0
+Copiah County,White,37,Female,Less than High School,Employed,15093.109191603855,2,5.75654605874781,1,1
+Copiah County,Black,54,Male,Master's Degree,Employed,78353.18000331389,1,3.0398427841781386,1,0
+Copiah County,Other,24,Female,Some College,Employed,34986.90563508826,2,3.98084032175928,1,0
+Copiah County,Black,58,Male,Bachelor's Degree,Employed,34581.81198454463,3,6.196405398435179,0,1
+Copiah County,White,71,Female,Less than High School,Unemployed,14494.553005397385,4,6.524195687189709,1,0
+Copiah County,White,28,Male,Less than High School,Employed,36001.7197829137,0,4.186057677768201,1,0
+Copiah County,Black,48,Male,High School,Employed,15351.665898113388,2,3.7719523028726054,1,0
+Copiah County,White,73,Male,Bachelor's Degree,Employed,14826.5325577862,1,6.343656389085798,0,0
+Copiah County,White,44,Female,High School,Unemployed,33338.1769488573,2,4.762264044299825,0,1
+Copiah County,White,72,Male,Less than High School,Employed,77542.47995788507,0,1.019015586140051,1,0
+Copiah County,Black,27,Female,High School,Employed,33289.96294208926,1,7.282281301574801,0,1
+Copiah County,Black,55,Male,Less than High School,Employed,15305.549669443575,2,6.994912746081731,1,1
+Copiah County,White,62,Male,Bachelor's Degree,Employed,78526.92832294543,3,8.154948558267023,0,1
+Copiah County,White,66,Female,Some College,Employed,124220.76660185253,1,6.767941447143746,0,0
+Copiah County,White,49,Female,High School,Employed,14602.46010749393,1,2.108364881498329,1,1
+Copiah County,Black,73,Male,Some College,Employed,76536.53257532536,5,5.527917903760526,0,0
+Copiah County,White,22,Female,High School,Unemployed,15475.692213023376,1,4.575137781735809,1,1
+Copiah County,White,21,Male,High School,Unemployed,35162.50610627247,0,7.319464258685045,0,0
+Copiah County,White,73,Female,Some College,Unemployed,130837.94094070184,3,4.9954913162061985,1,1
+Copiah County,White,19,Female,Bachelor's Degree,Employed,33430.840525802865,2,4.150721917142189,1,0
+Copiah County,White,31,Female,Master's Degree,Employed,125059.9449788066,2,0.9869654677207493,1,0
+Copiah County,White,53,Male,High School,Unemployed,35764.58881562892,1,5.695682439886928,1,0
+Copiah County,Black,65,Female,Less than High School,Unemployed,15543.960706723767,1,5.319102317674201,0,0
+Copiah County,Black,61,Male,Bachelor's Degree,Employed,33877.39464167727,4,4.2395327031751835,1,0
+Copiah County,White,65,Male,Some College,Employed,36050.01218617288,3,2.077878588341771,1,0
+Copiah County,White,37,Male,Less than High School,Unemployed,35184.47476501491,0,3.8177161097839702,1,0
+Copiah County,Black,33,Male,Less than High School,Employed,34637.93788696487,2,2.0360922667476347,1,0
+Copiah County,White,62,Female,High School,Employed,14447.57254286864,3,6.805363455716037,0,1
+Copiah County,White,61,Male,Bachelor's Degree,Employed,36278.53515618119,3,5.509898487991961,1,0
+Copiah County,Black,52,Male,High School,Employed,14485.909812269572,3,6.5007762905546915,1,1
+Copiah County,Black,60,Male,Less than High School,Employed,34334.25750723185,0,1.8547274523675845,1,0
+Copiah County,Black,61,Female,Bachelor's Degree,Employed,122375.56914953046,1,9.810427236877445,0,1
+Copiah County,Other,29,Female,High School,Employed,36299.94911966799,2,5.935206927549547,1,0

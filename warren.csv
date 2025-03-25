@@ -1,0 +1,1001 @@
+County,Race,Age,Gender,Education Level,Employment Status,Income Level,Prior Convictions,Risk Score,Judge Decision,Re-offense
+Warren County,White,18,Male,High School,Unemployed,34165.96989307567,1,3.89963209507789,1,0
+Warren County,Black,37,Male,High School,Employed,34114.425796751995,2,7.631000028973883,0,0
+Warren County,White,49,Male,Less than High School,Unemployed,36421.89103182363,0,6.278392730173685,0,0
+Warren County,White,33,Female,Less than High School,Employed,121869.32749811883,1,1.0197316968394072,1,0
+Warren County,Black,19,Male,Bachelor's Degree,Employed,73289.62294596473,1,5.587222368530924,0,0
+Warren County,Black,34,Female,Bachelor's Degree,Employed,35907.89391846287,2,4.655994520336203,0,0
+Warren County,White,70,Female,Some College,Employed,34824.08944857689,2,1.8232334448672798,1,1
+Warren County,White,45,Male,High School,Employed,35968.48694934314,0,5.3661761457749355,1,0
+Warren County,Black,64,Female,Bachelor's Degree,Employed,33478.781551475346,1,5.101115011743209,0,0
+Warren County,White,62,Male,Less than High School,Unemployed,14981.356790510075,2,6.249687093355255,1,0
+Warren County,Black,29,Female,High School,Employed,14300.420400274923,1,5.424701393154963,0,0
+Warren County,Black,33,Male,Less than High School,Employed,33469.286212093735,0,7.657873793026793,1,0
+Warren County,Black,64,Female,High School,Employed,15609.656180016616,1,8.531908225280675,1,1
+Warren County,Other,49,Male,Less than High School,Unemployed,14458.868056676392,6,5.654806932813932,1,0
+Warren County,White,59,Female,Master's Degree,Employed,75243.15511706412,1,2.8090949803242604,1,0
+Warren County,White,34,Female,Some College,Employed,34688.83460910247,1,4.683404509853434,0,0
+Warren County,White,45,Male,High School,Unemployed,14771.014989388263,2,5.765090691551445,1,1
+Warren County,White,23,Male,Some College,Unemployed,15599.750018530909,0,5.0247564316322375,1,1
+Warren County,White,35,Female,Master's Degree,Employed,33326.38188871421,3,2.9591670111852695,0,0
+Warren County,White,20,Male,Less than High School,Unemployed,76228.42264631692,2,2.8747374841188256,1,0
+Warren County,White,39,Female,Some College,Employed,78475.45825660163,1,6.1342234736668555,1,0
+Warren County,White,59,Female,Some College,Unemployed,75451.26137596382,2,4.639493860652042,1,0
+Warren County,White,42,Male,Less than High School,Unemployed,36528.87861711582,0,4.792144648535218,0,0
+Warren County,White,32,Male,High School,Employed,33432.90257750108,2,4.866361843293692,0,0
+Warren County,White,42,Female,High School,Employed,34715.77661675956,4,3.964855987373629,0,1
+Warren County,White,68,Female,Master's Degree,Employed,122001.97238702563,1,1.0570351922786028,1,0
+Warren County,Black,52,Male,High School,Employed,15346.231447471093,3,3.759739025726688,0,0
+Warren County,Black,28,Male,Less than High School,Unemployed,36684.53981674036,0,7.019928213779057,0,0
+Warren County,Black,40,Male,High School,Employed,14634.795093666371,3,6.110897482634451,0,1
+Warren County,Black,72,Female,Bachelor's Degree,Employed,15231.26190221111,3,8.183610742895997,0,1
+Warren County,White,62,Female,High School,Unemployed,33943.34171465909,5,6.129053822281726,1,0
+Warren County,Black,56,Female,Bachelor's Degree,Employed,15097.995381857414,2,9.341048247374584,0,0
+Warren County,White,28,Male,Some College,Unemployed,74729.49365016252,0,1.826020637194112,1,0
+Warren County,Black,71,Female,Bachelor's Degree,Employed,78540.03997223653,2,5.448885537253334,0,0
+Warren County,Black,49,Male,High School,Unemployed,75813.95454522349,2,5.465632033074559,0,0
+Warren County,White,61,Male,High School,Employed,14774.259558130227,1,5.308397348116461,1,1
+Warren County,White,31,Female,High School,Unemployed,14421.143677331898,1,2.8827682615040224,1,1
+Warren County,Black,33,Male,Less than High School,Employed,14476.870243102401,2,6.4367409596089376,0,0
+Warren County,White,45,Male,Master's Degree,Employed,34038.60925482932,0,4.147386421209726,1,0
+Warren County,White,63,Female,Some College,Unemployed,14626.449992010446,2,7.904243989983362,0,0
+Warren County,Black,23,Male,Less than High School,Employed,129382.70072301422,1,0.9244076469689558,1,0
+Warren County,Other,29,Female,Less than High School,Employed,15091.834182423787,1,4.995176910111271,1,0
+Warren County,Black,31,Female,Less than High School,Unemployed,35081.86818981028,1,5.441266225338262,0,0
+Warren County,Black,29,Male,High School,Unemployed,33651.69105154226,1,6.491184482494539,0,0
+Warren County,White,41,Female,Master's Degree,Employed,77701.04770012076,2,4.758779981600017,0,0
+Warren County,Black,33,Male,Bachelor's Degree,Employed,15334.221454812725,2,6.195026741224778,0,1
+Warren County,White,44,Female,PhD,Employed,14351.502542850001,2,5.774053291307293,1,1
+Warren County,Black,27,Male,Some College,Employed,127597.93871537212,0,7.028095229648935,0,0
+Warren County,Black,40,Female,Some College,Unemployed,15065.307326013966,1,6.056052335211936,1,1
+Warren County,Black,40,Male,High School,Employed,33536.038710113724,3,7.495767128840844,0,1
+Warren County,Black,33,Female,High School,Unemployed,74687.25481146491,2,10.939169255529118,1,0
+Warren County,White,56,Female,Bachelor's Degree,Employed,124808.70358912558,3,6.330159388033338,1,0
+Warren County,Black,28,Female,High School,Unemployed,72493.30905122457,1,8.703198306502703,1,0
+Warren County,Black,36,Male,Master's Degree,Employed,36559.943514500985,2,3.2368964102565894,1,0
+Warren County,White,42,Male,Master's Degree,Employed,36224.913800182316,2,3.0587399872866516,0,0
+Warren County,White,66,Female,Bachelor's Degree,Employed,35591.57818065188,2,5.421874235023116,1,1
+Warren County,Black,53,Female,Some College,Employed,74717.21670750456,1,7.341588003283071,0,1
+Warren County,Black,46,Female,Some College,Employed,14867.648312376763,1,3.756786289935316,1,1
+Warren County,White,23,Female,High School,Employed,15226.460200726431,2,8.18140912003897,0,1
+Warren County,Black,43,Male,Less than High School,Employed,35159.01154292416,3,8.685594595373876,0,0
+Warren County,White,32,Female,Less than High School,Employed,33467.9558705866,4,3.9109418317515856,0,1
+Warren County,White,29,Male,High School,Unemployed,35043.75927069616,1,3.817079225419117,0,0
+Warren County,White,54,Male,High School,Employed,36072.41266031494,0,4.262990007321544,1,0
+Warren County,White,60,Male,Less than High School,Unemployed,14938.859816395436,2,2.9140519960161537,1,1
+Warren County,Black,49,Male,Some College,Unemployed,14327.934866331401,3,7.649495215499809,0,0
+Warren County,Black,33,Female,High School,Unemployed,36001.973697844114,2,8.068313733053198,0,1
+Warren County,White,40,Female,Master's Degree,Employed,33954.77323747591,2,6.4972939149646685,0,0
+Warren County,White,26,Male,Bachelor's Degree,Employed,34155.17292210813,0,5.302196980754039,1,1
+Warren County,Black,21,Female,Bachelor's Degree,Employed,14497.059530148443,3,4.574550643679771,0,1
+Warren County,Black,66,Male,Bachelor's Degree,Employed,122877.68831089372,0,6.58426432392062,0,0
+Warren County,White,30,Male,Less than High School,Employed,76925.63629266476,0,7.381142677015321,0,0
+Warren County,White,58,Male,High School,Employed,125242.32324379923,4,5.638458817841007,1,0
+Warren County,Black,46,Male,Some College,Unemployed,33967.08445952749,3,3.604417693698882,1,0
+Warren County,Black,24,Female,Some College,Unemployed,15566.745117228062,0,2.1261845713819336,1,1
+Warren County,White,21,Female,High School,Employed,36328.53649233036,2,7.289600281386664,1,0
+Warren County,White,67,Female,Some College,Unemployed,15555.86763756901,3,5.2290071680409875,1,0
+Warren County,Black,72,Female,High School,Unemployed,14608.194317072308,5,6.325524416023135,0,0
+Warren County,White,49,Male,High School,Unemployed,74634.29508135741,4,4.5740446517340905,1,0
+Warren County,Black,38,Male,High School,Employed,78637.42242105656,4,6.801852019961982,0,1
+Warren County,White,68,Female,Some College,Unemployed,77040.09357232493,1,4.61586905952513,0,1
+Warren County,White,52,Female,High School,Employed,33345.08597428946,2,3.217862055525356,1,0
+Warren County,Black,29,Female,High School,Unemployed,14347.806886890738,1,9.221936628289605,0,1
+Warren County,Black,68,Female,Less than High School,Employed,14945.8970652185,1,3.8647184198821196,1,1
+Warren County,White,69,Female,High School,Employed,15613.83030879234,1,4.563558350286024,0,0
+Warren County,Black,73,Male,PhD,Employed,75290.26348464536,2,2.8865893930293973,0,0
+Warren County,Black,59,Female,Some College,Employed,74983.59381025717,2,7.720293315242795,0,1
+Warren County,White,58,Female,Master's Degree,Employed,33619.15794984821,3,5.229606178338065,1,0
+Warren County,Black,45,Female,Bachelor's Degree,Employed,15235.170157086442,3,5.137557471355213,0,0
+Warren County,Black,67,Male,Some College,Employed,15483.154740900336,0,7.542097839606857,1,1
+Warren County,White,24,Male,Some College,Employed,34581.47002627647,1,7.955543880259119,0,1
+Warren County,White,42,Female,Bachelor's Degree,Employed,35964.64147823865,2,6.467431944313622,1,0
+Warren County,White,24,Female,Less than High School,Unemployed,36625.66828865284,1,5.213244787222995,1,1
+Warren County,White,45,Female,High School,Employed,33963.18260694691,1,2.104314019446759,1,0
+Warren County,White,57,Female,High School,Unemployed,75174.97223396057,2,6.073532637083395,1,0
+Warren County,Black,19,Female,Some College,Employed,34254.98285329602,1,5.270967179954561,0,0
+Warren County,Black,52,Female,High School,Unemployed,15439.281628550758,2,6.991313834910147,0,1
+Warren County,White,59,Male,Some College,Unemployed,75581.95024410868,4,2.0090931317527976,1,1
+Warren County,Other,25,Male,High School,Unemployed,15201.873626325456,1,6.89855742570197,0,1
+Warren County,White,65,Male,Less than High School,Unemployed,15446.87123942384,3,4.5254191267440955,1,0
+Warren County,White,70,Female,High School,Employed,34635.89665431859,1,7.3726262831892875,0,0
+Warren County,Black,40,Female,Bachelor's Degree,Employed,78113.17551305282,1,6.344000859961429,0,0
+Warren County,White,18,Male,High School,Employed,75247.71650434604,1,4.109128329011025,0,0
+Warren County,Black,64,Female,Bachelor's Degree,Employed,72434.6611712651,3,6.740098373506858,1,1
+Warren County,Black,55,Male,High School,Employed,15293.848677253205,1,7.011998967630585,1,0
+Warren County,White,37,Female,High School,Employed,15439.892025657382,2,5.407566473926093,0,1
+Warren County,Other,41,Male,Less than High School,Unemployed,34358.66586973634,5,4.749292229148875,1,1
+Warren County,Black,21,Female,Less than High School,Unemployed,129464.7407124844,2,3.928306338428504,1,0
+Warren County,Black,52,Male,Bachelor's Degree,Employed,36421.501391680176,2,5.255551138543049,0,0
+Warren County,Black,53,Male,Less than High School,Employed,14665.356731066713,4,4.7287981654916225,0,0
+Warren County,White,63,Female,Bachelor's Degree,Employed,78626.41104536416,1,3.6615839278630347,1,0
+Warren County,Black,48,Female,Less than High School,Unemployed,14461.067292073136,4,6.705652034079275,0,1
+Warren County,Black,31,Female,High School,Employed,33957.054839408716,2,4.661221287254004,0,0
+Warren County,Black,45,Male,Some College,Employed,14526.337258857038,3,6.515637182811088,0,0
+Warren County,Black,58,Female,High School,Employed,36378.96398502754,1,5.308120379564417,0,0
+Warren County,Black,40,Female,Some College,Unemployed,76157.1941424372,1,6.160084507812509,0,0
+Warren County,Black,51,Female,Master's Degree,Employed,33782.36499127795,1,7.520044826262804,0,0
+Warren County,Black,58,Female,Less than High School,Unemployed,74552.42563776262,0,6.364406492278938,0,0
+Warren County,White,38,Female,High School,Employed,75864.73518802351,0,2.8119420353316213,0,0
+Warren County,Black,64,Male,Some College,Employed,33542.12429746284,2,6.471070798187974,0,0
+Warren County,Other,52,Female,Less than High School,Unemployed,36338.457289425685,2,3.0236053451493907,1,0
+Warren County,Black,28,Male,High School,Unemployed,15455.405303162303,0,6.368928186196875,1,0
+Warren County,White,23,Male,Some College,Employed,125065.08466970798,1,5.396091299923493,0,0
+Warren County,White,44,Male,High School,Employed,36634.9431534071,1,1.9272013899887457,0,0
+Warren County,Black,74,Male,High School,Employed,14876.641468912649,3,5.532062309433212,0,0
+Warren County,White,37,Male,Bachelor's Degree,Employed,131051.37898795621,1,6.6191092275587184,0,0
+Warren County,White,53,Female,Some College,Employed,76259.39999102721,1,3.9416862309010052,1,0
+Warren County,White,70,Female,High School,Employed,35471.349456388794,1,3.1908088595534956,1,0
+Warren County,Black,53,Male,High School,Unemployed,72494.66171471839,2,3.216438349953806,1,0
+Warren County,White,45,Male,Master's Degree,Employed,129774.09697880804,1,4.506952130531191,1,1
+Warren County,Black,32,Male,High School,Employed,34746.21390772215,0,5.010747302577566,0,0
+Warren County,White,63,Male,Bachelor's Degree,Employed,120777.91757228099,1,0.9834822006297559,1,0
+Warren County,Black,22,Female,Bachelor's Degree,Employed,71344.55639981819,0,0.9444215620941461,1,0
+Warren County,White,37,Male,Less than High School,Employed,125746.94604547978,2,6.467811514267156,0,1
+Warren County,White,52,Male,High School,Employed,15041.099433184016,3,4.837615171403628,1,0
+Warren County,White,63,Male,Less than High School,Unemployed,15329.030433553737,1,8.708655526260031,0,0
+Warren County,White,18,Female,Some College,Unemployed,15585.387079526703,1,6.752484104829057,0,1
+Warren County,Black,35,Female,Some College,Employed,33527.9230462506,1,5.018790621743366,1,0
+Warren County,White,71,Female,High School,Employed,15347.244735510543,1,8.324830334232285,0,1
+Warren County,White,24,Female,Some College,Employed,33905.941804341535,0,2.9181777614275766,1,0
+Warren County,White,21,Female,Less than High School,Employed,36253.61968605007,1,6.566138499265152,1,0
+Warren County,White,55,Male,Less than High School,Employed,36116.72229851579,2,3.277468376965267,1,0
+Warren County,Black,20,Male,Bachelor's Degree,Employed,35142.7781424494,0,4.751782295825365,0,1
+Warren County,White,70,Male,Some College,Unemployed,15315.364197934965,3,2.998349103535431,1,1
+Warren County,Black,18,Male,High School,Unemployed,14721.525169775621,0,6.721229633743477,0,0
+Warren County,Black,60,Male,Bachelor's Degree,Employed,74783.75924199611,3,3.827872395501974,1,0
+Warren County,White,61,Female,High School,Employed,15482.455346565706,3,5.44426433682544,0,1
+Warren County,White,49,Female,High School,Employed,14938.89779575982,1,5.109564333979897,1,1
+Warren County,Other,63,Male,Some College,Unemployed,34502.29392863905,3,6.0032148278746345,1,0
+Warren County,Other,53,Female,High School,Employed,34979.74356537605,2,4.55147875124999,0,0
+Warren County,White,68,Female,Master's Degree,Employed,129103.11565546523,7,3.8229171713892893,0,1
+Warren County,Black,65,Male,Less than High School,Unemployed,14752.812071056309,1,5.408265885966655,0,1
+Warren County,White,37,Male,Bachelor's Degree,Employed,72553.21194851807,4,3.791649512533578,1,1
+Warren County,Other,55,Male,Less than High School,Employed,35742.04907115773,3,2.786936923254734,1,0
+Warren County,Black,27,Female,Less than High School,Employed,15488.967319062123,0,4.989452760277563,0,1
+Warren County,White,26,Male,Less than High School,Employed,33602.23117483236,3,6.582780544932721,1,0
+Warren County,Black,43,Male,Some College,Employed,14609.811169133916,2,4.7420552715115,0,0
+Warren County,White,69,Male,Bachelor's Degree,Employed,72314.78992320746,0,3.103281328443527,1,1
+Warren County,White,28,Male,Some College,Unemployed,14771.91211737325,0,6.3139435383944615,0,0
+Warren County,Black,41,Male,Some College,Unemployed,34826.22842616894,2,6.6326925615893595,1,0
+Warren County,White,38,Male,Some College,Unemployed,76866.1975272248,1,3.136929809167116,1,0
+Warren County,White,65,Female,Some College,Employed,76133.60688661256,4,3.8942265061754027,1,0
+Warren County,White,23,Female,Bachelor's Degree,Employed,126511.60709348039,1,3.079383498356148,1,0
+Warren County,Other,61,Female,Some College,Employed,14778.562419914482,1,5.133529710760895,1,0
+Warren County,White,21,Male,High School,Unemployed,15512.17132962714,0,8.057239494519614,0,0
+Warren County,Black,68,Female,Less than High School,Unemployed,34899.50508589357,1,5.50834772406529,0,0
+Warren County,White,39,Female,High School,Employed,15718.65740702273,3,10.670604991178475,0,1
+Warren County,White,34,Female,Master's Degree,Employed,76006.06603721803,1,4.820780064971736,1,1
+Warren County,Black,67,Female,Less than High School,Unemployed,33691.92659547576,2,5.6238222124798245,0,0
+Warren County,White,30,Male,Some College,Employed,35616.62146726401,0,5.448930169865717,1,0
+Warren County,White,69,Male,Master's Degree,Employed,34387.86405401094,0,1.0181785886376484,1,0
+Warren County,Black,66,Female,High School,Employed,15279.490795029147,2,5.177564361842283,0,0
+Warren County,White,53,Female,Some College,Employed,33493.74401856842,1,5.419905394713427,0,0
+Warren County,White,25,Female,High School,Unemployed,14512.322155763939,0,7.016930281618993,0,1
+Warren County,White,51,Male,High School,Unemployed,36245.08040617025,6,5.6717949302375255,1,0
+Warren County,Black,26,Male,Bachelor's Degree,Employed,34045.1284495823,4,7.20324190657323,0,1
+Warren County,Black,41,Male,Bachelor's Degree,Employed,36179.643938350295,1,8.413859572208985,0,1
+Warren County,Black,55,Male,Bachelor's Degree,Employed,73344.57066340807,1,5.190937738102466,0,0
+Warren County,Black,24,Male,Some College,Unemployed,15214.322865088061,1,8.796123623340968,0,1
+Warren County,White,27,Female,High School,Employed,35679.52700728441,2,4.349383990989388,1,0
+Warren County,Black,26,Female,High School,Employed,75094.91064858789,3,3.710016755316795,1,0
+Warren County,Black,63,Female,Master's Degree,Employed,73539.83007522549,3,5.809279621260311,1,0
+Warren County,Black,50,Female,Master's Degree,Employed,72844.83282278322,3,4.613473521240589,0,0
+Warren County,White,70,Female,Less than High School,Employed,14299.78403184364,3,7.594571065589989,0,1
+Warren County,White,28,Male,High School,Unemployed,34313.81240434253,2,8.60374296540957,1,0
+Warren County,Black,57,Female,High School,Employed,126914.53488164104,4,3.8063533021721248,1,0
+Warren County,White,43,Female,High School,Employed,36534.06686456969,2,5.15998404603418,0,0
+Warren County,White,57,Male,Less than High School,Unemployed,77784.0336169729,0,7.4441110802817025,0,0
+Warren County,Black,29,Female,Master's Degree,Employed,128325.80970669127,0,8.08832129855914,0,1
+Warren County,White,39,Male,Master's Degree,Employed,77163.35507439973,4,9.053371041040812,0,0
+Warren County,White,40,Male,Some College,Unemployed,15247.477355213992,0,4.741852290900452,1,0
+Warren County,White,35,Male,Bachelor's Degree,Employed,122003.58571957504,2,2.7558616606835398,1,0
+Warren County,White,61,Male,Bachelor's Degree,Employed,36425.1826074704,1,6.476658909543992,1,1
+Warren County,White,47,Male,Bachelor's Degree,Employed,76280.49233929376,3,2.1601672228653324,1,1
+Warren County,White,33,Male,Less than High School,Employed,35211.542208431536,4,2.053240582909307,1,1
+Warren County,White,69,Male,Less than High School,Employed,33638.46314224718,4,0.9678059582097401,1,0
+Warren County,Other,24,Female,Some College,Employed,34814.694403322486,0,3.879367659690129,0,0
+Warren County,White,43,Female,Some College,Employed,14940.537406802889,4,4.180764543096192,0,0
+Warren County,Black,66,Male,Less than High School,Employed,15546.845414284006,0,2.158844103981031,0,1
+Warren County,Black,52,Male,Less than High School,Unemployed,75349.86165140841,3,9.696755563677211,0,1
+Warren County,Black,43,Male,High School,Employed,34581.401921396435,4,7.391825764200673,0,0
+Warren County,White,37,Female,Some College,Unemployed,15715.200492765987,2,7.198844304616003,0,0
+Warren County,White,74,Male,PhD,Employed,72080.40444994737,0,1.8336559859980195,1,0
+Warren County,White,49,Male,Some College,Employed,14883.822642467916,3,4.661628714094614,1,0
+Warren County,Black,23,Female,Bachelor's Degree,Employed,71565.18506378554,4,9.717397539348744,0,1
+Warren County,Black,48,Female,Some College,Employed,15359.856181150395,4,6.1277148715915075,0,0
+Warren County,Black,55,Female,Less than High School,Employed,15627.114828298727,1,6.312875872263281,0,0
+Warren County,Black,18,Male,Some College,Unemployed,14670.055994325734,3,7.362354468585652,0,1
+Warren County,Black,45,Male,High School,Unemployed,36254.19586879692,2,4.130801415286445,1,0
+Warren County,Black,69,Female,Master's Degree,Employed,73441.63672846423,2,4.505061583846219,0,0
+Warren County,Black,66,Male,Some College,Unemployed,36437.6955657537,3,7.457292882267998,1,1
+Warren County,White,18,Female,High School,Unemployed,35888.86666258874,2,5.048733789366587,1,0
+Warren County,White,63,Male,Bachelor's Degree,Employed,36067.173718945036,3,6.230274237231232,1,0
+Warren County,White,60,Male,High School,Employed,71385.04916700341,1,4.121569007602081,1,0
+Warren County,White,49,Male,High School,Unemployed,36619.83624975909,4,7.558830895136896,0,1
+Warren County,Black,60,Male,Bachelor's Degree,Employed,35793.34847224613,3,8.339486754156058,0,0
+Warren County,White,46,Female,High School,Employed,34316.628833851464,3,7.579598539994881,0,0
+Warren County,Black,72,Male,Less than High School,Employed,15494.09199728827,2,4.825399698159268,0,0
+Warren County,Black,36,Male,Some College,Unemployed,34235.32419445225,2,7.3450879671652345,0,0
+Warren County,Black,74,Male,Bachelor's Degree,Employed,36304.638438481445,0,5.149632899047215,0,0
+Warren County,Black,54,Male,Some College,Employed,33644.03136644178,1,7.488912774691849,0,0
+Warren County,Black,45,Male,Master's Degree,Employed,127546.07471825993,4,6.189135470760412,1,1
+Warren County,Other,47,Female,High School,Employed,35142.44466825718,3,3.040985162001283,1,0
+Warren County,Black,60,Male,High School,Employed,71974.0085264658,3,3.674939814262474,1,0
+Warren County,Black,41,Male,Master's Degree,Employed,121773.67285323548,3,5.84125896367132,1,0
+Warren County,White,20,Male,Less than High School,Unemployed,33293.4141269706,1,4.7652023676817254,1,0
+Warren County,White,49,Female,High School,Employed,14953.151948196759,3,2.84639378602745,1,1
+Warren County,Black,71,Male,Less than High School,Unemployed,73509.48945570001,1,7.662214776653424,0,0
+Warren County,Black,20,Male,Some College,Employed,15147.536226446637,0,9.78619544933352,0,1
+Warren County,White,70,Female,High School,Employed,73479.28355781462,5,5.392046555177114,0,0
+Warren County,Black,47,Male,Some College,Unemployed,34299.716890274445,0,4.10491090079781,1,0
+Warren County,Black,47,Female,Less than High School,Employed,15364.789798097405,4,4.235849042833319,0,0
+Warren County,White,49,Male,Less than High School,Employed,71611.07126983764,3,7.003691930347269,0,0
+Warren County,White,32,Female,Less than High School,Employed,78021.7124639399,2,6.092284661551631,1,0
+Warren County,Black,58,Male,High School,Employed,15528.395811586772,5,4.992517693818864,0,1
+Warren County,Black,20,Male,High School,Employed,35587.31639129242,2,7.512388780476871,0,1
+Warren County,White,33,Male,Bachelor's Degree,Employed,15139.832355161077,2,5.222452115261506,1,0
+Warren County,Black,40,Male,Master's Degree,Employed,36373.05874348878,3,6.693081307417199,1,0
+Warren County,White,46,Female,Bachelor's Degree,Employed,33898.6556283505,3,3.6194527731451633,1,1
+Warren County,White,57,Male,High School,Unemployed,14368.453743286242,1,5.145472295907167,0,1
+Warren County,Black,63,Female,Some College,Employed,14609.265254864307,1,5.612532815288459,0,1
+Warren County,Black,52,Male,Master's Degree,Employed,15441.867418050286,1,9.792825451835245,1,0
+Warren County,White,51,Male,Master's Degree,Employed,33371.34593354269,3,7.635500007803621,0,0
+Warren County,White,59,Female,Some College,Employed,35289.82392279221,3,4.331891512176359,1,0
+Warren County,Black,21,Female,Master's Degree,Employed,78715.78137143483,0,2.922095220153267,1,0
+Warren County,Black,31,Female,Bachelor's Degree,Employed,15533.544140756308,3,6.321639263140415,0,1
+Warren County,White,51,Male,High School,Unemployed,35075.05991165256,5,7.599645987622816,0,1
+Warren County,White,73,Female,Less than High School,Unemployed,71727.3068196498,3,0.9856368296634629,1,0
+Warren County,Black,44,Female,Less than High School,Employed,36159.80730034998,0,4.373323855234936,1,0
+Warren County,Other,46,Female,Some College,Employed,35346.42477862023,3,4.370895981671403,0,0
+Warren County,Other,47,Male,High School,Unemployed,72111.99747794674,1,2.141203782186944,1,0
+Warren County,White,28,Male,High School,Unemployed,33578.500496881745,1,1.9177795568278344,1,0
+Warren County,White,37,Female,Bachelor's Degree,Employed,78072.20114577444,1,4.8850977286019255,1,0
+Warren County,Other,24,Male,Some College,Employed,35592.20092028328,2,6.421364005820228,1,0
+Warren County,White,45,Male,Less than High School,Employed,15493.930198975133,1,7.707075208250044,0,0
+Warren County,Black,29,Female,PhD,Employed,36326.426150987936,0,2.8016956480116555,1,0
+Warren County,Black,75,Male,High School,Employed,15107.658528072485,1,1.01136025249167,1,1
+Warren County,White,66,Male,High School,Employed,15026.169527632563,2,6.5233857289929364,1,0
+Warren County,White,26,Male,High School,Unemployed,34756.495936123465,1,9.352853634014952,0,1
+Warren County,White,65,Male,Some College,Employed,34359.31305726892,0,5.070061170089365,1,0
+Warren County,Black,22,Female,Less than High School,Employed,34771.085863005486,4,4.597176493770768,0,0
+Warren County,White,54,Male,High School,Employed,15410.819483595234,0,8.184011562718672,0,1
+Warren County,Black,49,Female,Some College,Employed,15152.885146522698,2,5.490053850104264,0,1
+Warren County,Black,25,Male,High School,Employed,15588.784934932268,0,7.424134424378439,0,0
+Warren County,Black,58,Male,Less than High School,Unemployed,34801.83005032715,2,5.018329652363737,0,0
+Warren County,White,49,Female,Some College,Unemployed,75803.17184039064,2,5.3773730719279556,1,0
+Warren County,Black,34,Male,Less than High School,Unemployed,126641.34441364986,8,6.288922341305046,0,0
+Warren County,White,26,Female,Bachelor's Degree,Employed,35320.94006807214,0,4.157612592796214,1,0
+Warren County,White,62,Female,Bachelor's Degree,Employed,35709.218205799305,1,4.161987267189687,1,0
+Warren County,Black,20,Male,Master's Degree,Employed,121717.91835468507,1,5.831389381463707,0,0
+Warren County,White,63,Female,High School,Employed,15018.545666318685,1,2.8761551065586963,1,1
+Warren County,White,70,Male,Bachelor's Degree,Employed,120052.81003510434,0,3.185616693287108,1,0
+Warren County,White,26,Male,Some College,Employed,34595.78964675684,2,3.1860680368075087,0,0
+Warren County,White,36,Male,Bachelor's Degree,Employed,74907.50301465948,2,6.440486782296125,1,0
+Warren County,Black,45,Male,Some College,Unemployed,15228.336389318209,1,7.578536773579059,0,0
+Warren County,White,61,Male,Bachelor's Degree,Employed,15675.796578879304,3,8.018147838177502,0,0
+Warren County,Black,59,Female,Less than High School,Employed,15150.976599822534,1,4.0012130357497595,1,0
+Warren County,White,43,Female,Bachelor's Degree,Employed,35852.578706617955,1,2.11931807158671,1,0
+Warren County,White,20,Male,High School,Unemployed,35021.9312082332,1,1.0299927861555531,0,0
+Warren County,Black,23,Male,Some College,Employed,35469.36410981716,1,5.2019668772577035,0,0
+Warren County,Black,18,Female,Some College,Employed,33498.262756468204,1,5.295792669436102,0,0
+Warren County,White,72,Male,High School,Unemployed,34140.370532946465,3,7.546007478544593,0,0
+Warren County,Black,42,Female,Master's Degree,Employed,14792.779639807708,3,2.902797094110922,1,0
+Warren County,Black,44,Male,PhD,Employed,34903.7267425228,0,2.9253497715839663,1,0
+Warren County,Black,46,Female,Less than High School,Unemployed,33409.77060925834,5,3.6751855518726955,1,1
+Warren County,White,36,Female,High School,Employed,14460.036146329976,3,6.093936169195409,1,1
+Warren County,Black,38,Female,Bachelor's Degree,Employed,73326.10730843479,3,5.44313072855609,0,0
+Warren County,Black,47,Male,Some College,Unemployed,36650.36441815368,1,3.9724784145059684,1,0
+Warren County,Black,27,Male,Less than High School,Employed,34409.714524860676,2,9.076760342473639,0,0
+Warren County,Black,41,Male,High School,Employed,34937.143703392285,0,4.786541252128284,0,1
+Warren County,White,73,Female,High School,Employed,33936.34199458438,0,2.0363333042276044,1,0
+Warren County,White,27,Male,Some College,Employed,15166.17010661365,0,5.43660029992686,1,1
+Warren County,White,37,Male,Bachelor's Degree,Employed,122258.54019394968,1,3.6298785509993716,1,0
+Warren County,Black,51,Male,Bachelor's Degree,Employed,121337.40723048033,3,7.451640784923521,0,0
+Warren County,Black,28,Female,Some College,Unemployed,35058.00419956093,1,7.7763050262580204,0,1
+Warren County,White,70,Female,High School,Unemployed,33269.27029706147,1,5.552472615182262,1,1
+Warren County,White,59,Male,Some College,Unemployed,33276.82411427228,3,3.0133459560328824,1,0
+Warren County,Black,64,Male,High School,Unemployed,34016.7408318565,5,7.377990974338055,0,1
+Warren County,White,20,Female,Some College,Employed,14305.08204375123,1,3.7726568219974745,1,1
+Warren County,Black,67,Male,Some College,Unemployed,14412.038631196037,0,6.1474685709828005,0,1
+Warren County,White,71,Female,High School,Employed,34436.01227268563,2,3.6682779719950145,1,0
+Warren County,Black,73,Female,Less than High School,Employed,15453.878519369719,2,7.2826907538697725,0,1
+Warren County,White,39,Male,Some College,Unemployed,125900.60804211625,3,8.050167410509037,1,1
+Warren County,Black,60,Male,Some College,Employed,75095.00794467313,0,6.048762145932128,0,0
+Warren County,White,42,Female,Some College,Unemployed,14690.233234812182,2,6.164915881797849,1,1
+Warren County,Black,58,Male,High School,Unemployed,15647.630579149225,3,10.452182667445324,0,1
+Warren County,Black,63,Male,High School,Employed,14845.522561855787,2,6.5710224953550425,1,1
+Warren County,Black,23,Male,Less than High School,Employed,14380.639150193656,0,4.013040278640957,1,0
+Warren County,Black,34,Male,Some College,Employed,15175.5997741767,2,7.716730356705994,0,0
+Warren County,White,62,Female,High School,Employed,33648.4343771681,0,3.1771117168612224,1,0
+Warren County,Black,38,Female,Bachelor's Degree,Employed,73839.17357101268,2,3.8166658010096595,1,0
+Warren County,Black,30,Female,Some College,Unemployed,35025.94178551233,0,2.963382852423382,1,0
+Warren County,Black,74,Male,Master's Degree,Employed,77806.6689351388,1,2.7470738288053598,0,0
+Warren County,White,53,Male,Bachelor's Degree,Employed,74951.59935255088,2,6.3354910407816405,0,0
+Warren County,White,50,Male,Bachelor's Degree,Employed,35707.905681110824,0,4.37011873174234,1,0
+Warren County,White,58,Male,Some College,Employed,78696.12629249303,0,3.201588072307324,1,0
+Warren County,White,49,Female,High School,Employed,14447.233679846971,1,6.235169047312438,1,1
+Warren County,White,71,Female,Some College,Unemployed,14662.097288279278,3,1.963581177765708,1,0
+Warren County,White,40,Male,Some College,Unemployed,34631.01626459176,2,1.8693177280283384,1,0
+Warren County,Black,51,Male,Some College,Employed,34726.39862488591,1,2.7938622256026515,1,0
+Warren County,Black,55,Male,Less than High School,Employed,34688.573763429406,1,6.650340057430434,0,0
+Warren County,White,45,Male,Less than High School,Unemployed,36426.63850894794,0,2.019690665882448,1,0
+Warren County,White,36,Male,PhD,Employed,76605.24483350142,0,4.17167673816005,1,0
+Warren County,White,32,Female,Bachelor's Degree,Employed,126348.81517613378,3,7.224276327404824,1,0
+Warren County,White,32,Female,High School,Employed,73570.29538397086,0,4.779933896945943,1,0
+Warren County,Black,53,Female,High School,Unemployed,15485.685576331942,4,5.454865280663195,1,1
+Warren County,White,45,Female,Some College,Employed,15682.590767227483,2,6.285476300034922,1,1
+Warren County,White,37,Female,Some College,Unemployed,15481.79742382534,2,5.054354052511401,1,1
+Warren County,White,65,Male,Master's Degree,Employed,33255.47786817016,0,3.067032447740612,1,0
+Warren County,White,61,Male,High School,Employed,35477.40479564192,5,7.871360099884464,0,1
+Warren County,White,68,Male,Less than High School,Employed,33428.97383504735,1,3.798184791600926,1,0
+Warren County,White,35,Female,High School,Unemployed,14636.410830500583,6,5.8271672143815145,1,1
+Warren County,Black,75,Female,Some College,Employed,33458.3364512172,3,6.3094153325572435,0,0
+Warren County,White,45,Male,High School,Employed,35363.284085322855,3,3.611514790903805,1,0
+Warren County,White,30,Male,Less than High School,Unemployed,15279.884870238911,1,4.616072640506916,0,0
+Warren County,Black,54,Female,High School,Employed,72108.6572854943,2,5.4552031704261035,1,0
+Warren County,Black,32,Female,High School,Unemployed,34593.43609065742,2,4.54072880231897,0,0
+Warren County,Black,67,Male,Some College,Employed,14934.354763433312,0,7.497644817615409,0,1
+Warren County,White,73,Male,High School,Employed,14803.579532641374,1,3.1221947156280145,1,1
+Warren County,White,51,Male,Less than High School,Employed,72157.68750363894,4,3.9793390632698604,1,1
+Warren County,White,72,Male,Master's Degree,Employed,74392.10842640606,2,3.678267328520801,1,0
+Warren County,White,38,Male,Less than High School,Employed,76883.83535856314,3,1.996646350046733,1,0
+Warren County,White,36,Female,Bachelor's Degree,Employed,119637.59580666569,1,7.9575548332489054,0,1
+Warren County,White,60,Male,Some College,Unemployed,71851.35010561427,1,6.542482617874022,1,0
+Warren County,White,19,Female,Less than High School,Unemployed,73910.78468876988,1,5.920621979085568,1,0
+Warren County,White,63,Female,Some College,Employed,78312.94283714193,4,4.898504734397374,1,0
+Warren County,Black,75,Female,Less than High School,Unemployed,76264.29485042185,2,8.185360156883547,0,1
+Warren County,White,53,Male,Less than High School,Employed,15268.004935008845,3,6.162112381041172,1,0
+Warren County,White,34,Male,High School,Unemployed,73964.39993128399,1,3.636243207817636,1,0
+Warren County,Black,62,Male,High School,Employed,75702.45593406404,1,6.8244576604770595,1,0
+Warren County,Black,24,Female,Some College,Employed,14265.196776041614,1,9.226547848285627,0,1
+Warren County,Black,48,Male,Less than High School,Unemployed,15204.144069614313,2,7.004390762012123,1,0
+Warren County,White,48,Female,Some College,Employed,36446.50431651683,0,3.213893904712993,1,0
+Warren County,Black,58,Female,PhD,Employed,75844.30101258615,2,2.063477452647578,1,1
+Warren County,Black,75,Male,PhD,Employed,36307.94507713221,2,4.66293442708143,0,0
+Warren County,White,62,Female,Less than High School,Unemployed,35783.905694131325,1,2.742341248440258,1,0
+Warren County,Black,66,Female,Master's Degree,Employed,14430.837624605534,0,7.1993869894888425,1,1
+Warren County,White,46,Female,High School,Unemployed,36408.58657550045,5,5.431813572649947,0,0
+Warren County,Black,51,Female,Some College,Unemployed,14349.66576653366,1,3.0514653487640784,1,1
+Warren County,Black,36,Female,Some College,Employed,35118.88615391717,1,5.440230241424958,0,0
+Warren County,White,66,Male,Some College,Employed,33747.4799332771,3,3.045284506725528,1,0
+Warren County,White,44,Male,High School,Employed,14267.559916096356,1,6.843437896689131,1,1
+Warren County,Black,65,Female,Some College,Employed,34727.11991044674,2,7.200603505819295,0,0
+Warren County,Black,60,Female,Some College,Employed,34282.642476789544,1,4.958252890491517,0,0
+Warren County,Black,59,Male,Some College,Employed,14979.000740696403,0,3.0273700735895614,1,1
+Warren County,White,23,Female,Bachelor's Degree,Employed,75578.99915050913,4,1.088292961755305,1,1
+Warren County,Black,36,Female,Some College,Employed,14315.60860846342,3,4.886102637800774,0,0
+Warren County,White,50,Female,Less than High School,Employed,72172.5247134281,2,3.2767143382943487,1,0
+Warren County,White,75,Male,High School,Employed,35205.24838757649,1,4.324280513564851,0,0
+Warren County,White,62,Female,Less than High School,Employed,14764.751029758987,3,3.7566329078314373,1,1
+Warren County,White,47,Female,Some College,Unemployed,15343.760231324171,1,0.9138722601750331,1,1
+Warren County,Black,26,Female,Bachelor's Degree,Employed,76142.18736443955,1,6.441089201928397,1,0
+Warren County,White,58,Female,High School,Unemployed,77592.0327224243,2,4.51822182565155,1,0
+Warren County,Black,71,Male,Some College,Unemployed,76443.69620001919,0,3.6755543686047427,0,0
+Warren County,Black,38,Female,Less than High School,Employed,14894.896616085221,1,5.1830067734163565,0,0
+Warren County,White,26,Female,Less than High School,Unemployed,76297.24966795824,2,6.3996641078443215,0,0
+Warren County,Black,53,Female,Some College,Employed,73315.35880691562,1,6.746565882411266,1,0
+Warren County,Black,30,Female,High School,Unemployed,14709.470248167318,0,6.413850373163346,0,0
+Warren County,Black,47,Male,High School,Unemployed,15433.477739881191,5,6.3325807100301565,0,0
+Warren County,Black,65,Male,Bachelor's Degree,Employed,74598.14637301186,2,10.628936965177873,0,0
+Warren County,Black,56,Female,PhD,Employed,36044.33119181423,0,6.69459668468276,0,0
+Warren County,Black,29,Female,High School,Employed,77418.1678025121,2,4.618164827621657,0,0
+Warren County,White,55,Female,Less than High School,Unemployed,129469.52922076604,2,6.23608459843698,1,0
+Warren County,Black,41,Female,High School,Unemployed,130207.94044801508,2,7.180519985491837,1,0
+Warren County,Black,29,Female,High School,Unemployed,14896.477830769943,2,5.377472013527054,0,1
+Warren County,Black,27,Female,High School,Unemployed,14728.300227481706,2,5.235071043803886,0,0
+Warren County,White,44,Male,Bachelor's Degree,Employed,35287.6956130794,2,3.182088558230909,1,0
+Warren County,White,23,Female,Master's Degree,Employed,34549.10348203169,0,5.738441487085568,1,0
+Warren County,White,49,Female,High School,Employed,15151.611250200349,2,3.7419516350237783,1,0
+Warren County,Black,48,Female,High School,Employed,35719.55051925339,0,5.250614751640859,1,0
+Warren County,Black,63,Male,Less than High School,Unemployed,15282.607527738206,4,6.368201687120717,0,1
+Warren County,White,35,Male,Less than High School,Unemployed,34560.935104570424,2,6.5886061704008085,1,0
+Warren County,Black,31,Male,Some College,Unemployed,14500.290302548128,2,6.877664747675997,0,0
+Warren County,Black,23,Female,Less than High School,Unemployed,34756.85268461773,1,5.846421702951339,0,0
+Warren County,White,68,Female,Bachelor's Degree,Employed,33749.07950428668,1,3.165847776445198,1,0
+Warren County,White,46,Female,High School,Unemployed,36365.33962314333,3,5.808964248303622,1,1
+Warren County,White,55,Female,Less than High School,Unemployed,34460.571112582504,3,9.775363186086416,0,0
+Warren County,White,73,Male,Some College,Unemployed,14481.689620834984,5,7.501777852580216,0,1
+Warren County,White,64,Female,Bachelor's Degree,Employed,71440.85819929313,0,2.957396416425011,1,0
+Warren County,Black,30,Female,Bachelor's Degree,Employed,15218.733579429723,0,4.200696854233198,1,1
+Warren County,Black,38,Male,High School,Unemployed,15205.353476182116,2,5.254542874084683,0,0
+Warren County,Other,71,Male,Some College,Employed,14760.906249871938,1,2.7618743213015597,1,1
+Warren County,Black,58,Female,Some College,Unemployed,33500.991610966776,2,6.483063488015481,0,0
+Warren County,White,57,Female,High School,Employed,74322.21671171424,1,5.005252372447857,1,1
+Warren County,Black,56,Female,High School,Employed,73584.13121297545,1,4.261165972886193,1,0
+Warren County,White,24,Male,Some College,Unemployed,15265.680959602514,0,5.784059521236735,1,0
+Warren County,Black,60,Male,Some College,Employed,15158.668874179033,1,4.316418582796961,1,1
+Warren County,White,43,Female,Less than High School,Unemployed,34526.078048691386,1,3.9113613429873304,1,0
+Warren County,White,32,Male,Less than High School,Employed,34012.623939892466,0,3.6086701211842387,1,1
+Warren County,Black,33,Male,High School,Employed,15732.053949233386,0,7.567534766986968,0,1
+Warren County,Black,65,Male,Less than High School,Unemployed,14931.002431794172,3,5.50954401214336,1,1
+Warren County,Black,18,Male,Some College,Employed,15282.411353670355,3,8.674764547662747,0,1
+Warren County,Black,20,Female,High School,Employed,33741.93538652426,2,6.540074360460967,0,0
+Warren County,Black,69,Male,Some College,Employed,74891.92274744548,3,5.450607146937556,0,0
+Warren County,Black,48,Female,Some College,Employed,14291.305079804197,2,6.088125465747944,0,0
+Warren County,White,59,Female,High School,Unemployed,15008.182676865674,1,6.158204654603759,1,1
+Warren County,Black,24,Male,High School,Employed,36624.06092491196,0,6.9278237307696475,1,0
+Warren County,Black,23,Female,Some College,Employed,34594.7234954503,0,3.834568617358452,1,0
+Warren County,Black,36,Female,Less than High School,Unemployed,71542.47009431184,5,5.794397454443899,0,0
+Warren County,White,50,Female,Some College,Employed,14296.433686379014,2,4.138014764861631,1,1
+Warren County,White,74,Male,Bachelor's Degree,Employed,123599.83449933588,4,5.25237452943768,0,0
+Warren County,White,32,Male,High School,Employed,33810.087277621176,1,1.0583158087451698,1,0
+Warren County,White,59,Female,High School,Employed,14285.028144492278,3,2.1158472571178217,1,1
+Warren County,White,55,Female,Bachelor's Degree,Employed,76921.60210462632,5,4.591206103048691,1,0
+Warren County,Other,29,Female,High School,Unemployed,74688.92256661417,0,2.996652182821549,1,0
+Warren County,White,36,Female,Some College,Unemployed,14683.86715795898,0,5.469070512019973,0,0
+Warren County,Black,18,Female,High School,Unemployed,36400.29114055768,1,7.06934043525323,1,0
+Warren County,White,55,Male,Some College,Employed,14424.208440300788,3,5.929836601648053,1,1
+Warren County,White,34,Male,Less than High School,Employed,15683.878243432979,2,7.542785855861619,1,1
+Warren County,White,51,Female,High School,Employed,14720.950076066028,0,3.880732010041663,1,1
+Warren County,White,50,Male,Less than High School,Unemployed,15582.605508463022,2,3.693653613142085,0,1
+Warren County,Black,66,Female,Bachelor's Degree,Employed,75772.07157359597,2,3.714393345642269,1,0
+Warren County,White,43,Female,Bachelor's Degree,Employed,77450.30519806115,3,4.209208505373978,1,1
+Warren County,White,21,Male,Master's Degree,Employed,36694.046071236626,1,6.141861675979513,1,0
+Warren County,Black,22,Male,Less than High School,Employed,73413.0407836406,1,2.760673605673674,1,0
+Warren County,Black,51,Female,High School,Unemployed,36613.974198926575,1,5.500928167337997,0,0
+Warren County,White,37,Female,High School,Employed,34613.18663215847,1,7.281356784042768,0,0
+Warren County,White,40,Female,Some College,Employed,14828.267857105384,2,5.487315607637033,1,0
+Warren County,White,68,Male,Some College,Employed,14760.580656381759,4,5.321860059290357,1,0
+Warren County,White,18,Male,Some College,Unemployed,75310.5570551069,0,5.206242227156497,1,1
+Warren County,White,52,Female,Some College,Unemployed,33789.5076511247,1,3.66507902451352,1,1
+Warren County,Black,39,Male,High School,Unemployed,15080.567228037015,1,2.750902628451115,0,1
+Warren County,Black,29,Female,High School,Unemployed,75312.78609307503,0,5.486639578501176,0,0
+Warren County,Black,58,Female,Master's Degree,Employed,35916.656344117044,0,6.823979114058568,0,0
+Warren County,White,53,Male,Some College,Unemployed,36167.77486678155,0,1.9482568588267564,1,1
+Warren County,White,62,Female,High School,Unemployed,34791.54472609348,5,8.500479307612004,1,0
+Warren County,Black,29,Male,Less than High School,Unemployed,14703.49987402724,1,3.268349146430315,1,1
+Warren County,White,67,Male,Some College,Employed,14639.00234597564,2,5.4860010638228704,1,1
+Warren County,Black,54,Female,Less than High School,Unemployed,14541.935755057308,0,6.304053822310729,0,1
+Warren County,Black,53,Female,High School,Employed,14336.471373298536,5,8.77726725395565,1,0
+Warren County,Black,55,Male,PhD,Employed,14763.671968252069,1,8.250301290057605,0,1
+Warren County,White,58,Male,High School,Employed,34195.86692245774,3,8.4434350654839,0,1
+Warren County,Black,66,Female,High School,Unemployed,36632.46085053242,3,5.058404249735805,0,0
+Warren County,White,65,Female,Some College,Unemployed,75432.81619687531,1,3.939377607397581,0,0
+Warren County,Black,44,Male,Bachelor's Degree,Employed,34465.46963660677,4,9.731437893170526,0,1
+Warren County,White,57,Male,High School,Employed,35281.63660347793,1,2.766718489383691,1,1
+Warren County,White,71,Male,Some College,Unemployed,120489.95876682119,4,3.9941000834326874,0,1
+Warren County,White,24,Male,Less than High School,Employed,74580.32811901651,1,4.511353644767419,1,0
+Warren County,Black,49,Female,High School,Unemployed,35441.820124973725,2,5.962392770392952,0,0
+Warren County,White,63,Male,High School,Unemployed,34961.14241127358,4,0.9112606551363674,1,0
+Warren County,White,47,Male,Master's Degree,Employed,34656.22580229014,2,4.618817916268072,1,0
+Warren County,White,31,Male,Bachelor's Degree,Employed,78703.86291674773,0,3.694020997421684,1,0
+Warren County,Black,64,Female,Less than High School,Employed,36331.10166752124,2,6.179052362539277,0,0
+Warren County,White,43,Male,Some College,Employed,35431.92085355804,2,5.2460448792654235,1,0
+Warren County,Black,53,Female,High School,Unemployed,15104.066041773425,1,6.100042518116592,0,0
+Warren County,White,54,Male,Some College,Employed,126508.2559978073,2,4.369738038779634,0,0
+Warren County,Other,68,Male,High School,Unemployed,14551.96816173365,5,3.8998964636189632,1,0
+Warren County,Black,32,Female,Master's Degree,Employed,34632.982101425114,0,5.742854503538233,1,0
+Warren County,Other,61,Male,Some College,Unemployed,14309.189299336349,1,4.294879302551569,1,0
+Warren County,White,34,Female,Less than High School,Employed,14963.31905623024,1,6.613034173927233,1,1
+Warren County,White,57,Female,Bachelor's Degree,Employed,75322.68437968247,4,4.370578031552489,1,1
+Warren County,White,65,Female,Some College,Employed,34047.12407636124,2,2.70729268481389,1,0
+Warren County,White,47,Male,Less than High School,Employed,15696.04327074827,3,6.563854592049167,1,0
+Warren County,White,70,Male,High School,Unemployed,78070.9095820293,1,2.7258959471703457,0,0
+Warren County,Black,33,Male,Some College,Employed,35777.50132409567,4,9.704057604656528,0,0
+Warren County,White,45,Female,Master's Degree,Employed,75250.39971574022,2,8.04432177453808,0,1
+Warren County,White,57,Male,Some College,Employed,15554.953739471528,1,6.59155775534316,1,1
+Warren County,White,71,Male,Some College,Employed,14445.978515735194,2,4.573796564735399,1,0
+Warren County,Black,35,Female,Some College,Unemployed,36016.7842799621,1,3.0323125706407925,1,0
+Warren County,White,51,Female,Less than High School,Employed,72186.15610475135,2,4.3754420284952795,1,0
+Warren County,Black,21,Female,Master's Degree,Employed,36029.73731892292,0,4.018478275336119,1,0
+Warren County,Black,73,Female,Some College,Unemployed,34215.18648887975,2,4.10351891050821,1,0
+Warren County,Black,27,Female,Some College,Unemployed,15565.635871527284,0,6.234898426781541,0,1
+Warren County,White,30,Male,Master's Degree,Employed,130550.52617281748,1,0.9909082129535547,1,0
+Warren County,Black,35,Female,Some College,Employed,14473.193954107672,0,6.153069696100877,0,0
+Warren County,Black,42,Male,High School,Unemployed,14944.01340759809,2,4.06745144953848,1,0
+Warren County,White,63,Male,Some College,Employed,36683.4558235694,1,7.561621214687385,0,0
+Warren County,White,22,Female,Less than High School,Employed,34941.92602590601,1,5.45453565640975,1,0
+Warren County,White,55,Female,Less than High School,Employed,36272.41632880091,0,3.8247705516737844,1,0
+Warren County,White,26,Female,High School,Unemployed,15133.09728319698,3,7.630576077707182,0,1
+Warren County,Black,35,Female,Bachelor's Degree,Employed,123441.62384899502,2,6.4683165406690994,0,0
+Warren County,Black,36,Male,Less than High School,Employed,34250.24244434055,3,5.946788103342856,0,0
+Warren County,White,18,Male,Some College,Employed,72774.17318314566,0,8.192212156482459,0,0
+Warren County,Black,65,Female,High School,Employed,15392.697287066543,2,4.777381182981133,0,1
+Warren County,Black,69,Female,Master's Degree,Employed,123581.75633528784,1,5.625745391668514,0,0
+Warren County,Black,56,Female,Bachelor's Degree,Employed,75084.56596650563,2,1.985479361975993,1,0
+Warren County,White,39,Male,Master's Degree,Employed,124904.06850001478,4,7.765363564841684,0,1
+Warren County,Black,58,Male,Bachelor's Degree,Employed,125965.98786541414,4,5.083656111850871,0,0
+Warren County,Black,30,Female,Less than High School,Employed,15548.365718436828,1,8.239922346536973,0,1
+Warren County,Black,73,Male,High School,Unemployed,36682.587702542005,5,7.664152730732633,0,0
+Warren County,White,58,Male,Some College,Unemployed,34676.544730008354,1,4.388968595583682,0,0
+Warren County,White,27,Male,Some College,Unemployed,15491.278383159453,1,4.1585293712157965,1,0
+Warren County,White,67,Female,Bachelor's Degree,Employed,35925.847281291506,0,3.0216578198064723,1,0
+Warren County,Black,40,Male,Some College,Unemployed,125919.11189319465,0,7.695244186058124,0,0
+Warren County,Black,75,Female,Less than High School,Employed,15684.0707154179,3,7.439313027589728,0,1
+Warren County,White,43,Male,Less than High School,Employed,33951.660804349405,4,9.332516110596982,0,1
+Warren County,White,48,Male,Bachelor's Degree,Employed,120115.80262887025,5,4.6626169393448915,1,1
+Warren County,Black,50,Female,Bachelor's Degree,Employed,36238.866884343974,2,5.4109271844938425,0,1
+Warren County,Black,52,Male,Some College,Unemployed,14908.724724950622,5,8.51605958867707,0,0
+Warren County,White,30,Male,Bachelor's Degree,Employed,129337.11067758824,2,6.539759895950309,1,0
+Warren County,Black,31,Male,High School,Unemployed,36375.81571818395,4,3.135431705033016,1,1
+Warren County,Black,47,Female,Some College,Employed,33468.60157766675,4,8.181464313497264,0,1
+Warren County,White,42,Female,Less than High School,Employed,15575.19714447909,1,1.9672972145162477,1,0
+Warren County,White,32,Male,Some College,Unemployed,34819.116693792974,3,2.1730913933416054,0,1
+Warren County,White,61,Male,Some College,Employed,15015.648733506347,1,7.512489445300572,0,0
+Warren County,White,44,Female,Some College,Employed,35443.07378882624,4,5.4542624041274275,1,1
+Warren County,Black,43,Male,Bachelor's Degree,Employed,130329.7825841261,1,5.431640369396703,0,1
+Warren County,White,47,Female,Bachelor's Degree,Employed,71393.37070822323,0,3.90117069350244,1,0
+Warren County,Black,45,Female,High School,Employed,74826.32601238362,1,8.496885329250933,1,0
+Warren County,Other,40,Male,High School,Unemployed,35657.02714850696,3,5.487276129314944,1,0
+Warren County,Black,56,Male,High School,Unemployed,15334.060436547343,2,5.580500269324234,1,0
+Warren County,White,27,Female,High School,Unemployed,15288.79864730566,0,6.112956858422562,1,0
+Warren County,Black,28,Female,High School,Unemployed,33720.522952928426,3,3.9047126853048173,0,0
+Warren County,Black,72,Female,Some College,Employed,14699.093382557521,2,9.845845916066287,0,1
+Warren County,White,59,Male,Bachelor's Degree,Employed,73940.3664406276,2,5.342118923135709,1,0
+Warren County,White,18,Female,High School,Employed,15456.655811519257,0,2.1353314818844553,1,0
+Warren County,White,51,Male,Less than High School,Employed,34225.65955345093,1,3.974954527835976,1,0
+Warren County,Black,70,Male,Master's Degree,Employed,33987.46737353521,1,2.948891701402599,1,1
+Warren County,Black,66,Male,Less than High School,Unemployed,15686.172028557145,4,4.7734070719307065,0,0
+Warren County,White,52,Female,High School,Unemployed,33281.02149789714,1,5.467650595981112,1,1
+Warren County,White,59,Female,Less than High School,Unemployed,15746.731283522968,1,4.291777901004043,1,1
+Warren County,White,56,Male,Bachelor's Degree,Employed,76326.15974143046,1,8.500641614608124,0,0
+Warren County,Black,69,Male,High School,Employed,77463.51974586837,0,4.399774138628905,1,0
+Warren County,Black,71,Female,Master's Degree,Employed,34281.167887211675,5,10.99327367414781,0,1
+Warren County,White,54,Female,High School,Unemployed,14271.472916500588,1,3.033259023361577,1,1
+Warren County,White,61,Female,High School,Employed,15356.804277842293,0,5.2689874151805105,1,1
+Warren County,Black,52,Female,Some College,Employed,77506.08447750506,2,5.444765729882429,0,0
+Warren County,Black,70,Male,PhD,Employed,76803.57098965139,2,5.349647390677412,0,0
+Warren County,White,63,Female,Some College,Employed,33749.97600555293,2,2.8484088610459186,1,0
+Warren County,White,66,Male,High School,Unemployed,15380.141883385451,2,2.9703264811860564,1,0
+Warren County,Black,32,Male,Bachelor's Degree,Employed,35941.22973737674,1,5.554991298181794,0,0
+Warren County,White,49,Female,Some College,Unemployed,15237.81077350508,1,3.2724306163552335,1,1
+Warren County,Black,53,Male,Less than High School,Unemployed,15399.173899193378,3,4.084939707560704,1,1
+Warren County,Black,34,Female,High School,Employed,15518.882159516597,4,6.620099927704848,0,1
+Warren County,Other,31,Male,Less than High School,Employed,15170.406171356186,4,8.27472109504937,0,1
+Warren County,Black,56,Male,High School,Employed,71914.53535477258,1,6.1417538885494745,1,0
+Warren County,Other,39,Male,High School,Employed,74907.20857250408,3,0.9716325436065681,1,0
+Warren County,Black,18,Male,Some College,Unemployed,119720.61668339507,1,1.8454230368798517,1,0
+Warren County,White,59,Female,Some College,Employed,123844.28788790539,1,6.20588783471136,1,0
+Warren County,White,28,Male,Master's Degree,Employed,74303.2986684422,1,2.0081230803615173,1,0
+Warren County,Black,40,Female,Some College,Employed,71745.0738310518,0,8.435709426777024,0,0
+Warren County,Black,61,Male,Less than High School,Employed,34470.87186889318,1,7.028228901556791,1,0
+Warren County,Black,18,Female,High School,Employed,33638.4933457696,0,7.493054100445956,0,0
+Warren County,Black,75,Female,High School,Employed,36078.82323503228,1,6.062288206529383,0,0
+Warren County,White,23,Female,High School,Unemployed,36566.908090875644,0,6.073125565842464,0,0
+Warren County,White,35,Female,Less than High School,Employed,14358.474712886908,3,6.451984323190015,1,1
+Warren County,Black,25,Male,Some College,Employed,15682.67281093755,1,4.903482866212397,0,1
+Warren County,Black,64,Male,Less than High School,Unemployed,75169.32449502559,2,5.560818274140769,0,0
+Warren County,Black,58,Male,High School,Employed,14699.34851693081,7,6.340295746838675,0,1
+Warren County,Black,74,Male,Some College,Unemployed,33519.01726346657,1,6.306164706808342,0,0
+Warren County,White,59,Male,High School,Employed,15000.936402105626,3,3.0721857308120786,0,1
+Warren County,White,21,Male,Less than High School,Employed,36030.804405717616,1,1.0408159536198447,1,0
+Warren County,White,26,Female,High School,Unemployed,15310.629715900048,2,6.598149826112475,0,1
+Warren County,Other,65,Male,High School,Employed,33425.791040123906,0,2.781822885352062,1,0
+Warren County,White,57,Female,High School,Employed,33505.15642378766,1,3.611635732534306,1,0
+Warren County,White,31,Female,Less than High School,Unemployed,14854.309923948957,3,4.850587558806597,1,0
+Warren County,Black,75,Female,High School,Employed,73464.67870535956,1,3.0539506121127804,1,0
+Warren County,Black,64,Male,PhD,Employed,34063.345130696165,1,5.870692854119679,0,0
+Warren County,White,61,Female,Bachelor's Degree,Employed,34233.5157461805,1,4.937474922023729,1,0
+Warren County,Other,65,Male,Some College,Employed,15455.224114945326,0,8.646653911189997,0,1
+Warren County,Black,75,Male,Less than High School,Employed,36502.29818771149,2,3.87860437361864,1,0
+Warren County,Black,71,Female,Less than High School,Employed,14857.654041791347,2,6.016787386991774,0,1
+Warren County,White,68,Female,Some College,Employed,36421.38850746374,2,5.2836530127411425,1,0
+Warren County,Black,48,Female,High School,Employed,34375.23495436759,2,4.89654278232127,0,0
+Warren County,White,20,Female,PhD,Employed,74823.27739757844,1,3.0732520201367244,0,1
+Warren County,White,56,Male,Less than High School,Unemployed,14589.043496724,2,6.434836450496094,1,1
+Warren County,Other,46,Male,Master's Degree,Employed,35491.666147615455,1,4.359616498926114,1,0
+Warren County,Black,65,Female,Master's Degree,Employed,130987.2639396851,3,4.647073480929038,0,0
+Warren County,Black,71,Male,Bachelor's Degree,Employed,15155.239644065068,3,9.767857725290689,0,1
+Warren County,Black,32,Male,Bachelor's Degree,Employed,73933.60563085161,1,5.990539551695446,0,0
+Warren County,White,47,Male,Less than High School,Unemployed,15221.726168985791,0,4.758244388298959,1,0
+Warren County,White,49,Female,Some College,Employed,33680.22237462886,2,3.9673086049906092,1,0
+Warren County,White,23,Female,High School,Unemployed,77914.94310199049,2,4.384026060228382,1,0
+Warren County,Black,48,Female,Some College,Employed,15004.625926169754,0,1.997047237597148,1,0
+Warren County,Black,18,Male,Bachelor's Degree,Employed,74620.12306529732,0,7.726002576460013,0,0
+Warren County,White,21,Male,Less than High School,Employed,15128.797182680277,0,6.16008102518007,0,0
+Warren County,Black,28,Female,Some College,Unemployed,35436.7435197629,1,6.6362038662894705,0,0
+Warren County,White,54,Female,PhD,Employed,119647.19757783141,4,4.575863328108664,1,1
+Warren County,White,70,Female,Less than High School,Employed,76369.62915917551,1,4.628879721910649,1,0
+Warren County,White,22,Female,Some College,Unemployed,14612.897520473292,0,0.9256091677915546,1,0
+Warren County,Black,34,Male,Less than High School,Unemployed,35748.83421377306,3,4.6519026935122945,0,0
+Warren County,White,23,Female,High School,Employed,77419.01095788147,1,4.63882717264941,1,1
+Warren County,White,38,Male,Bachelor's Degree,Employed,77279.6888066439,3,6.169049693763857,0,0
+Warren County,White,42,Female,High School,Employed,35183.753385927615,5,2.8091280506394867,1,0
+Warren County,Black,26,Female,Less than High School,Unemployed,35070.59462308763,1,6.783934196653409,0,0
+Warren County,Black,61,Male,High School,Unemployed,14464.313942009117,2,3.2380730459436076,1,0
+Warren County,Black,32,Female,High School,Unemployed,15413.019225604703,2,4.973961640262873,0,1
+Warren County,Black,46,Female,Master's Degree,Employed,34199.9328315635,2,4.134046190816822,1,0
+Warren County,White,57,Male,High School,Unemployed,74975.21567113459,3,3.737855896961304,1,0
+Warren County,Black,46,Male,High School,Employed,34244.95932524631,1,7.507662430093873,0,0
+Warren County,Black,37,Male,High School,Employed,33718.39927049892,2,0.9081737232532958,0,0
+Warren County,White,73,Male,High School,Unemployed,35453.45193912108,2,4.668935063072165,1,0
+Warren County,White,43,Male,Bachelor's Degree,Employed,71657.49026117177,1,3.822872271225567,1,0
+Warren County,White,32,Male,Less than High School,Employed,76864.8392559465,2,4.677010484276747,1,0
+Warren County,White,59,Female,Some College,Employed,14726.380192891675,2,7.341924054011289,0,1
+Warren County,White,47,Male,PhD,Employed,71251.01019753364,0,5.544763045320721,1,0
+Warren County,Black,58,Female,Less than High School,Employed,15016.693708855844,0,8.929401782458907,0,0
+Warren County,White,55,Male,Bachelor's Degree,Employed,33413.98167984661,4,4.7063337184057925,1,0
+Warren County,White,24,Male,Some College,Employed,14664.25433673135,0,3.8914158888384605,1,1
+Warren County,Black,45,Female,Less than High School,Unemployed,15310.464731183574,0,9.006151087538743,0,0
+Warren County,White,65,Male,Bachelor's Degree,Employed,33469.41367567653,0,7.266552760081112,0,1
+Warren County,White,60,Male,Some College,Unemployed,36187.68472324601,1,5.447174567809319,0,0
+Warren County,White,49,Female,Less than High School,Unemployed,14255.729883987875,2,4.239528319127234,1,1
+Warren County,Other,64,Male,Bachelor's Degree,Employed,73101.17901901426,1,5.127900389490908,1,0
+Warren County,White,71,Female,Bachelor's Degree,Employed,15361.356084228108,3,4.581759031948872,1,1
+Warren County,Black,34,Female,Master's Degree,Employed,73622.0261229698,1,3.2241471744640666,1,0
+Warren County,Other,60,Male,Bachelor's Degree,Employed,72014.1929104951,2,2.1683489602127253,1,0
+Warren County,Black,69,Female,High School,Unemployed,73951.75439100321,1,3.648862367883891,0,0
+Warren County,White,41,Male,High School,Employed,14655.589929576789,1,3.821502118517763,1,0
+Warren County,White,74,Male,Less than High School,Employed,77570.33926620416,0,5.306201279793061,1,0
+Warren County,White,35,Female,Some College,Employed,34346.717711548,2,2.0993038761534635,1,0
+Warren County,Black,40,Female,Less than High School,Unemployed,15433.39870766401,2,2.8107126116138264,1,0
+Warren County,Black,59,Male,Some College,Employed,36371.55250683757,0,8.476828782006079,0,1
+Warren County,White,63,Female,Some College,Employed,14900.726129364793,1,5.844566523349659,1,1
+Warren County,Black,60,Female,Some College,Employed,15614.914715781588,2,5.981427582229226,1,0
+Warren County,White,54,Male,Less than High School,Unemployed,34570.613188871175,3,5.118254771530296,1,0
+Warren County,White,27,Male,Less than High School,Unemployed,15696.117624735161,1,7.790261823311636,0,1
+Warren County,Black,61,Female,Bachelor's Degree,Employed,33562.5133358395,5,4.962534716133148,0,1
+Warren County,White,34,Female,Bachelor's Degree,Employed,35654.56743276135,1,5.247470938133757,1,0
+Warren County,Black,26,Female,High School,Employed,34978.349141599254,1,4.536683202890598,0,0
+Warren County,White,55,Male,High School,Employed,34606.77081909476,3,4.752436944344021,1,0
+Warren County,Black,71,Female,High School,Employed,15199.067818122901,1,5.213349585884552,0,1
+Warren County,White,47,Female,High School,Employed,15305.785637451494,4,6.47424820522464,1,1
+Warren County,Black,54,Female,Master's Degree,Employed,33265.27144377608,7,6.014012930538799,0,1
+Warren County,White,22,Female,Less than High School,Employed,33834.33581061519,0,4.025690788212253,1,0
+Warren County,Black,22,Female,Some College,Unemployed,35745.661177220114,1,6.450040815875687,1,0
+Warren County,White,43,Male,Bachelor's Degree,Employed,76247.89060183654,0,4.947412366823455,1,0
+Warren County,White,28,Male,Some College,Employed,15699.071257693016,3,5.032617266455023,1,0
+Warren County,Black,56,Male,High School,Unemployed,15391.556685376174,1,8.536446906542514,0,0
+Warren County,White,23,Female,High School,Unemployed,15676.159061597005,1,5.723091877139257,0,1
+Warren County,Other,18,Male,Some College,Employed,35708.89175537183,0,2.9263704978627736,0,0
+Warren County,Black,60,Female,Some College,Employed,73485.39156479582,1,5.424085437333272,0,0
+Warren County,Black,49,Female,Less than High School,Unemployed,72040.23691688142,2,5.786494998699814,0,1
+Warren County,Other,27,Female,Bachelor's Degree,Employed,77113.67897508701,1,1.884579202798618,1,0
+Warren County,White,46,Male,Some College,Employed,15216.223832213873,2,5.792996822613498,1,0
+Warren County,Black,67,Male,Bachelor's Degree,Employed,71611.39509294972,0,4.619762131819251,0,0
+Warren County,White,43,Male,Bachelor's Degree,Employed,73950.37849425734,1,4.312421824591916,1,0
+Warren County,White,46,Female,Some College,Employed,15685.199723226428,1,7.131029434975669,0,1
+Warren County,White,47,Male,High School,Unemployed,75003.0085928265,3,3.1074613914866935,1,0
+Warren County,White,68,Female,Master's Degree,Employed,34764.551976068964,0,6.347005486328806,1,0
+Warren County,White,35,Female,Less than High School,Employed,34851.948618057526,1,4.998442198929057,1,1
+Warren County,Black,19,Male,Some College,Employed,33981.08953401807,0,4.586920288087423,0,0
+Warren County,White,66,Male,High School,Employed,34540.47509802678,1,1.0074213083637096,1,0
+Warren County,Black,40,Female,Some College,Employed,74023.59941990383,4,5.08684111802088,0,0
+Warren County,White,71,Female,Bachelor's Degree,Employed,71642.66265140603,2,7.343615263858062,0,0
+Warren County,White,53,Male,Less than High School,Employed,35936.48669981271,1,6.904323364721551,0,0
+Warren County,White,37,Female,Less than High School,Employed,34707.76551166357,3,2.776548181677338,0,0
+Warren County,Black,70,Male,High School,Employed,15483.269830224634,1,8.610796630437704,0,1
+Warren County,Black,67,Male,Less than High School,Employed,77627.61000839922,3,6.808315214958089,0,0
+Warren County,White,72,Female,Some College,Unemployed,33991.9791914453,1,3.0875503447989607,1,0
+Warren County,White,22,Male,High School,Employed,15236.030223255193,0,7.099089626536477,0,1
+Warren County,Black,47,Male,Less than High School,Employed,74792.11353122236,1,4.856096725897847,0,0
+Warren County,Black,42,Female,Less than High School,Employed,15570.235106882226,4,7.681121348310173,0,1
+Warren County,White,42,Female,High School,Employed,14573.611018764681,2,1.0211549638713775,0,1
+Warren County,White,45,Female,PhD,Employed,127222.66500387555,1,3.7897814333887956,1,0
+Warren County,White,55,Male,Bachelor's Degree,Employed,15161.628183379084,3,6.442495461668566,1,1
+Warren County,Black,40,Female,Bachelor's Degree,Employed,34283.555171501415,4,3.7222873113474657,0,1
+Warren County,White,40,Male,Some College,Employed,14454.901355476759,3,7.593532365415213,0,1
+Warren County,Black,19,Female,Less than High School,Employed,15227.459640715913,1,8.3892264718672,1,0
+Warren County,Black,51,Female,High School,Unemployed,76789.48093599248,2,2.8119402144307832,1,0
+Warren County,Black,47,Male,High School,Employed,14723.441015645023,5,1.9140380674775388,1,1
+Warren County,White,37,Male,High School,Employed,15217.24890603347,3,6.542723033412656,0,0
+Warren County,Black,65,Female,Master's Degree,Employed,123689.13634514378,1,2.15870616985057,0,0
+Warren County,White,70,Male,Less than High School,Employed,15319.810324923927,3,4.580233745661642,0,0
+Warren County,Black,44,Female,Less than High School,Unemployed,14548.82291234108,2,10.049022779140508,0,1
+Warren County,White,59,Female,High School,Unemployed,36365.75250922661,3,4.910396826989661,1,0
+Warren County,Black,25,Female,High School,Employed,34255.93358762953,1,2.1929514467634426,1,0
+Warren County,White,18,Female,PhD,Employed,14801.678981634228,0,5.534446682601663,1,0
+Warren County,Black,47,Female,Bachelor's Degree,Employed,119476.14940100437,2,8.816140078282334,0,0
+Warren County,White,60,Female,Some College,Employed,33640.29274312447,1,2.187788173310148,1,0
+Warren County,White,47,Male,Some College,Employed,15023.792854068493,2,6.438608551072776,1,0
+Warren County,White,39,Female,Bachelor's Degree,Employed,34186.574368547896,4,3.190243242569568,1,0
+Warren County,Black,24,Male,Less than High School,Unemployed,36174.180790097686,4,5.709483392453928,1,0
+Warren County,Black,68,Male,Less than High School,Unemployed,33301.42686029234,3,6.539242622346092,0,0
+Warren County,White,26,Female,High School,Employed,14818.641073007904,2,6.202371863909318,1,1
+Warren County,Black,63,Female,High School,Employed,34430.709413691824,1,10.858751978255173,0,0
+Warren County,Black,30,Female,High School,Employed,33317.6467082116,1,3.034057735808358,0,0
+Warren County,White,18,Male,High School,Employed,33685.28939650179,2,5.0716126894699,0,1
+Warren County,White,36,Male,High School,Unemployed,14870.464012377952,1,5.735974912392341,1,1
+Warren County,Black,21,Male,PhD,Employed,14989.29687667117,1,6.3233915198303245,0,1
+Warren County,Black,37,Male,High School,Unemployed,14856.434620882303,0,6.5618612479805325,0,0
+Warren County,White,66,Female,High School,Employed,15046.40651761814,2,5.788415083685092,1,1
+Warren County,White,41,Male,PhD,Employed,75713.48756179262,1,4.9254364386164164,1,0
+Warren County,Black,27,Female,Less than High School,Employed,71324.42865845875,0,5.007610378684455,0,0
+Warren County,Black,19,Female,Bachelor's Degree,Employed,34874.333058087264,0,3.7939277859320644,1,0
+Warren County,White,48,Male,High School,Unemployed,15695.248861331382,1,5.537804189687044,1,0
+Warren County,Black,66,Female,Some College,Unemployed,35066.612980453414,1,7.154868059418286,0,0
+Warren County,White,75,Male,Some College,Employed,15266.313401188429,6,4.788630553240256,1,0
+Warren County,Black,58,Female,Less than High School,Employed,14717.795786875324,2,5.081238221422613,0,1
+Warren County,Black,43,Male,Less than High School,Employed,15410.987067229144,0,6.516107801383884,1,0
+Warren County,White,66,Female,Less than High School,Employed,35955.2251865664,1,5.977368122225781,1,0
+Warren County,White,23,Male,Less than High School,Unemployed,35074.53616678948,2,6.039107319061904,0,0
+Warren County,White,46,Male,High School,Unemployed,36666.048381477245,2,4.551823536822427,1,0
+Warren County,Black,68,Female,Less than High School,Unemployed,33689.42575166928,3,9.673208556387841,0,1
+Warren County,White,33,Male,High School,Unemployed,33309.31682711353,6,4.634414676938975,1,0
+Warren County,White,35,Male,Some College,Employed,77026.18658817823,4,5.476049964567322,1,0
+Warren County,Black,27,Female,Some College,Employed,15460.733306047325,1,7.685944325345924,0,0
+Warren County,Other,22,Female,Some College,Employed,33670.725301922015,2,6.751295382964613,0,0
+Warren County,White,32,Female,Some College,Unemployed,14648.37424943791,0,5.309874445854636,1,1
+Warren County,Black,68,Female,Master's Degree,Employed,14276.328545049942,2,6.656496916669269,0,1
+Warren County,Other,35,Male,Some College,Unemployed,14689.962916170847,4,7.254103811113501,0,0
+Warren County,Black,27,Female,Some College,Employed,35955.99655871535,1,5.260227859889687,0,0
+Warren County,Black,45,Male,High School,Employed,15026.94079156887,1,6.114766488729413,0,0
+Warren County,White,53,Male,High School,Unemployed,34468.33457608901,3,3.977260950840127,1,0
+Warren County,Black,22,Female,Master's Degree,Employed,74038.04471179747,3,8.841313645465084,0,1
+Warren County,White,49,Male,Bachelor's Degree,Employed,14252.030438573202,2,2.909320959925797,1,1
+Warren County,Black,50,Female,Bachelor's Degree,Employed,122497.50659456545,4,6.515434973097392,1,0
+Warren County,Black,63,Male,Some College,Unemployed,15219.688112456894,0,5.330619407787729,0,1
+Warren County,White,27,Male,Less than High School,Employed,15711.291665724533,0,7.651037674933118,0,1
+Warren County,Black,73,Female,Less than High School,Employed,15520.591240475847,2,4.624297223485545,1,1
+Warren County,White,28,Male,Some College,Employed,14285.392446968293,1,5.230867475203644,1,1
+Warren County,Black,70,Male,High School,Employed,36394.96211636193,1,5.438340456821038,0,0
+Warren County,Black,49,Male,High School,Employed,128539.98016623282,1,3.7449864529325283,1,0
+Warren County,White,35,Female,Bachelor's Degree,Employed,35981.31643249843,5,3.653197013893422,1,0
+Warren County,Black,19,Female,Master's Degree,Employed,74684.96819252678,0,4.192896519432047,1,0
+Warren County,White,48,Female,Less than High School,Employed,34643.01852534076,2,6.089367735815894,1,0
+Warren County,Black,32,Male,Some College,Employed,34310.20505091617,2,5.341828776758273,0,1
+Warren County,Black,50,Male,Some College,Employed,14348.542288431549,2,7.423635802602063,0,1
+Warren County,White,48,Male,Bachelor's Degree,Employed,34048.823772227945,2,2.118106924743956,0,0
+Warren County,White,30,Female,Less than High School,Employed,34113.11272242308,1,6.582278248066843,0,0
+Warren County,Black,60,Male,Bachelor's Degree,Employed,34944.2697439857,0,5.596387131438846,0,0
+Warren County,Black,29,Male,Bachelor's Degree,Employed,76855.8330494752,0,3.7314126383447945,1,0
+Warren County,Black,48,Male,Less than High School,Unemployed,14960.71474259692,1,7.440404608323934,0,1
+Warren County,White,21,Female,Master's Degree,Employed,71683.8333708537,0,6.198236664835441,1,0
+Warren County,White,39,Male,Master's Degree,Employed,78433.42350741153,2,8.036904679630592,0,0
+Warren County,Black,53,Male,Bachelor's Degree,Employed,130534.0539886764,0,3.887064387298802,1,0
+Warren County,White,63,Female,Bachelor's Degree,Employed,77138.92157361306,2,1.0754401081626217,0,0
+Warren County,Black,25,Male,High School,Unemployed,36719.64765547477,0,5.870934128907162,0,0
+Warren County,Black,32,Female,Some College,Unemployed,75333.61749600197,4,2.126639775788631,1,1
+Warren County,Other,52,Female,High School,Unemployed,15694.15252537981,2,3.951307926856175,1,0
+Warren County,Black,58,Female,High School,Unemployed,14363.407560925125,3,5.852333315309889,0,1
+Warren County,Black,69,Male,Bachelor's Degree,Employed,14798.521122392056,2,6.947751699937449,0,1
+Warren County,White,45,Male,Some College,Employed,14588.071902010148,2,7.6822045986626275,0,0
+Warren County,White,66,Male,Less than High School,Unemployed,33935.41579446995,0,2.0990437520705005,1,0
+Warren County,White,31,Male,Bachelor's Degree,Employed,120510.03686115846,1,7.00380854612947,0,0
+Warren County,Black,22,Male,High School,Unemployed,15183.620462348996,0,5.678655234176181,0,1
+Warren County,White,50,Female,Bachelor's Degree,Employed,35984.62649511557,0,6.479489487929482,1,0
+Warren County,Black,24,Female,Bachelor's Degree,Employed,125978.7299927545,0,3.9071129770985693,1,0
+Warren County,White,58,Female,Bachelor's Degree,Employed,120587.03386985262,2,2.0174211444455956,1,0
+Warren County,White,46,Male,Bachelor's Degree,Employed,77333.42827450103,3,7.569060955350366,0,0
+Warren County,Black,67,Female,Bachelor's Degree,Employed,126699.4338395466,2,9.223628392645185,0,0
+Warren County,Black,66,Female,Some College,Unemployed,14832.248559190492,1,5.540277648850037,0,1
+Warren County,Black,40,Male,High School,Unemployed,15261.195443304096,4,7.615764973058865,0,1
+Warren County,Black,27,Female,Less than High School,Employed,34159.667427349916,1,1.0255416106142836,1,0
+Warren County,White,57,Male,High School,Employed,34458.17272972973,3,4.834905614657086,1,0
+Warren County,White,39,Male,Some College,Unemployed,15626.228764697986,1,5.567126487196065,0,1
+Warren County,Black,75,Male,High School,Unemployed,34266.76576984997,2,8.470440302832474,0,1
+Warren County,Black,25,Female,Some College,Unemployed,34894.95893855278,1,2.0480291023714052,0,0
+Warren County,Black,30,Female,Less than High School,Unemployed,129876.76421745018,0,2.0133844367905285,1,0
+Warren County,White,57,Male,High School,Employed,76557.91012700646,0,3.2363355498305744,1,0
+Warren County,Black,48,Female,Less than High School,Employed,33467.71129157646,2,1.057719442244906,1,0
+Warren County,Black,29,Male,Master's Degree,Employed,33765.56065497639,0,4.651674879732751,0,0
+Warren County,White,42,Female,High School,Employed,14261.762386157874,0,4.811722067795548,1,1
+Warren County,White,71,Female,High School,Unemployed,35458.22626580207,5,7.597582623703145,0,1
+Warren County,White,74,Female,Less than High School,Unemployed,34816.856988936466,1,6.292735551087212,1,0
+Warren County,White,31,Female,Less than High School,Employed,14451.412276353412,0,5.440238921682935,1,0
+Warren County,White,21,Male,Some College,Employed,15686.901181585154,2,6.083867621845581,1,1
+Warren County,Black,50,Female,Bachelor's Degree,Employed,125370.74654932023,0,5.2624586857406905,0,0
+Warren County,Black,48,Female,High School,Unemployed,34096.62652939511,0,5.37676563676175,0,0
+Warren County,Black,42,Male,Less than High School,Employed,15000.90535673206,2,8.715747147688633,0,0
+Warren County,White,33,Male,High School,Employed,15269.43049910266,2,7.449760226540819,0,0
+Warren County,White,63,Male,Master's Degree,Employed,33516.83726290747,2,4.610631736955208,1,0
+Warren County,White,53,Female,High School,Unemployed,14662.055722571837,1,6.415742750081422,1,0
+Warren County,Black,52,Male,High School,Unemployed,15460.448236325989,3,4.627488662331983,1,0
+Warren County,Other,54,Male,High School,Employed,74697.48652801994,1,0.9794574581120735,0,0
+Warren County,White,59,Female,Less than High School,Unemployed,15069.86571304844,0,1.0594590731559108,1,0
+Warren County,White,19,Female,Less than High School,Employed,34764.85600773314,2,4.649917427348774,1,1
+Warren County,Other,34,Female,Some College,Unemployed,14315.849913964508,1,3.783401116186113,1,0
+Warren County,White,27,Male,High School,Employed,72493.12334865116,1,5.222252568393067,1,0
+Warren County,Black,73,Female,Some College,Unemployed,34809.39573559662,2,5.220036536546075,0,0
+Warren County,Black,51,Male,Bachelor's Degree,Employed,33982.14912892775,1,5.141147632885298,0,0
+Warren County,White,28,Male,Some College,Employed,33424.92660030888,4,4.15515875557368,1,1
+Warren County,White,21,Male,Less than High School,Employed,36202.773824181386,0,8.068359109356154,1,1
+Warren County,White,70,Male,Bachelor's Degree,Employed,15721.788793746175,3,6.652518682469735,0,0
+Warren County,Black,37,Male,Bachelor's Degree,Employed,36026.00005898859,2,5.814835192204703,0,0
+Warren County,White,22,Male,Some College,Unemployed,15530.677382557002,2,7.490556346882281,0,1
+Warren County,White,31,Female,PhD,Employed,121774.71412896307,3,1.0816901122667257,0,0
+Warren County,Black,73,Male,High School,Unemployed,130757.83719391498,2,3.0500350768596727,1,0
+Warren County,White,50,Male,High School,Employed,33939.239965586996,1,3.920681133410912,1,0
+Warren County,Black,72,Female,Some College,Employed,36580.004336266415,2,0.9924011607288266,1,0
+Warren County,Black,59,Female,Less than High School,Employed,36731.86752888083,2,10.894566679223631,0,1
+Warren County,White,65,Female,High School,Unemployed,35741.02982011117,2,7.445362244985729,0,1
+Warren County,White,22,Male,High School,Employed,15721.715597687733,1,4.068983865613438,1,1
+Warren County,White,27,Female,High School,Employed,15104.309669350654,0,5.005888678884466,1,1
+Warren County,Black,46,Female,Bachelor's Degree,Employed,121994.27228970113,2,5.111454235434648,0,0
+Warren County,Black,54,Female,Master's Degree,Employed,124212.44857082026,3,5.4217322205850085,0,0
+Warren County,Other,46,Female,Less than High School,Unemployed,75701.70701534089,3,8.595398254310643,0,1
+Warren County,White,69,Female,High School,Employed,33505.78546709455,2,5.4321182824836125,1,0
+Warren County,White,64,Male,High School,Employed,35428.20142616036,1,4.052106546871367,1,0
+Warren County,White,70,Male,Less than High School,Employed,36684.12242866803,1,5.196650823876893,1,0
+Warren County,White,56,Female,High School,Employed,14535.16147467559,0,6.506999257412755,1,1
+Warren County,White,66,Female,High School,Unemployed,15438.892674432574,4,6.248686361176079,0,1
+Warren County,Black,23,Female,Some College,Unemployed,15611.848190669429,1,7.4440624686628185,0,1
+Warren County,White,66,Female,Less than High School,Employed,15665.55238923033,1,3.045773016100088,1,1
+Warren County,White,32,Female,Bachelor's Degree,Employed,78451.01703304086,1,1.0213430092765712,1,1
+Warren County,Black,35,Female,Less than High School,Employed,15032.189458082206,3,7.878609074083818,0,1
+Warren County,White,68,Female,Master's Degree,Employed,130966.34884989378,3,4.1891553884997785,1,1
+Warren County,White,63,Male,Less than High School,Employed,15385.965310701657,0,6.521240417722818,1,0
+Warren County,Black,40,Male,Bachelor's Degree,Employed,120770.89295296202,0,2.1702274051627106,1,0
+Warren County,Black,37,Female,Some College,Employed,74826.75079850978,1,7.921342994246611,0,1
+Warren County,White,71,Female,Master's Degree,Employed,127729.13969215006,1,5.535885655008906,1,0
+Warren County,Black,59,Male,High School,Employed,34115.69110536679,3,6.581809438754801,0,0
+Warren County,Black,42,Female,Master's Degree,Employed,35492.153142421106,2,6.406677703735122,0,0
+Warren County,Black,41,Male,Less than High School,Unemployed,15249.900718569928,1,4.624662681203267,0,1
+Warren County,White,71,Female,Some College,Employed,33819.44910332998,2,1.0841683765234744,1,0
+Warren County,White,42,Female,High School,Employed,35227.798593584645,3,7.51785490688698,0,0
+Warren County,Black,28,Female,High School,Employed,35950.69418842513,1,7.026373279976502,1,0
+Warren County,White,35,Male,Less than High School,Employed,14998.343496803913,1,4.073020348595944,1,0
+Warren County,White,61,Female,High School,Employed,14268.15467516416,2,6.8586037854181825,0,1
+Warren County,Black,38,Male,High School,Employed,14263.557703618937,3,5.465713966586438,0,1
+Warren County,Black,41,Female,Some College,Employed,34499.60270389504,0,6.769276138304262,0,0
+Warren County,Black,36,Male,High School,Employed,15639.291102647674,3,9.545136207476421,0,1
+Warren County,White,44,Male,Less than High School,Unemployed,14593.015169405413,3,4.504632023004603,1,1
+Warren County,Black,74,Female,Some College,Employed,15201.54553330753,0,6.766898840367602,0,1
+Warren County,White,59,Male,Less than High School,Unemployed,34027.26554742662,1,4.898168693590944,1,0
+Warren County,Black,46,Male,Some College,Employed,14732.504984489322,2,3.022437361762754,1,1
+Warren County,White,50,Female,High School,Employed,15522.063134402226,6,6.503826739695313,1,0
+Warren County,White,53,Female,Less than High School,Employed,35801.015047944806,1,5.815615193239154,1,0
+Warren County,Black,36,Female,Some College,Employed,33583.89747059624,0,6.7857344826547195,1,0
+Warren County,Black,62,Female,Bachelor's Degree,Employed,34750.45707345252,3,6.285001497731698,0,0
+Warren County,Black,59,Male,Less than High School,Employed,14293.754645467896,2,6.93310511724573,0,0
+Warren County,Other,42,Female,High School,Employed,74856.67609952256,2,4.724604822939982,0,0
+Warren County,White,45,Female,Less than High School,Employed,35568.51904095373,3,2.971463709679616,1,0
+Warren County,Black,68,Female,High School,Unemployed,14427.753935397226,1,2.78451421222788,1,1
+Warren County,White,30,Male,Bachelor's Degree,Employed,122361.06173636456,1,1.8705547946024894,1,0
+Warren County,White,66,Male,Bachelor's Degree,Employed,123722.95781877695,3,6.997714881835272,0,0
+Warren County,Black,27,Female,Master's Degree,Employed,78146.48268492038,3,7.870280719207277,0,1
+Warren County,Black,59,Female,Some College,Employed,15739.882523134447,0,8.66375344170896,0,0
+Warren County,Black,46,Male,PhD,Employed,71586.83474246711,0,8.75230901840994,0,1
+Warren County,White,36,Male,Less than High School,Unemployed,35913.527732233866,3,4.064470680222435,0,1
+Warren County,Black,69,Male,Some College,Employed,14807.586099603515,2,7.185170003087342,0,0
+Warren County,White,38,Male,Master's Degree,Employed,14838.687279344218,1,5.415713347906,1,1
+Warren County,Black,74,Male,High School,Employed,35889.92740671458,3,4.130829897613369,1,0
+Warren County,Black,71,Female,Bachelor's Degree,Employed,78138.19824109056,2,6.549250353617651,0,0
+Warren County,White,29,Female,Some College,Employed,36578.250080758924,1,8.737712507951128,0,0
+Warren County,Black,73,Male,High School,Unemployed,35269.929051134124,1,4.648662727753113,1,0
+Warren County,Black,32,Female,Master's Degree,Employed,73928.40869475377,3,4.914624123727024,0,0
+Warren County,Black,28,Female,Some College,Employed,36006.42180050573,1,8.25362940254156,0,0
+Warren County,White,58,Male,Bachelor's Degree,Employed,121887.51729077875,3,9.894373653322706,0,0
+Warren County,Black,51,Male,Some College,Unemployed,35224.25910091731,1,5.002195010331243,1,0
+Warren County,White,40,Male,Less than High School,Unemployed,34505.02461533705,2,5.095385017320044,1,0
+Warren County,White,30,Male,PhD,Employed,35548.20875797756,1,3.653661181910742,1,0
+Warren County,White,57,Female,Some College,Unemployed,34091.39619512727,0,8.399936752638684,0,1
+Warren County,Black,54,Male,High School,Employed,72686.94709301119,2,5.6518867117147025,1,0
+Warren County,Black,70,Male,High School,Employed,36463.83680336403,3,4.318443431552571,1,1
+Warren County,White,56,Male,Less than High School,Employed,14402.705524424306,2,3.764111712385606,0,0
+Warren County,White,56,Male,Bachelor's Degree,Employed,15008.936861602395,6,1.8762750882654666,1,0
+Warren County,White,72,Female,Less than High School,Unemployed,34022.98474037053,6,5.443859601417714,1,1
+Warren County,Black,19,Male,Less than High School,Employed,33386.25487163984,0,2.9832401670659996,1,0
+Warren County,White,33,Female,Less than High School,Employed,119200.23522864282,2,9.11671403987271,0,0
+Warren County,Black,43,Male,Less than High School,Unemployed,14512.832658158739,1,8.218275550971034,0,1
+Warren County,Black,53,Male,High School,Unemployed,15550.155531759001,2,6.330633140034013,0,1
+Warren County,White,26,Female,Bachelor's Degree,Employed,73368.5905798277,2,4.953288834748028,1,0
+Warren County,White,61,Female,Some College,Unemployed,15675.688755862942,1,4.019512215462064,1,0
+Warren County,Black,34,Female,Less than High School,Employed,15122.433439483792,1,8.89337294448881,0,0
+Warren County,White,31,Female,Some College,Employed,74524.60642326574,2,6.861068285225457,1,0
+Warren County,White,44,Female,Some College,Unemployed,126001.11043336817,1,5.059640331308218,0,0
+Warren County,White,29,Male,Some College,Unemployed,15025.047577839403,0,3.72419219674457,1,1
+Warren County,Black,74,Female,High School,Unemployed,15388.164380635986,1,8.427470634891488,0,1
+Warren County,White,40,Female,Master's Degree,Employed,122281.20082466066,2,3.2170713726081104,1,0
+Warren County,White,70,Male,High School,Employed,73897.87793700227,2,3.26766927728018,1,0
+Warren County,Black,64,Male,Master's Degree,Employed,36379.33005886638,2,2.923985589767852,1,0
+Warren County,White,37,Male,High School,Employed,36562.59779602642,1,6.679042542400976,0,0
+Warren County,Black,22,Female,High School,Employed,36373.95379620266,0,5.143999543239016,0,0
+Warren County,Black,18,Female,High School,Unemployed,34718.067978850595,1,3.926987336878477,1,0
+Warren County,Black,61,Male,High School,Employed,15420.54825451032,0,6.335540897924483,0,1
+Warren County,Black,28,Male,High School,Employed,14964.503599951648,1,3.7249220778929524,1,1
+Warren County,White,38,Female,Some College,Employed,34991.38948251136,3,2.086388891538959,1,0
+Warren County,Black,27,Female,High School,Employed,14557.020163585925,0,5.158923941910151,0,0
+Warren County,White,59,Male,Less than High School,Employed,15136.695454887773,1,7.243353588005574,0,0
+Warren County,White,56,Male,Less than High School,Unemployed,33901.47564213671,3,4.72197216193295,1,0
+Warren County,Black,71,Female,High School,Employed,34410.47644673518,1,2.8386448779528433,1,0
+Warren County,White,50,Male,Some College,Unemployed,77662.72651214951,1,4.137514194878983,0,0
+Warren County,White,20,Female,High School,Employed,33974.76533223799,2,5.423652645305237,1,1
+Warren County,White,37,Male,High School,Unemployed,33499.05399810701,3,0.9208217163969148,1,0
+Warren County,White,54,Female,Less than High School,Employed,14353.511388919223,0,5.29991608537319,1,0
+Warren County,Black,36,Male,Bachelor's Degree,Employed,36542.74582176088,0,3.742835729643467,1,1
+Warren County,Black,64,Male,Some College,Unemployed,35024.221532866424,2,3.0916476647111244,1,1
+Warren County,Black,72,Female,Bachelor's Degree,Employed,123867.65089771272,2,2.8429096686280357,1,0
+Warren County,Black,74,Female,Some College,Unemployed,36088.07503352771,1,4.599441392759346,0,0
+Warren County,Black,51,Female,Master's Degree,Employed,77518.69445932886,0,5.691806629199345,1,0
+Warren County,Other,33,Male,High School,Unemployed,34412.668615904615,2,2.0889067727422637,1,0
+Warren County,White,62,Male,Less than High School,Unemployed,76452.13543105345,3,7.4979750553488,0,0
+Warren County,Black,21,Male,PhD,Employed,77033.42111888913,3,6.39626383748039,0,0
+Warren County,White,53,Male,High School,Employed,76159.88015149465,3,2.9383101177710733,1,0
+Warren County,White,57,Male,Some College,Employed,120644.93843500124,3,3.1008510819423876,1,0
+Warren County,Black,20,Male,High School,Employed,15563.824625275585,0,8.468971731748479,0,0
+Warren County,White,63,Male,High School,Unemployed,75293.20914552006,0,2.875888638156608,1,0
+Warren County,Black,19,Female,Some College,Unemployed,14673.708639555005,1,4.317068654816896,1,1
+Warren County,Black,20,Male,High School,Employed,34738.29864903192,1,8.123403462319326,0,1
+Warren County,White,53,Female,Some College,Employed,33381.498816396175,2,0.9171017061708936,1,0
+Warren County,Other,51,Female,High School,Unemployed,14441.800201833625,2,4.707886255146027,1,1
+Warren County,White,24,Female,Some College,Unemployed,35929.413626805515,3,3.621225763099056,1,0
+Warren County,White,36,Female,High School,Employed,14250.017452133048,1,4.6814354350897975,1,0
+Warren County,Black,61,Male,Less than High School,Employed,14874.848742723438,1,5.083041560969692,0,1
+Warren County,Black,30,Female,Less than High School,Employed,35078.78563379956,0,8.858564191066497,0,0
+Warren County,Black,74,Male,High School,Unemployed,33441.2204700034,5,4.31413736886158,1,0
+Warren County,Black,18,Male,High School,Employed,78548.0862222925,0,7.444420986433817,1,0
+Warren County,Black,66,Female,Some College,Unemployed,34041.438659373845,2,4.841817351697876,0,0
+Warren County,Black,46,Female,Master's Degree,Employed,73531.49039727211,1,3.807538746745034,1,0
+Warren County,Black,56,Male,Less than High School,Employed,34313.798792892594,3,8.78344633470108,0,1
+Warren County,White,58,Female,High School,Unemployed,34056.458317410725,1,3.054176965508885,1,0
+Warren County,Black,44,Male,Less than High School,Unemployed,14252.210733129466,4,8.582514553481177,1,1
+Warren County,Black,31,Female,Less than High School,Employed,127866.80992609994,1,8.198638252558615,1,1
+Warren County,Black,54,Female,Less than High School,Employed,78501.34124849463,4,2.9456469913147445,1,0
+Warren County,White,25,Male,Some College,Employed,34035.027191497655,1,7.072866053192773,0,1
+Warren County,Black,39,Female,High School,Unemployed,35570.66517131198,2,7.897802446616507,0,1
+Warren County,Black,36,Female,Some College,Employed,35846.6371443555,2,7.671145215267068,1,1
+Warren County,White,32,Female,Some College,Employed,36219.488826816836,4,7.627834629747019,0,1
+Warren County,White,53,Male,Bachelor's Degree,Employed,14883.943795520412,2,2.1054423176639046,1,1
+Warren County,White,58,Female,Some College,Unemployed,73521.98179230322,1,1.856045270306581,1,0
+Warren County,White,75,Female,Some College,Unemployed,73689.71350517274,3,4.29477438071833,1,1
+Warren County,White,68,Female,Some College,Unemployed,35744.174665844796,0,5.9849174378994165,1,0
+Warren County,Black,58,Female,High School,Unemployed,36108.72813276972,3,6.47346267227291,0,0
+Warren County,White,62,Male,Bachelor's Degree,Employed,121020.17459695753,1,3.179913153568389,1,0
+Warren County,White,49,Female,Less than High School,Unemployed,34548.29352855218,3,4.925213504469234,1,1
+Warren County,White,36,Male,Some College,Unemployed,36406.79068862202,2,5.426963169984141,1,0
+Warren County,Black,53,Female,Bachelor's Degree,Employed,77300.20139771054,1,5.722412831261936,0,0
+Warren County,Black,43,Female,Less than High School,Unemployed,131060.73003453095,2,4.033307371728694,1,0
+Warren County,White,60,Male,Some College,Employed,15381.37238952312,1,5.133478219826148,1,1
+Warren County,Black,41,Male,High School,Employed,34626.18320359773,3,7.612620296693124,0,1
+Warren County,Black,64,Female,Some College,Employed,35317.232418981235,4,1.8557424296291296,1,0
+Warren County,White,19,Male,Less than High School,Unemployed,15241.52138137098,0,3.200958142079579,1,1
+Warren County,Black,29,Male,Less than High School,Employed,119730.69770396405,0,4.387521744562842,1,0
+Warren County,Black,46,Male,Bachelor's Degree,Employed,125556.2119887983,2,6.030828218763222,0,0
+Warren County,White,70,Female,Some College,Unemployed,15313.981242708915,2,1.8686717143393214,1,1
+Warren County,White,19,Male,Bachelor's Degree,Employed,72504.90978000795,2,2.863384395911621,1,0
+Warren County,White,57,Female,Less than High School,Unemployed,77104.73788069168,3,3.6147125412379735,1,0
+Warren County,Other,32,Male,Less than High School,Employed,35293.204731799386,1,7.580018329184699,0,0
+Warren County,Black,72,Male,Some College,Unemployed,78391.66339273196,3,5.54130129946817,0,0
+Warren County,Black,34,Female,Master's Degree,Employed,14313.633447310338,5,9.137729655925655,0,1
+Warren County,White,54,Female,Some College,Unemployed,34178.64148144413,1,6.683677308962088,0,0
+Warren County,Black,18,Male,Some College,Employed,75761.65409474866,2,9.097520404528428,0,0
+Warren County,Black,30,Female,High School,Employed,34287.95969272075,1,7.211988543692609,0,0
+Warren County,White,72,Female,High School,Employed,76608.1812305343,2,1.0659483607414404,1,0
+Warren County,White,65,Female,High School,Employed,35906.51848882676,2,1.8825685087042414,1,0
+Warren County,Black,19,Female,Master's Degree,Employed,72018.86973049855,0,6.315394160121873,0,0
+Warren County,Black,62,Female,Master's Degree,Employed,75103.90848155077,1,2.782131378041284,1,0
+Warren County,White,75,Male,Some College,Unemployed,15013.335833386582,3,10.800037283696211,0,0
+Warren County,Black,22,Male,High School,Unemployed,14803.92115532331,2,4.299112062050012,1,0
+Warren County,White,65,Female,Master's Degree,Employed,78246.93646927255,1,3.0584478613021853,1,0
+Warren County,White,40,Male,High School,Employed,36146.27211955627,3,5.100516860433654,1,0
+Warren County,Black,74,Male,Less than High School,Unemployed,15295.814072864454,2,8.264058679274008,0,1
+Warren County,White,39,Male,Bachelor's Degree,Employed,35750.14322507248,3,5.610445534348139,1,1
+Warren County,Black,66,Male,PhD,Employed,34866.00650334592,3,1.082882389184992,1,0
+Warren County,Other,35,Female,High School,Employed,78157.45890822432,4,8.853786944805732,1,1
+Warren County,White,32,Female,Less than High School,Unemployed,35681.0839953865,0,2.9298831169496986,0,0
+Warren County,Black,27,Female,High School,Employed,35801.433715795356,2,5.018917705282837,0,1
+Warren County,Black,49,Female,Less than High School,Unemployed,36265.9181632557,2,4.546965966775055,0,0
+Warren County,Black,51,Male,High School,Employed,34209.25056269766,2,3.7330266950048636,1,0
+Warren County,White,21,Male,Bachelor's Degree,Employed,77303.03177900026,0,6.2856403397116445,1,0
+Warren County,White,75,Female,Some College,Unemployed,14542.860904434738,3,7.332477868680202,0,1
+Warren County,White,23,Female,Less than High School,Employed,14768.01292836733,0,8.16504337514622,0,1
+Warren County,White,60,Female,PhD,Employed,14753.415681404764,5,7.592558575490114,0,1
+Warren County,Black,52,Male,Some College,Employed,78588.94101291854,1,3.9114364912335815,1,0
+Warren County,Black,49,Male,Some College,Unemployed,77674.02917810944,2,5.74643248412484,0,0
+Warren County,Black,64,Female,Master's Degree,Employed,127514.62326987826,1,4.85567271646495,0,0
+Warren County,Black,29,Male,Some College,Employed,35794.698665653865,1,6.262855086221094,0,0
+Warren County,Black,63,Male,Bachelor's Degree,Employed,75465.54595801927,1,3.83769737249854,1,0
+Warren County,White,63,Male,Some College,Unemployed,36564.817334879815,0,4.053123712237518,1,0
+Warren County,Black,55,Female,High School,Employed,34986.90563508826,1,3.98084032175928,1,0
+Warren County,Black,59,Female,High School,Employed,14820.77656480484,0,7.229139631507708,0,1
+Warren County,Black,51,Male,Master's Degree,Employed,14494.553005397385,3,5.436829739324757,0,0
+Warren County,White,44,Male,Some College,Unemployed,15429.308478391587,0,5.232572097210251,1,1
+Warren County,White,37,Male,Some College,Employed,35820.55376226457,5,5.657928454308908,1,0
+Warren County,Black,57,Female,Less than High School,Unemployed,34595.24263483447,2,5.437419762073541,0,0
+Warren County,Black,60,Male,High School,Unemployed,33338.1769488573,1,4.762264044299825,1,1
+Warren County,White,57,Male,Some College,Unemployed,36186.49064701303,2,5.0950779307002545,1,0
+Warren County,Black,60,Female,High School,Employed,33289.96294208926,3,5.4617109761811005,0,0
+Warren County,Black,22,Female,Some College,Unemployed,127546.24724536312,2,5.995639496641484,1,0
+Warren County,Black,74,Female,Less than High School,Employed,15705.385664589086,4,7.135579988483645,0,1
+Warren County,Other,31,Female,Less than High School,Unemployed,34781.81464851871,2,6.767941447143746,0,0
+Warren County,White,66,Female,Less than High School,Employed,34072.40691748583,1,6.325094644494987,1,0
+Warren County,Black,46,Female,Less than High School,Employed,15307.306515065073,0,3.6852786025070174,1,0
+Warren County,White,49,Male,Some College,Employed,15475.692213023376,5,4.575137781735809,1,1
+Warren County,White,60,Male,Some College,Unemployed,15069.645474116773,3,6.2738265074443245,1,1
+Warren County,White,21,Female,Bachelor's Degree,Employed,78502.7645644211,0,6.993687842688678,0,1
+Warren County,White,70,Female,High School,Employed,14327.503082486941,1,5.188402396427736,1,1
+Warren County,Black,73,Male,Some College,Unemployed,75035.96698728396,1,4.934827338603746,0,0
+Warren County,Black,71,Female,High School,Unemployed,76638.40460491912,3,4.746402033239107,0,0
+Warren County,Black,69,Female,High School,Employed,77719.80353361883,2,10.638204635348401,0,0
+Warren County,Black,46,Female,Some College,Unemployed,14518.883417861685,3,10.598831757937958,0,1
+Warren County,White,30,Female,Less than High School,Employed,36050.01218617288,1,6.233635765025313,1,0
+Warren County,Black,24,Female,Some College,Employed,35184.47476501491,0,3.8177161097839702,1,0
+Warren County,White,64,Male,High School,Employed,14844.830522984943,3,6.108276800242904,1,1
+Warren County,Black,33,Female,Less than High School,Employed,14447.57254286864,1,7.777558235104043,0,0
+Warren County,Black,18,Female,Less than High School,Unemployed,77739.71819181684,0,4.591582073326634,0,0
+Warren County,Black,41,Male,High School,Employed,120715.91510224644,1,6.5007762905546915,1,0
+Warren County,White,30,Male,High School,Employed,14714.681788813648,0,3.709454904735169,1,1
+Warren County,White,20,Female,High School,Employed,34265.15936186853,0,4.360189883056642,1,0
+Warren County,White,54,Male,Some College,Unemployed,36299.94911966799,3,2.9676034637747737,1,0

@@ -1,0 +1,1001 @@
+County,Race,Age,Gender,Education Level,Employment Status,Income Level,Prior Convictions,Risk Score,Judge Decision,Re-offense
+Claiborne County,Black,62,Male,Bachelor's Degree,Employed,34165.96989307567,5,1.949816047538945,1,0
+Claiborne County,Black,48,Male,Bachelor's Degree,Employed,73102.34099304,3,7.631000028973883,0,0
+Claiborne County,Black,44,Male,High School,Unemployed,78046.90935390777,2,6.278392730173685,1,0
+Claiborne County,Black,63,Female,Bachelor's Degree,Employed,121869.32749811883,1,5.098658484197037,0,0
+Claiborne County,Black,53,Female,Bachelor's Degree,Employed,73289.62294596473,2,3.724814912353949,1,0
+Claiborne County,Black,44,Male,Less than High School,Employed,15389.097393626944,0,4.655994520336203,0,1
+Claiborne County,Black,18,Male,Bachelor's Degree,Employed,124371.74803063174,1,7.292933779469119,0,0
+Claiborne County,White,58,Female,Some College,Unemployed,15415.065835432773,5,7.51264660408491,0,0
+Claiborne County,White,20,Female,Less than High School,Unemployed,14348.049236346576,0,6.121338014091851,1,0
+Claiborne County,Black,24,Male,Some College,Employed,34956.499177856844,0,8.332916124473673,0,0
+Claiborne County,Black,42,Male,Less than High School,Employed,33367.64760064149,1,2.7123506965774813,1,0
+Claiborne County,White,67,Male,Some College,Employed,14343.97980518303,6,5.469909852161995,0,1
+Claiborne County,Black,19,Male,PhD,Employed,78048.28090008307,1,7.465419697120591,1,0
+Claiborne County,Black,51,Male,Less than High School,Unemployed,14458.868056676392,1,3.769871288542621,1,1
+Claiborne County,Black,72,Male,High School,Employed,15048.631023412823,2,3.7454599737656804,1,0
+Claiborne County,Black,37,Male,Less than High School,Employed,34688.83460910247,6,2.8100427059120605,0,0
+Claiborne County,Black,56,Female,Bachelor's Degree,Employed,73855.07494694131,3,4.804242242959537,0,0
+Claiborne County,Black,74,Female,Master's Degree,Employed,129997.91682109091,3,2.009902572652895,1,0
+Claiborne County,Black,53,Male,Bachelor's Degree,Employed,71413.67547581617,1,7.891112029827386,1,0
+Claiborne County,Black,73,Male,Less than High School,Unemployed,35573.26390161456,1,5.749474968237651,0,0
+Claiborne County,Black,33,Female,Some College,Unemployed,15695.091651320326,1,10.22370578944476,0,0
+Claiborne County,Black,65,Male,High School,Employed,75451.26137596382,3,1.8557975442608168,1,0
+Claiborne County,Black,29,Male,Less than High School,Unemployed,15655.233693049637,1,8.625860367363392,1,1
+Claiborne County,Black,39,Female,Less than High School,Employed,14328.386818929035,2,3.8930894746349534,0,1
+Claiborne County,Black,23,Female,Bachelor's Degree,Employed,74390.94989305621,1,7.929711974747258,1,1
+Claiborne County,Black,48,Male,High School,Unemployed,34160.55226836718,0,7.399246345950219,0,0
+Claiborne County,Black,30,Male,High School,Unemployed,15346.231447471093,2,3.759739025726688,0,1
+Claiborne County,White,37,Female,Some College,Employed,78609.72817872935,1,5.014234438413611,1,0
+Claiborne County,Black,54,Male,Bachelor's Degree,Employed,73173.97546833186,3,5.092414568862043,0,0
+Claiborne County,Black,58,Female,Some College,Employed,15231.26190221111,0,3.6371603301759983,1,1
+Claiborne County,Black,65,Male,Less than High School,Unemployed,33943.34171465909,1,6.129053822281726,0,0
+Claiborne County,Black,38,Male,Some College,Unemployed,15097.995381857414,4,5.60462894842475,0,1
+Claiborne County,Black,57,Male,High School,Unemployed,124549.1560836042,6,5.478061911582335,0,1
+Claiborne County,Black,75,Male,High School,Employed,15708.007994447305,1,8.718216859605334,0,1
+Claiborne County,Black,67,Female,Less than High School,Employed,35379.84545443763,2,4.372505626459647,1,0
+Claiborne County,Black,31,Female,High School,Employed,34473.27230230386,0,8.493435756986338,0,1
+Claiborne County,Black,73,Male,Some College,Employed,33649.33524710777,0,5.765536523008045,0,0
+Claiborne County,Black,25,Male,Some College,Unemployed,120640.58535918668,0,6.4367409596089376,0,1
+Claiborne County,White,32,Male,High School,Unemployed,34038.60925482932,2,8.294772842419452,0,0
+Claiborne County,Black,52,Male,Bachelor's Degree,Employed,73132.24996005223,1,5.928182992487521,0,0
+Claiborne County,Black,30,Male,Master's Degree,Employed,129382.70072301422,1,2.7732229409068676,1,0
+Claiborne County,Black,20,Female,Less than High School,Unemployed,15091.834182423787,0,3.9961415280890162,1,0
+Claiborne County,Black,71,Female,Bachelor's Degree,Employed,35081.86818981028,2,6.348143929561306,0,0
+Claiborne County,Black,27,Male,High School,Employed,33651.69105154226,1,4.327456321663026,1,0
+Claiborne County,Black,20,Male,High School,Unemployed,15540.209540024152,1,9.517559963200034,1,1
+Claiborne County,Black,55,Male,High School,Unemployed,35779.85006122969,1,9.292540111837168,0,1
+Claiborne County,Black,50,Male,High School,Unemployed,14351.502542850001,4,5.774053291307293,0,1
+Claiborne County,Black,75,Female,High School,Employed,76558.76322922327,3,4.016054416942248,1,0
+Claiborne County,Black,75,Male,Bachelor's Degree,Employed,35152.38376069925,3,4.0373682234746235,0,0
+Claiborne County,Black,59,Female,High School,Employed,14372.588018620167,1,6.558796237735738,0,1
+Claiborne County,Black,52,Male,High School,Employed,14937.450962292984,1,6.5635015533174705,1,1
+Claiborne County,Black,61,Female,Bachelor's Degree,Employed,124808.70358912558,0,3.165079694016669,1,0
+Claiborne County,Black,43,Male,Less than High School,Employed,120822.18175204094,0,9.79109809481554,1,1
+Claiborne County,Black,22,Male,High School,Employed,36559.943514500985,1,7.5527582905987085,0,0
+Claiborne County,Black,19,Male,High School,Employed,15524.963057220994,0,7.13705997033552,1,1
+Claiborne County,Black,36,Male,High School,Employed,76267.66752996831,1,3.25312454101387,1,1
+Claiborne County,Black,56,Male,High School,Unemployed,14943.44334150091,1,5.5061910024623035,0,1
+Claiborne County,Black,32,Female,Bachelor's Degree,Employed,123897.06926980635,1,5.635179434902974,0,0
+Claiborne County,Black,63,Female,High School,Employed,76132.30100363216,1,7.272363662256861,0,1
+Claiborne County,Black,58,Male,Master's Degree,Employed,75340.73902055179,0,4.825330330763265,0,1
+Claiborne County,Black,53,Male,Bachelor's Degree,Employed,71717.04829411414,3,3.9109418317515856,0,0
+Claiborne County,White,22,Male,Bachelor's Degree,Employed,15018.753973155497,1,5.725618838128675,0,1
+Claiborne County,Black,39,Male,Some College,Employed,15459.60542584926,1,6.394485010982315,0,1
+Claiborne County,Black,75,Female,Some College,Employed,74694.29908197718,0,4.856753326693589,0,0
+Claiborne County,Black,53,Female,Bachelor's Degree,Employed,71639.674331657,2,8.605682117437285,0,0
+Claiborne County,White,39,Male,Master's Degree,Employed,36001.973697844114,1,7.059774516421548,0,0
+Claiborne County,Black,40,Female,Bachelor's Degree,Employed,33954.77323747591,6,7.425478759959621,0,1
+Claiborne County,Black,29,Male,Less than High School,Employed,34155.17292210813,2,7.423075773055655,0,1
+Claiborne County,Black,31,Male,High School,Unemployed,72485.29765074221,2,3.659640514943817,1,0
+Claiborne County,Black,18,Male,Bachelor's Degree,Employed,73726.61298653623,0,10.973773873201033,0,1
+Claiborne County,Black,74,Male,Less than High School,Employed,35898.63026991022,1,4.217795815437326,1,0
+Claiborne County,Black,29,Male,Less than High School,Employed,15029.078789255906,0,7.517945090454676,0,0
+Claiborne County,Black,60,Female,Bachelor's Degree,Employed,121311.01592688389,4,5.406626540548324,0,1
+Claiborne County,Black,34,Female,Less than High School,Employed,77833.72558614031,5,9.567830571218702,0,1
+Claiborne County,Black,68,Male,Some College,Unemployed,15569.372782427294,2,9.37234321892571,1,1
+Claiborne County,Black,23,Female,Some College,Employed,129632.23031307508,1,3.137404300824593,1,0
+Claiborne County,Black,58,Female,High School,Employed,34085.786739835385,0,5.271270346685945,0,1
+Claiborne County,White,43,Male,Less than High School,Employed,14926.85901627148,0,3.6592357213872724,1,1
+Claiborne County,Black,53,Female,Some College,Employed,36697.463796493066,3,8.74523831137969,0,0
+Claiborne County,Black,54,Male,Master's Degree,Employed,77040.09357232493,2,4.61586905952513,1,1
+Claiborne County,Black,42,Female,Some College,Unemployed,33345.08597428946,2,9.65358616657607,0,1
+Claiborne County,Black,71,Female,Bachelor's Degree,Employed,33478.21606941172,2,7.172617377558581,0,0
+Claiborne County,Black,59,Female,Bachelor's Degree,Employed,124549.14221015415,2,7.729436839764239,0,0
+Claiborne County,Black,64,Female,Some College,Employed,15613.83030879234,1,7.301693360457638,1,0
+Claiborne County,Black,71,Male,Master's Degree,Employed,35135.4562928345,1,2.8865893930293973,0,0
+Claiborne County,Black,32,Female,Bachelor's Degree,Employed,124972.65635042862,2,7.720293315242795,0,1
+Claiborne County,Other,21,Female,High School,Unemployed,33619.15794984821,2,8.367369885340903,0,1
+Claiborne County,Black,36,Male,Less than High School,Employed,35548.730366535034,2,7.192580459897298,0,0
+Claiborne County,Black,67,Male,Some College,Employed,77415.77370450168,2,7.542097839606857,1,0
+Claiborne County,Black,32,Male,Master's Degree,Employed,34581.47002627647,2,5.966657910194339,0,0
+Claiborne County,Black,63,Female,Less than High School,Employed,77067.08888193996,2,2.771756547562981,0,0
+Claiborne County,Black,18,Male,Some College,Employed,15696.714980851217,2,3.127946872333797,1,1
+Claiborne County,Black,75,Male,High School,Unemployed,33963.18260694691,3,4.208628038893518,1,0
+Claiborne County,Black,50,Male,High School,Unemployed,35081.6537091816,4,8.098043516111193,0,1
+Claiborne County,Black,61,Male,Some College,Employed,14680.706937126863,2,5.270967179954561,0,0
+Claiborne County,White,27,Female,Master's Degree,Employed,128660.68023792299,1,4.993795596364391,1,0
+Claiborne County,Black,37,Male,Some College,Unemployed,15116.390048821735,1,5.022732829381994,0,1
+Claiborne County,Black,72,Male,Some College,Unemployed,76009.36813162729,1,7.88406562937368,0,1
+Claiborne County,Black,39,Female,High School,Employed,15446.87123942384,1,5.4305029520929144,0,0
+Claiborne County,Black,49,Female,Less than High School,Employed,34635.89665431859,3,3.6863131415946437,1,0
+Claiborne County,Black,19,Female,Some College,Employed,36452.81523942465,0,4.531429185686735,0,0
+Claiborne County,Black,48,Female,High School,Employed,75247.71650434604,3,5.136410411263781,1,0
+Claiborne County,Black,41,Female,High School,Unemployed,14486.932234253021,2,5.777227177291593,1,0
+Claiborne County,Black,47,Male,Master's Degree,Employed,15293.848677253205,3,3.005142414698822,0,1
+Claiborne County,Black,47,Female,High School,Employed,36026.41472653389,1,7.57059306349653,1,0
+Claiborne County,Black,45,Male,High School,Employed,14725.142515601288,1,2.849575337489325,1,1
+Claiborne County,Black,51,Female,Some College,Employed,77678.84442749064,5,8.838689261464134,0,1
+Claiborne County,White,67,Female,Some College,Employed,15609.214882148648,4,7.357771593960268,0,0
+Claiborne County,Black,31,Female,High School,Employed,34219.16570582233,4,3.7830385323932982,1,1
+Claiborne County,Black,18,Male,High School,Unemployed,15725.282209072833,0,3.6615839278630347,1,1
+Claiborne County,Black,74,Male,High School,Employed,14461.067292073136,2,3.8318011623310144,1,1
+Claiborne County,Black,49,Female,Some College,Employed,33957.054839408716,2,4.661221287254004,0,0
+Claiborne County,Black,23,Female,Some College,Unemployed,72631.68629428519,2,2.1718790609370293,1,0
+Claiborne County,Black,54,Male,High School,Unemployed,77954.92282505902,1,6.369744455477301,0,0
+Claiborne County,Black,41,Female,High School,Unemployed,35540.02393313737,4,4.106723005208339,1,1
+Claiborne County,White,51,Male,Master's Degree,Employed,33782.36499127795,2,6.445752708225261,1,0
+Claiborne County,Black,63,Male,High School,Employed,74552.42563776262,1,5.303672076899115,0,0
+Claiborne County,Black,59,Female,Less than High School,Employed,15172.947037604701,2,7.4985120942176575,1,0
+Claiborne County,Black,39,Male,High School,Employed,14375.196127484074,3,3.235535399093987,1,0
+Claiborne County,Black,56,Male,High School,Unemployed,129780.20460509174,0,6.047210690298781,0,0
+Claiborne County,Black,71,Male,Bachelor's Degree,Employed,77277.0265158115,4,8.4919042482625,1,1
+Claiborne County,Black,28,Female,Less than High School,Unemployed,35018.223707518235,0,5.396091299923493,1,0
+Claiborne County,Black,33,Male,High School,Unemployed,15700.689922888756,1,7.708805559954983,1,1
+Claiborne County,Black,68,Male,Some College,Employed,14876.641468912649,1,9.220103849055354,0,1
+Claiborne County,Black,32,Female,Less than High School,Employed,36694.38611662774,3,8.510283292575496,0,0
+Claiborne County,Black,57,Female,High School,Employed,15251.87999820544,3,7.8833724618020105,0,1
+Claiborne County,Black,20,Male,Some College,Employed,76010.03454940456,1,8.508823625475989,0,0
+Claiborne County,Black,37,Female,Less than High School,Unemployed,14498.932342943675,2,5.360730583256343,0,0
+Claiborne County,Black,31,Female,Bachelor's Degree,Employed,77864.45818728482,3,6.309732982743667,0,1
+Claiborne County,Black,70,Male,High School,Employed,14891.234531880922,3,6.01289676309308,0,1
+Claiborne County,Black,42,Male,High School,Employed,72466.75054336859,1,5.900893203778535,0,0
+Claiborne County,Black,24,Male,Master's Degree,Employed,33294.12631991516,0,7.555372496753169,0,1
+Claiborne County,White,31,Female,Less than High School,Unemployed,75448.16762728787,2,6.467811514267156,0,1
+Claiborne County,Black,65,Female,Less than High School,Unemployed,15041.099433184016,2,9.675230342807255,0,1
+Claiborne County,Black,56,Male,Bachelor's Degree,Employed,35767.737678292055,1,6.5314916446950235,0,0
+Claiborne County,Black,24,Female,Master's Degree,Employed,77926.93539763351,0,4.823202932020755,0,0
+Claiborne County,Black,61,Male,High School,Employed,14369.109876964543,1,7.026306870440713,1,1
+Claiborne County,Black,27,Male,Some College,Employed,76736.22367755271,2,3.121811375337107,1,0
+Claiborne County,Black,75,Female,Less than High School,Employed,14531.117916146371,1,8.75453328428273,0,1
+Claiborne County,Black,27,Male,High School,Unemployed,36253.61968605007,4,6.566138499265152,0,1
+Claiborne County,Black,63,Female,Master's Degree,Employed,77392.97635396241,2,6.554936753930534,0,0
+Claiborne County,Other,20,Female,Master's Degree,Employed,15061.190632478316,0,4.751782295825365,1,1
+Claiborne County,Black,67,Female,Less than High School,Employed,35735.84979518159,5,8.995047310606294,0,0
+Claiborne County,Black,48,Female,Some College,Unemployed,34350.22539614311,4,5.7610539717801235,0,1
+Claiborne County,White,30,Female,Less than High School,Unemployed,14956.751848399223,0,2.8709042966264806,1,1
+Claiborne County,Black,36,Male,Some College,Employed,36125.72914198665,0,7.259019115767253,1,1
+Claiborne County,Black,61,Male,Less than High School,Employed,34857.42819010625,2,5.109564333979897,0,0
+Claiborne County,Black,49,Male,High School,Unemployed,34502.29392863905,1,3.0016074139373172,1,0
+Claiborne County,Black,63,Male,Bachelor's Degree,Employed,74956.59335437724,2,7.282366001999983,1,0
+Claiborne County,Black,25,Male,Bachelor's Degree,Employed,129103.11565546523,0,5.734375757083934,1,0
+Claiborne County,Black,69,Female,Bachelor's Degree,Employed,122940.1005921359,4,2.1633063543866617,1,1
+Claiborne County,Black,68,Male,High School,Unemployed,14510.642389703615,1,3.791649512533578,1,0
+Claiborne County,Black,25,Female,High School,Unemployed,35742.04907115773,1,2.786936923254734,1,0
+Claiborne County,Black,22,Female,Some College,Employed,36140.923744478285,0,5.987343312333076,0,0
+Claiborne County,Black,58,Male,Bachelor's Degree,Employed,120007.96848154416,1,5.485650454110601,0,0
+Claiborne County,Black,58,Female,Bachelor's Degree,Employed,34089.5593946458,1,3.7936442172092004,1,0
+Claiborne County,Black,29,Male,High School,Employed,33746.90196416348,0,3.103281328443527,1,1
+Claiborne County,Black,75,Female,High School,Unemployed,34467.794940537584,2,6.3139435383944615,1,0
+Claiborne County,Black,36,Female,Less than High School,Employed,14925.526468358119,1,3.7901100351939196,0,1
+Claiborne County,Black,65,Male,High School,Employed,35870.89217937157,0,4.1825730788894875,1,0
+Claiborne County,Black,39,Female,High School,Unemployed,126889.34481102093,3,5.841339759263104,0,0
+Claiborne County,Black,53,Female,High School,Employed,15181.392851217646,2,7.185228162831011,0,1
+Claiborne County,Black,59,Male,Bachelor's Degree,Employed,73892.8120995724,2,7.186941595065252,0,0
+Claiborne County,Black,25,Male,High School,Unemployed,15512.17132962714,1,5.035774684074759,0,0
+Claiborne County,Black,50,Female,Some College,Employed,74784.65375548623,0,2.754173862032645,1,0
+Claiborne County,Black,23,Male,High School,Unemployed,36676.867283053034,0,8.536483992942781,0,1
+Claiborne County,Black,43,Female,Some College,Unemployed,76006.06603721803,2,7.713248103954777,0,0
+Claiborne County,Black,72,Male,Master's Degree,Employed,33691.92659547576,2,2.8119111062399123,1,0
+Claiborne County,Black,37,Female,Master's Degree,Employed,76321.33171556574,2,2.7244650849328584,1,0
+Claiborne County,Black,41,Female,Some College,Unemployed,14737.656023147547,1,5.090892943188242,0,0
+Claiborne County,Black,42,Male,Some College,Unemployed,35652.145188401344,3,5.177564361842283,0,0
+Claiborne County,Black,34,Female,High School,Employed,33493.74401856842,1,2.7099526973567136,0,0
+Claiborne County,Black,65,Male,High School,Unemployed,14512.322155763939,2,6.014511669959137,0,1
+Claiborne County,Black,50,Male,Bachelor's Degree,Employed,36245.08040617025,2,7.562393240316701,0,1
+Claiborne County,Black,26,Female,Master's Degree,Employed,72953.84667767635,2,4.11613823232756,1,0
+Claiborne County,Black,39,Female,Less than High School,Employed,36179.643938350295,1,9.348732858009983,0,1
+Claiborne County,Black,63,Female,High School,Employed,34227.46630959043,3,7.267312833343452,0,0
+Claiborne County,Black,34,Male,Bachelor's Degree,Employed,76071.6143254403,0,2.9320412077803226,1,0
+Claiborne County,Black,66,Female,High School,Unemployed,35679.52700728441,3,6.524075986484082,0,0
+Claiborne County,Black,27,Female,High School,Employed,35044.29163600768,0,6.492529321804391,0,0
+Claiborne County,White,58,Female,High School,Employed,14707.966015045096,2,3.872853080840207,0,0
+Claiborne County,Black,47,Male,High School,Unemployed,14568.966564556644,4,5.536168225488707,0,1
+Claiborne County,Black,72,Female,Less than High School,Unemployed,33366.16274096849,1,9.764448512901414,0,0
+Claiborne County,Black,21,Male,High School,Employed,34313.81240434253,1,4.301871482704785,0,0
+Claiborne County,Black,53,Female,Some College,Unemployed,76148.72092898462,0,5.709529953258187,0,0
+Claiborne County,Black,29,Male,Less than High School,Unemployed,78287.28613836362,0,4.127987236827344,0,0
+Claiborne County,Black,51,Male,Master's Degree,Employed,36299.21568792068,1,4.253777760160973,1,0
+Claiborne County,Black,56,Male,High School,Employed,76995.48582401476,4,4.04416064927957,1,1
+Claiborne County,White,74,Male,High School,Employed,15432.671014879947,0,5.029650578356007,1,1
+Claiborne County,White,70,Female,High School,Employed,35577.44716216598,2,4.741852290900452,1,0
+Claiborne County,Black,30,Female,Less than High School,Employed,34161.00400148101,2,3.6744822142447195,1,0
+Claiborne County,Black,58,Male,High School,Unemployed,36425.1826074704,3,8.635545212725322,0,0
+Claiborne County,Black,33,Male,Less than High School,Unemployed,35597.56309167042,1,5.400418057163331,0,1
+Claiborne County,Black,40,Female,Less than High School,Employed,35211.542208431536,0,6.159721748727922,0,0
+Claiborne County,Black,21,Male,Master's Degree,Employed,33638.46314224718,3,4.8390297910487,0,0
+Claiborne County,Black,39,Female,High School,Employed,34814.694403322486,1,6.788893404457726,1,0
+Claiborne County,Black,42,Female,Some College,Employed,14940.537406802889,0,6.271146814644288,1,0
+Claiborne County,Black,64,Female,High School,Employed,15546.845414284006,3,5.397110259952578,1,1
+Claiborne County,Black,52,Male,Less than High School,Unemployed,15069.972330281682,3,6.464503709118141,0,1
+Claiborne County,Black,43,Male,Some College,Employed,34581.401921396435,1,5.2798755458576245,0,0
+Claiborne County,Black,38,Male,Less than High School,Unemployed,15715.200492765987,0,6.170437975385146,0,1
+Claiborne County,Black,55,Female,Bachelor's Degree,Employed,120134.00741657894,2,3.667311971996039,1,0
+Claiborne County,Black,33,Male,Less than High School,Employed,34728.919499091804,1,4.661628714094614,0,0
+Claiborne County,Black,36,Female,Some College,Employed,14313.037012757106,2,9.717397539348744,0,1
+Claiborne County,Black,38,Female,High School,Unemployed,15359.856181150395,2,5.10642905965959,0,0
+Claiborne County,Black,67,Male,Less than High School,Unemployed,36463.26793269703,2,5.411036461939956,0,0
+Claiborne County,White,61,Female,Some College,Employed,73350.27997162867,1,4.601471542866032,1,0
+Claiborne County,Black,60,Female,Master's Degree,Employed,77687.5625759934,0,7.228902476751279,0,0
+Claiborne County,Black,74,Male,Less than High School,Unemployed,73441.63672846423,1,2.703036950307731,1,0
+Claiborne County,Black,50,Female,Master's Degree,Employed,78080.77621232935,2,7.457292882267998,1,0
+Claiborne County,Black,71,Male,High School,Employed,35888.86666258874,4,8.077974062986538,0,1
+Claiborne County,Black,56,Female,High School,Unemployed,15457.360165262156,2,6.230274237231232,0,1
+Claiborne County,Black,66,Male,Bachelor's Degree,Employed,71385.04916700341,2,5.151961259502601,0,0
+Claiborne County,Black,71,Female,Bachelor's Degree,Employed,78471.0776780552,2,9.44853861892112,0,0
+Claiborne County,Black,71,Male,Some College,Employed,15340.006488105486,1,3.127307532808522,1,0
+Claiborne County,Black,71,Male,High School,Employed,14707.126643079198,6,6.63214872249552,0,0
+Claiborne County,Black,45,Male,Less than High School,Unemployed,77470.45998644135,2,6.755559577422975,0,0
+Claiborne County,Black,61,Male,Some College,Employed,34235.32419445225,1,5.246491405118024,0,0
+Claiborne County,Black,70,Male,Less than High School,Employed,15559.13075934919,0,7.209486058666101,0,0
+Claiborne County,Black,19,Male,Bachelor's Degree,Employed,120157.25488014921,1,5.3492234104941785,0,0
+Claiborne County,Black,42,Male,Less than High School,Unemployed,76527.64483095596,2,5.157612892300344,1,0
+Claiborne County,Black,50,Male,High School,Employed,35142.44466825718,0,7.09563204466966,0,0
+Claiborne County,Black,68,Male,Bachelor's Degree,Employed,33587.87064568404,1,3.674939814262474,1,0
+Claiborne County,Black,71,Female,Some College,Unemployed,73064.20371194129,0,3.894172642447547,0,0
+Claiborne County,White,62,Male,Master's Degree,Employed,118905.05045346644,1,0.9530404735363451,1,0
+Claiborne County,Black,33,Female,High School,Employed,34890.68787912577,2,6.6415855007307165,0,0
+Claiborne County,Black,64,Female,Some College,Unemployed,14701.89789114,1,6.567612665702935,0,0
+Claiborne County,Black,59,Male,Less than High School,Employed,15147.536226446637,1,4.89309772466676,0,1
+Claiborne County,Black,53,Female,Some College,Unemployed,14695.856711562925,1,9.705683799318804,1,1
+Claiborne County,Other,42,Female,Master's Degree,Employed,73499.39333630238,0,3.0786831755983575,1,0
+Claiborne County,Black,57,Male,Bachelor's Degree,Employed,35851.17619556061,0,6.353773564249979,1,0
+Claiborne County,Black,55,Female,Master's Degree,Employed,71611.07126983764,2,4.002109674484154,1,0
+Claiborne County,Black,21,Female,Less than High School,Unemployed,15604.34249278798,1,8.123046215402175,0,0
+Claiborne County,Black,20,Male,Master's Degree,Employed,36232.923560369134,0,9.985035387637728,0,0
+Claiborne County,Black,34,Female,Bachelor's Degree,Employed,76258.53512419805,3,5.634291585357653,0,0
+Claiborne County,Black,47,Male,High School,Unemployed,35326.27549537585,4,5.222452115261506,0,1
+Claiborne County,Black,66,Female,Bachelor's Degree,Employed,15588.453747209478,3,6.693081307417199,1,1
+Claiborne County,Black,36,Female,High School,Employed,33898.6556283505,3,7.238905546290327,0,0
+Claiborne County,Black,40,Male,Some College,Employed,14368.453743286242,1,8.232755673451468,1,1
+Claiborne County,Black,18,Male,High School,Employed,14609.265254864307,0,6.547954951169868,0,0
+Claiborne County,Black,32,Female,Less than High School,Employed,36031.02397545067,4,10.880917168705828,1,0
+Claiborne County,Black,49,Female,Some College,Employed,33371.34593354269,0,2.1815714308010348,1,0
+Claiborne County,Black,34,Female,Bachelor's Degree,Employed,126035.08543854361,2,6.497837268264538,0,0
+Claiborne County,White,66,Female,Some College,Employed,78715.78137143483,0,3.896126960204356,1,0
+Claiborne County,Black,22,Female,Bachelor's Degree,Employed,15533.544140756308,1,2.7092739699173203,1,0
+Claiborne County,Black,52,Female,Bachelor's Degree,Employed,75160.84266782692,1,10.856637125175453,0,0
+Claiborne County,Black,27,Female,High School,Unemployed,71727.3068196498,2,4.928184148317315,0,0
+Claiborne County,Black,41,Male,High School,Unemployed,77485.30135789282,1,4.373323855234936,1,0
+Claiborne County,Black,18,Male,Some College,Employed,75742.33881132907,0,7.649067967924955,1,0
+Claiborne County,Black,66,Male,Some College,Employed,72111.99747794674,1,7.4942132376543045,0,0
+Claiborne County,White,72,Male,Some College,Unemployed,14390.785927235034,2,3.835559113655669,1,1
+Claiborne County,Black,33,Male,Bachelor's Degree,Employed,36433.69386802807,1,5.86211727432231,0,0
+Claiborne County,Black,30,Male,Bachelor's Degree,Employed,35592.20092028328,1,3.210682002910114,1,0
+Claiborne County,Black,46,Female,Less than High School,Employed,15493.930198975133,0,4.816922005156278,0,1
+Claiborne County,Black,37,Female,Less than High School,Employed,15568.468350423402,1,7.471188394697748,0,1
+Claiborne County,White,32,Female,Less than High School,Employed,35251.20323216913,2,3.03408075747501,1,0
+Claiborne County,Black,43,Male,Some College,Employed,35061.06223114265,3,5.436154774160781,0,0
+Claiborne County,Black,58,Female,High School,Unemployed,14895.641115481485,2,5.196029796674973,0,0
+Claiborne County,Black,40,Female,Bachelor's Degree,Employed,73627.0994084334,2,4.056048936071492,1,0
+Claiborne County,Black,75,Male,High School,Employed,14901.893941288066,0,7.35548239003323,0,1
+Claiborne County,Black,59,Female,High School,Unemployed,15410.819483595234,4,5.11500722669917,0,0
+Claiborne County,White,29,Female,Bachelor's Degree,Employed,75764.42573261348,1,6.588064620125117,1,0
+Claiborne County,Black,36,Female,Less than High School,Employed,77943.92467466134,3,3.7120672121892193,1,0
+Claiborne County,Black,53,Female,Less than High School,Unemployed,34801.83005032715,2,4.014663721890989,1,0
+Claiborne County,Black,39,Female,Bachelor's Degree,Employed,75803.17184039064,5,10.754746143855911,0,0
+Claiborne County,Black,20,Male,High School,Employed,15196.961329637983,0,9.433383511957569,0,0
+Claiborne County,Black,31,Female,Less than High School,Unemployed,35320.94006807214,1,3.1182094445971607,1,0
+Claiborne County,White,62,Female,Some College,Employed,35709.218205799305,1,3.1214904503922654,1,0
+Claiborne County,Black,25,Female,Less than High School,Unemployed,14606.150202562209,2,8.747084072195559,0,1
+Claiborne County,Black,35,Female,High School,Unemployed,35043.273221410265,2,4.793591844264494,0,0
+Claiborne County,Black,43,Male,Some College,Employed,72031.6860210626,2,4.247488924382811,1,0
+Claiborne County,Black,25,Female,Bachelor's Degree,Employed,34595.78964675684,0,6.372136073615017,1,0
+Claiborne County,Black,70,Male,Less than High School,Employed,34956.834740174425,3,5.367072318580104,0,0
+Claiborne County,Black,55,Female,High School,Employed,35532.78490840916,3,7.578536773579059,0,0
+Claiborne County,White,55,Male,Less than High School,Unemployed,15675.796578879304,3,4.009073919088751,1,1
+Claiborne County,Black,54,Male,Bachelor's Degree,Employed,75754.88299911267,2,7.002122812562079,0,0
+Claiborne County,Black,58,Male,Some College,Employed,35852.578706617955,1,4.23863614317342,1,0
+Claiborne County,White,71,Male,Master's Degree,Employed,75046.99544621402,3,3.0899783584666594,0,0
+Claiborne County,Black,66,Female,Less than High School,Employed,15201.156047064494,1,3.1211801263546217,1,0
+Claiborne County,Black,52,Male,Less than High School,Employed,14356.39832420066,1,6.3549512033233215,0,0
+Claiborne County,Black,33,Female,Less than High School,Employed,14631.58737126277,2,4.312004273454053,1,1
+Claiborne County,Black,29,Female,Some College,Unemployed,14792.779639807708,1,4.8379951568515365,0,0
+Claiborne County,Black,26,Male,High School,Employed,14958.74003250977,2,7.800932724223911,0,0
+Claiborne County,Black,46,Female,High School,Employed,33409.77060925834,2,6.431574715777217,0,0
+Claiborne County,Black,65,Female,Less than High School,Employed,33740.08434143661,2,10.156560281992348,0,0
+Claiborne County,Black,36,Male,High School,Employed,34218.85007726957,0,8.164696092834136,0,1
+Claiborne County,Black,36,Male,Bachelor's Degree,Employed,130894.15863626314,5,5.958717621758953,0,0
+Claiborne County,Black,64,Female,Some College,Unemployed,14747.020510654576,3,6.051173561649092,0,1
+Claiborne County,Black,68,Male,Some College,Employed,74865.30793584061,0,5.7438495025539416,0,1
+Claiborne County,Black,59,Male,Master's Degree,Employed,121201.22140922991,2,7.127166564796616,0,0
+Claiborne County,White,54,Male,Some College,Employed,15166.17010661365,0,1.8122000999756198,1,0
+Claiborne County,Black,73,Male,Some College,Unemployed,14671.024823273961,2,4.537348188749214,0,1
+Claiborne County,Black,28,Female,Some College,Unemployed,14560.48886765764,2,2.1290402242638633,1,0
+Claiborne County,White,62,Female,Some College,Unemployed,75124.29471334485,0,2.9161143848467574,1,0
+Claiborne County,Other,67,Male,Less than High School,Employed,71291.29349370315,2,7.403296820243016,0,0
+Claiborne County,Black,53,Female,Some College,Employed,14261.496048973837,2,5.022243260054804,0,0
+Claiborne County,White,25,Male,High School,Unemployed,34016.7408318565,0,8.431989684957777,0,1
+Claiborne County,Other,32,Female,Some College,Unemployed,33378.524768752875,1,6.60214943849558,0,0
+Claiborne County,Black,35,Male,Some College,Employed,33628.09013945742,1,5.122890475819001,0,0
+Claiborne County,Black,41,Female,High School,Employed,14758.290974008127,0,9.170694929987537,0,1
+Claiborne County,Black,41,Male,Some College,Employed,36059.049878529346,2,3.6413453769348862,1,0
+Claiborne County,Black,61,Male,High School,Unemployed,75540.36482526975,2,4.025083705254518,0,1
+Claiborne County,Black,19,Female,PhD,Employed,75095.00794467313,0,3.024381072966064,1,0
+Claiborne County,Black,63,Male,Less than High School,Employed,14690.233234812182,0,6.164915881797849,0,1
+Claiborne County,Black,22,Female,Bachelor's Degree,Employed,130396.92149291022,0,3.1356548002335973,1,0
+Claiborne County,Black,42,Male,Some College,Employed,14845.522561855787,1,6.5710224953550425,1,1
+Claiborne County,White,68,Female,Master's Degree,Employed,71903.19575096828,4,1.0032600696602392,1,1
+Claiborne County,White,67,Female,Some College,Employed,15175.5997741767,0,3.858365178352997,1,1
+Claiborne County,Black,62,Male,High School,Unemployed,33648.4343771681,2,8.472297911629926,0,1
+Claiborne County,Black,62,Male,High School,Employed,14767.834714202536,1,5.724998701514489,0,1
+Claiborne County,Black,42,Male,Master's Degree,Employed,75055.58954038357,1,5.926765704846764,0,0
+Claiborne County,Other,67,Female,Some College,Employed,15561.333787027763,4,2.7470738288053598,0,1
+Claiborne County,Black,43,Male,High School,Employed,34977.413031190415,2,1.810140297366183,1,0
+Claiborne County,Black,50,Male,Less than High School,Unemployed,35707.905681110824,1,5.4626484146779255,0,0
+Claiborne County,Black,24,Male,Some College,Employed,36724.85893649675,2,6.403176144614648,0,0
+Claiborne County,Black,19,Male,Bachelor's Degree,Employed,33710.211919642934,1,7.2743638885311785,0,0
+Claiborne County,Other,35,Male,High School,Employed,34211.56033931832,2,3.927162355531416,1,0
+Claiborne County,Black,36,Male,Some College,Employed,14841.86411339647,3,3.738635456056677,1,1
+Claiborne County,Black,29,Male,High School,Employed,14882.742267808246,3,6.51901185973952,0,1
+Claiborne County,Black,64,Female,Some College,Unemployed,14866.531612898318,1,7.600388637063353,0,0
+Claiborne County,Black,35,Female,Less than High School,Employed,36426.63850894794,3,4.039381331764896,1,0
+Claiborne County,Black,43,Female,High School,Employed,35749.11425563399,2,8.3433534763201,0,0
+Claiborne County,Black,48,Male,High School,Unemployed,15161.857821136053,3,7.224276327404824,1,0
+Claiborne County,Black,70,Female,Some College,Unemployed,34332.80451251974,1,5.735920676335132,0,0
+Claiborne County,Black,46,Male,High School,Employed,15485.685576331942,1,5.454865280663195,1,1
+Claiborne County,Black,67,Male,Less than High School,Employed,36592.711790197456,0,6.285476300034922,0,0
+Claiborne County,Black,65,Female,Master's Degree,Employed,77408.98711912669,2,4.0434832420091205,1,0
+Claiborne County,White,61,Female,Some College,Employed,33255.47786817016,0,8.178753193974964,0,1
+Claiborne County,White,31,Male,High School,Unemployed,15204.602055275112,0,3.935680049942232,1,1
+Claiborne County,Black,63,Male,Some College,Employed,71633.51536081576,2,4.747730989501157,0,0
+Claiborne County,Black,51,Male,Less than High School,Unemployed,34151.62527116803,3,4.855972678651262,0,0
+Claiborne County,Black,58,Female,Less than High School,Unemployed,33458.3364512172,0,4.206276888371495,1,0
+Claiborne County,Black,18,Male,Some College,Employed,15155.69317942408,0,5.417272186355707,0,1
+Claiborne County,Black,69,Female,Master's Degree,Employed,35653.06469722412,2,6.462501696709683,1,0
+Claiborne County,Black,36,Male,Less than High School,Employed,120181.09547582381,0,4.546002642021753,1,0
+Claiborne County,Black,49,Male,Less than High School,Unemployed,123547.98603806223,2,0.908145760463794,1,0
+Claiborne County,White,61,Male,Bachelor's Degree,Employed,124452.95636194426,2,7.497644817615409,0,1
+Claiborne County,White,75,Male,Less than High School,Unemployed,74017.89766320687,1,3.1221947156280145,1,0
+Claiborne County,White,18,Male,Bachelor's Degree,Employed,14431.537500727789,2,5.969008594904791,1,0
+Claiborne County,Black,59,Male,High School,Employed,14878.421685281211,3,6.436967824911402,0,1
+Claiborne County,White,22,Male,Some College,Unemployed,15376.767071712628,0,4.991615875116833,1,1
+Claiborne County,White,36,Female,Less than High School,Employed,33498.52682586639,2,3.9787774166244527,1,0
+Claiborne County,Black,42,Female,Less than High School,Unemployed,33530.63004928666,1,3.7385614959280122,0,0
+Claiborne County,Black,23,Male,High School,Employed,14782.156937753976,2,4.933851649237973,0,1
+Claiborne County,Black,36,Female,PhD,Employed,130521.57139523656,2,3.918803787517899,1,0
+Claiborne County,Black,67,Male,Bachelor's Degree,Employed,76264.29485042185,1,7.162190137273104,0,0
+Claiborne County,Black,72,Male,Bachelor's Degree,Employed,127233.37445840705,0,6.162112381041172,0,0
+Claiborne County,Black,32,Male,Some College,Unemployed,73964.39993128399,0,8.181547217589682,0,1
+Claiborne County,White,23,Female,Less than High School,Employed,35327.81276922989,0,6.8244576604770595,1,0
+Claiborne County,Black,44,Male,PhD,Employed,33285.4591440971,3,7.176203881999932,0,0
+Claiborne County,Black,33,Male,Some College,Employed,35476.3361624334,0,6.003763510296105,1,0
+Claiborne County,Black,66,Female,High School,Unemployed,36446.50431651683,5,8.570383745901315,0,1
+Claiborne County,Black,38,Male,High School,Employed,35394.007139206864,3,4.126954905295156,1,1
+Claiborne County,White,33,Female,Some College,Employed,36307.94507713221,2,2.797760656248858,1,0
+Claiborne County,Black,55,Male,Less than High School,Unemployed,35783.905694131325,1,4.570568747400429,0,0
+Claiborne County,Black,32,Male,Some College,Employed,120256.98020504611,2,7.1993869894888425,1,0
+Claiborne County,Other,45,Female,Some College,Employed,36408.58657550045,4,7.242418096866595,1,0
+Claiborne County,Black,19,Female,Less than High School,Unemployed,14349.66576653366,0,5.085775581273464,0,1
+Claiborne County,White,51,Male,PhD,Employed,125424.59340684702,4,6.52827628970995,1,1
+Claiborne County,Black,68,Male,High School,Employed,14463.205685690185,3,8.120758684601407,0,1
+Claiborne County,Black,48,Male,High School,Employed,14267.559916096356,1,4.888169926206522,1,1
+Claiborne County,Black,21,Male,Some College,Employed,74415.2569509573,2,7.200603505819295,0,0
+Claiborne County,Black,65,Female,High School,Employed,73462.80530740616,2,4.958252890491517,0,0
+Claiborne County,Black,53,Female,Less than High School,Employed,14979.000740696403,2,6.054740147179123,0,0
+Claiborne County,Black,56,Female,Bachelor's Degree,Employed,75578.99915050913,0,5.441464808776525,0,1
+Claiborne County,Black,31,Male,Some College,Employed,33403.08675308131,1,4.886102637800774,0,0
+Claiborne County,Black,40,Male,Some College,Employed,72172.5247134281,4,8.737904902118263,0,0
+Claiborne County,Black,22,Male,Less than High School,Employed,35205.24838757649,1,6.4864207703472765,1,0
+Claiborne County,White,25,Female,Bachelor's Degree,Employed,73823.75514879494,1,0.9391582269578593,1,0
+Claiborne County,Black,49,Male,Master's Degree,Employed,76718.80115662086,3,6.397105821225232,0,0
+Claiborne County,Black,33,Male,Some College,Employed,76142.18736443955,2,7.361244802203883,1,1
+Claiborne County,White,22,Female,Less than High School,Employed,36209.615270464674,0,3.61457746052124,1,0
+Claiborne County,Black,46,Female,Some College,Unemployed,127406.1603333653,5,6.4322201450583,1,0
+Claiborne County,White,41,Female,Bachelor's Degree,Employed,74474.4830804261,0,2.0732027093665426,1,0
+Claiborne County,Black,67,Female,High School,Employed,15259.44993359165,0,2.7427131890761376,1,1
+Claiborne County,Black,32,Male,Some College,Unemployed,34213.83410989396,3,8.67415613452877,1,0
+Claiborne County,Black,31,Male,Less than High School,Employed,14709.470248167318,4,7.4828254353572365,0,0
+Claiborne County,Black,35,Male,High School,Unemployed,36011.44805972278,2,2.7139631614414954,1,0
+Claiborne County,Black,30,Male,High School,Employed,34812.468307405536,1,5.314468482588937,0,0
+Claiborne County,Black,68,Male,Less than High School,Employed,36044.33119181423,1,7.65096763963744,0,1
+Claiborne County,Black,28,Female,Some College,Employed,36128.478307838974,1,5.541797793145988,0,0
+Claiborne County,Black,21,Female,Less than High School,Unemployed,36251.46818181449,3,6.23608459843698,0,0
+Claiborne County,Black,61,Female,High School,Unemployed,15624.952853761812,3,5.128942846779884,1,1
+Claiborne County,Black,24,Male,Some College,Employed,34758.44827179654,3,6.4529664162324645,0,0
+Claiborne County,Black,51,Female,Some College,Employed,73641.50113740853,2,6.282085252564663,0,0
+Claiborne County,White,57,Female,Less than High School,Employed,15123.29811989117,3,6.364177116461818,1,1
+Claiborne County,Black,42,Female,Less than High School,Employed,74033.79317578221,2,3.825627658057045,1,0
+Claiborne County,Black,53,Female,Less than High School,Unemployed,35353.75958380081,1,3.7419516350237783,1,0
+Claiborne County,Black,38,Female,Some College,Employed,35719.55051925339,4,6.30073770196903,1,1
+Claiborne County,Black,36,Female,High School,Unemployed,35659.41756472248,0,5.306834739267265,0,0
+Claiborne County,Black,30,Male,High School,Employed,34560.935104570424,0,7.686707198800943,0,0
+Claiborne County,Black,33,Male,Some College,Employed,72501.45151274065,2,2.947570606146856,1,0
+Claiborne County,Black,31,Female,Bachelor's Degree,Employed,34756.85268461773,1,0.9744036171585566,1,0
+Claiborne County,Black,60,Female,Some College,Unemployed,120532.42680102386,4,4.221130368593598,1,0
+Claiborne County,Black,29,Male,Bachelor's Degree,Employed,36365.33962314333,0,3.8726428322024145,1,1
+Claiborne County,Black,56,Female,Bachelor's Degree,Employed,34460.571112582504,0,7.603060255844991,0,1
+Claiborne County,Black,29,Male,Less than High School,Employed,14481.689620834984,3,7.501777852580216,0,0
+Claiborne County,Black,49,Female,Some College,Employed,33339.06715967013,1,8.872189249275033,0,1
+Claiborne County,Black,73,Female,High School,Unemployed,15218.733579429723,2,7.351219494908096,0,1
+Claiborne County,Black,32,Female,High School,Unemployed,35479.1581110916,1,7.356360023718555,0,0
+Claiborne County,White,41,Male,Master's Degree,Employed,73804.53124935969,3,4.603123868835933,1,0
+Claiborne County,Black,66,Male,High School,Employed,71787.83916635737,2,6.483063488015481,0,0
+Claiborne County,Black,58,Male,High School,Unemployed,34683.70113213331,1,8.008403795916571,0,0
+Claiborne County,Black,51,Female,Master's Degree,Employed,73584.13121297545,0,5.326457466107741,0,0
+Claiborne County,Black,34,Male,Some College,Unemployed,35619.92223907253,3,8.676089281855102,0,1
+Claiborne County,Black,65,Male,High School,Employed,35370.22737308441,1,5.3955232284962005,0,0
+Claiborne County,Black,36,Female,Some College,Unemployed,34526.078048691386,2,9.778403357468326,0,0
+Claiborne County,Black,56,Female,Less than High School,Unemployed,121473.65692818737,1,5.413005181776358,0,1
+Claiborne County,Black,25,Female,Less than High School,Employed,15732.053949233386,2,6.486458371703116,0,0
+Claiborne County,Black,59,Female,Some College,Employed,14931.002431794172,1,7.346058682857814,1,1
+Claiborne County,Black,53,Male,High School,Unemployed,15282.411353670355,3,7.710901820144664,0,0
+Claiborne County,Black,55,Male,High School,Unemployed,33741.93538652426,1,7.630086753871128,0,0
+Claiborne County,Black,48,Male,High School,Employed,14978.384549489096,1,7.6308500057125785,0,0
+Claiborne County,Black,53,Female,Bachelor's Degree,Employed,33346.37851954313,2,9.132188198621916,0,0
+Claiborne County,Black,72,Male,Less than High School,Unemployed,125068.1889738806,1,4.10546976973584,1,0
+Claiborne County,Black,54,Female,Some College,Employed,15696.026110676554,1,3.9587564175826557,0,1
+Claiborne County,Black,23,Female,Master's Degree,Employed,74131.5503473935,0,4.793210771698065,0,0
+Claiborne County,Black,30,Female,Less than High School,Employed,33386.486044012185,0,3.862931636295933,1,0
+Claiborne County,Black,40,Female,Bachelor's Degree,Employed,71482.16843189507,1,6.207022147292447,0,0
+Claiborne County,Black,58,Female,High School,Unemployed,34607.95365981404,4,4.201899623550144,0,1
+Claiborne County,Black,20,Male,Bachelor's Degree,Employed,72450.18702347396,0,8.466526469961359,0,1
+Claiborne County,Black,67,Female,Bachelor's Degree,Employed,33331.73233714865,1,5.289618142794554,0,0
+Claiborne County,Black,67,Male,Master's Degree,Employed,76921.60210462632,2,7.345929764877905,0,1
+Claiborne County,Black,42,Male,Some College,Unemployed,74688.92256661417,2,5.993304365643098,0,0
+Claiborne County,Black,56,Male,High School,Unemployed,73419.3357897949,2,4.5575587600166445,1,0
+Claiborne County,Black,47,Female,Less than High School,Employed,36400.29114055768,0,3.0297173293942414,0,0
+Claiborne County,Black,47,Female,Some College,Employed,14424.208440300788,2,5.929836601648053,0,0
+Claiborne County,Black,31,Male,Master's Degree,Employed,130698.9853619415,3,8.620326692413279,1,1
+Claiborne County,White,23,Male,High School,Employed,14720.950076066028,0,0.9701830025104158,1,0
+Claiborne County,Black,25,Female,Some College,Unemployed,129855.04590385852,1,6.4638938229986485,1,0
+Claiborne County,White,60,Female,Less than High School,Unemployed,15154.414314719192,4,5.571590018463404,1,1
+Claiborne County,Black,23,Male,Bachelor's Degree,Employed,36143.47575909521,0,9.47071913709145,0,0
+Claiborne County,Black,36,Female,Less than High School,Unemployed,15726.019744815696,4,10.236436126632523,0,1
+Claiborne County,Black,25,Female,High School,Unemployed,14682.608156728118,0,4.60112267612279,0,0
+Claiborne County,Black,32,Female,Less than High School,Unemployed,15691.70322811139,1,7.334570889783996,0,0
+Claiborne County,Black,44,Female,Some College,Unemployed,14834.22284235363,2,6.241162957750944,0,0
+Claiborne County,Black,63,Female,High School,Unemployed,34599.29166657923,4,5.487315607637033,0,1
+Claiborne County,Black,71,Male,Bachelor's Degree,Employed,123004.83880318132,2,5.321860059290357,0,0
+Claiborne County,White,46,Male,Less than High School,Employed,35144.92662571655,1,4.164993781725197,1,1
+Claiborne County,Black,72,Female,High School,Employed,14481.21756476773,1,8.24642780515542,0,0
+Claiborne County,Black,28,Male,Some College,Employed,35187.99019875303,1,5.50180525690223,1,0
+Claiborne County,Black,39,Male,Some College,Employed,15062.557218615006,3,4.3893116628009405,1,1
+Claiborne County,Black,23,Female,Less than High School,Employed,15392.852718907305,2,6.823979114058568,0,1
+Claiborne County,Black,18,Female,Some College,Employed,15500.474942906378,1,6.818899005893647,0,0
+Claiborne County,Black,33,Male,High School,Employed,14910.662025468635,2,10.625599134515005,1,0
+Claiborne County,Black,73,Male,Master's Degree,Employed,34308.16637273023,0,6.53669829286063,0,0
+Claiborne County,Black,29,Female,Less than High School,Unemployed,14639.00234597564,0,6.583201276587445,0,1
+Claiborne County,Black,69,Male,Some College,Employed,14541.935755057308,1,6.304053822310729,0,0
+Claiborne County,Black,30,Male,High School,Unemployed,119470.59477748782,1,4.876259585530916,1,0
+Claiborne County,Black,49,Male,Less than High School,Unemployed,14763.671968252069,2,8.250301290057605,0,1
+Claiborne County,Black,41,Male,Less than High School,Unemployed,34195.86692245774,2,6.332576299112925,0,0
+Claiborne County,Black,18,Female,Less than High School,Unemployed,78498.13039399806,0,5.058404249735805,0,0
+Claiborne County,Black,45,Female,Less than High School,Unemployed,35201.98089187515,2,0.9848444018493953,0,0
+Claiborne County,Black,56,Male,Master's Degree,Employed,123090.96298788134,1,1.0812708770189472,1,0
+Claiborne County,Black,61,Male,High School,Employed,15120.701401490542,1,6.4556764752286115,0,0
+Claiborne County,Black,73,Male,Some College,Employed,14458.795052018542,3,6.989675146007203,1,0
+Claiborne County,Black,51,Female,Less than High School,Employed,34804.15312220771,2,2.7068121868604513,1,0
+Claiborne County,Black,69,Female,High School,Employed,35441.820124973725,1,3.974928513595301,1,0
+Claiborne County,Black,36,Male,Less than High School,Employed,14983.346747688678,4,8.201345896227307,0,1
+Claiborne County,Black,42,Female,Some College,Unemployed,14852.668200981487,0,4.618817916268072,0,1
+Claiborne County,Black,25,Male,High School,Employed,15740.772583349548,1,1.847010498710842,1,1
+Claiborne County,Black,36,Male,High School,Employed,15570.47214322339,4,7.20889442296249,0,0
+Claiborne County,Black,50,Male,Bachelor's Degree,Employed,35431.92085355804,0,3.147626927559254,1,0
+Claiborne County,Black,24,Female,Less than High School,Unemployed,35242.82076413799,2,8.133390024155455,0,1
+Claiborne County,Black,57,Male,Less than High School,Employed,35422.31167938604,6,5.462172548474542,1,1
+Claiborne County,Black,74,Female,Bachelor's Degree,Employed,33954.59237737852,1,7.7997929272379265,0,0
+Claiborne County,Black,59,Female,Less than High School,Employed,14842.706614896477,2,3.8285696690254887,0,1
+Claiborne County,Black,57,Male,Some College,Employed,14309.189299336349,0,3.2211594769136767,1,1
+Claiborne County,Black,33,Male,Bachelor's Degree,Employed,74816.5952811512,2,4.7235958385194525,1,0
+Claiborne County,Black,41,Male,Bachelor's Degree,Employed,15064.536875936494,0,8.741156063104977,0,0
+Claiborne County,Black,61,Female,High School,Unemployed,34047.12407636124,1,0.9024308949379632,1,0
+Claiborne County,White,19,Male,High School,Employed,36624.1009650793,1,4.375903061366111,1,0
+Claiborne County,White,70,Male,Some College,Employed,36433.091138280346,3,3.634527929560461,0,0
+Claiborne County,Black,29,Male,Master's Degree,Employed,76666.07426591929,2,7.5476003591773,0,0
+Claiborne County,Black,28,Female,Some College,Employed,75250.39971574022,2,3.01662066545178,1,0
+Claiborne County,White,48,Female,High School,Employed,15554.953739471528,3,7.690150714567021,0,0
+Claiborne County,Black,73,Female,Some College,Employed,14445.978515735194,1,6.4033151906295585,0,0
+Claiborne County,Black,65,Female,Bachelor's Degree,Employed,128631.37242843607,1,4.043083427521057,1,0
+Claiborne County,Black,66,Female,Bachelor's Degree,Employed,72186.15610475135,0,3.28158152137146,1,0
+Claiborne County,Black,23,Male,Less than High School,Employed,15441.315993824108,1,3.0138587065020896,1,0
+Claiborne County,Black,65,Male,Less than High School,Employed,14663.651352377035,5,6.155278365762316,0,0
+Claiborne County,Black,71,Female,Some College,Employed,15565.635871527284,3,7.274048164578464,0,1
+Claiborne County,Black,19,Female,Bachelor's Degree,Employed,130550.52617281748,2,6.936357490674883,0,0
+Claiborne County,Black,28,Female,Master's Degree,Employed,33770.785892917906,0,6.153069696100877,0,1
+Claiborne County,Black,70,Male,Some College,Employed,14944.01340759809,1,9.151765761461581,0,0
+Claiborne County,Black,72,Male,Bachelor's Degree,Employed,78607.40533622014,0,4.320926408392792,1,0
+Claiborne County,Black,43,Male,Less than High School,Unemployed,124792.59294966432,1,4.545446380341458,0,0
+Claiborne County,Black,29,Male,PhD,Employed,77726.60641885908,0,5.737155827510676,0,0
+Claiborne County,Black,67,Female,Less than High School,Unemployed,75665.4864159849,5,9.810740671337804,0,1
+Claiborne County,Black,45,Male,Some College,Employed,34563.6546777186,2,5.390263783890916,0,0
+Claiborne County,White,56,Female,Some College,Unemployed,14678.675333288806,3,6.937919453899998,0,1
+Claiborne County,Black,37,Male,Less than High School,Unemployed,33961.28081880131,3,5.120132597801536,0,0
+Claiborne County,White,43,Female,High School,Employed,35916.293669821935,2,6.688333656173587,0,0
+Claiborne County,Black,43,Male,Less than High School,Employed,34602.8917738806,1,6.563369623613266,0,0
+Claiborne County,Black,19,Male,High School,Employed,35039.46411770263,1,2.9782190429639894,1,0
+Claiborne County,Black,74,Male,Bachelor's Degree,Employed,74942.44110000886,1,5.824022673631263,0,0
+Claiborne County,Black,60,Female,Master's Degree,Employed,125965.98786541414,0,5.083656111850871,0,0
+Claiborne County,Black,41,Male,High School,Unemployed,15548.365718436828,1,6.408828491750979,0,1
+Claiborne County,Black,66,Female,Some College,Unemployed,15721.109015375145,0,7.664152730732633,0,0
+Claiborne County,Black,35,Female,Some College,Unemployed,34676.544730008354,1,6.583452893375523,1,0
+Claiborne County,Black,21,Female,Some College,Employed,36146.31622737206,0,4.1585293712157965,1,0
+Claiborne County,Black,53,Female,Bachelor's Degree,Employed,128306.59743318395,4,4.028877093075296,1,1
+Claiborne County,Black,53,Female,Bachelor's Degree,Employed,75551.4671359168,2,3.847622093029062,1,1
+Claiborne County,Black,43,Male,Some College,Employed,15684.0707154179,1,3.188277011824169,1,1
+Claiborne County,Black,29,Male,High School,Employed,72753.55886646302,1,4.147784938043103,1,0
+Claiborne County,Black,26,Male,High School,Employed,14413.89631546443,2,7.460187102951826,0,1
+Claiborne County,Black,43,Female,Some College,Employed,15530.942950433131,2,8.657483495190148,0,0
+Claiborne County,Black,73,Male,Bachelor's Degree,Employed,124239.37270792185,3,6.3870446915078025,0,0
+Claiborne County,Black,44,Female,Some College,Employed,36214.39098972471,1,9.809639843925464,0,1
+Claiborne County,Black,72,Female,Bachelor's Degree,Employed,36375.81571818395,0,6.270863410066032,0,0
+Claiborne County,Black,56,Male,High School,Employed,14343.686390428607,4,7.158781274310106,0,1
+Claiborne County,White,68,Male,High School,Employed,15575.19714447909,2,0.9836486072581239,1,0
+Claiborne County,Black,62,Male,Bachelor's Degree,Employed,34819.116693792974,1,9.778911270037224,1,0
+Claiborne County,Black,34,Male,Bachelor's Degree,Employed,35036.51371151481,3,7.512489445300572,0,0
+Claiborne County,Black,66,Male,High School,Unemployed,35443.07378882624,3,3.636174936084952,1,0
+Claiborne County,Black,60,Female,High School,Employed,36492.339123555306,1,5.431640369396703,0,1
+Claiborne County,Black,29,Female,High School,Unemployed,71393.37070822323,2,4.87646336687805,0,0
+Claiborne County,Black,64,Female,High School,Unemployed,14965.265202476725,2,4.2484426646254665,0,1
+Claiborne County,Black,63,Male,Some College,Employed,15281.583063645841,3,8.77964180690391,0,1
+Claiborne County,Black,68,Female,Bachelor's Degree,Employed,127783.83697122787,0,1.8601667564414113,0,0
+Claiborne County,Black,45,Male,Less than High School,Employed,15288.79864730566,1,4.075304572281708,1,1
+Claiborne County,White,18,Male,High School,Employed,14451.652694112181,3,5.857069027957226,0,1
+Claiborne County,Black,63,Female,Some College,Unemployed,122492.44485464602,1,4.375931518251683,1,0
+Claiborne County,Black,55,Female,Some College,Employed,14788.07328812552,1,6.4105427077628505,0,1
+Claiborne County,Black,29,Female,High School,Unemployed,36065.53022687826,1,4.270662963768911,1,0
+Claiborne County,Black,41,Male,Less than High School,Unemployed,73340.69904310915,3,5.962431791753964,0,0
+Claiborne County,Black,31,Female,Some College,Unemployed,33987.46737353521,4,4.914819502337665,0,0
+Claiborne County,Black,31,Female,Bachelor's Degree,Employed,36601.068066633336,3,8.59213272947527,0,0
+Claiborne County,White,54,Male,Less than High School,Unemployed,33281.02149789714,3,2.733825297990556,1,1
+Claiborne County,Black,38,Male,Some College,Employed,36742.37299488692,2,8.583555802008085,0,1
+Claiborne County,Black,40,Male,High School,Employed,35618.87454600088,5,5.312901009130078,0,0
+Claiborne County,Black,53,Female,Less than High School,Employed,15492.703949173676,4,9.899491811915036,0,1
+Claiborne County,Black,19,Female,Some College,Unemployed,73459.64547259644,0,8.794618939318248,0,1
+Claiborne County,Black,70,Female,Master's Degree,Employed,118928.94097083824,2,7.077604387843679,0,0
+Claiborne County,Black,28,Female,High School,Employed,15356.804277842293,0,6.322784898216613,0,0
+Claiborne County,Black,23,Male,Less than High School,Unemployed,36169.50608950236,1,3.266859437929457,1,0
+Claiborne County,Black,42,Female,Some College,Employed,15360.714197930276,4,6.419576868812895,0,1
+Claiborne County,Black,22,Female,High School,Unemployed,33749.97600555293,2,4.7473481017431975,0,0
+Claiborne County,Black,39,Male,High School,Employed,76900.70941692726,3,5.940652962372113,0,0
+Claiborne County,Black,57,Male,Some College,Employed,77016.9208658073,2,7.4066550642423925,0,1
+Claiborne County,Black,48,Female,High School,Unemployed,35554.89180484519,5,4.363240821806978,1,0
+Claiborne County,Black,47,Male,High School,Unemployed,76995.8694959669,3,6.1274095613410555,0,0
+Claiborne County,Black,34,Female,Some College,Employed,15518.882159516597,1,5.674371366604156,0,1
+Claiborne County,Black,52,Female,Less than High School,Unemployed,15170.406171356186,3,8.27472109504937,0,1
+Claiborne County,White,35,Female,High School,Employed,14382.907070954518,2,3.0708769442747372,0,0
+Claiborne County,Black,44,Female,Less than High School,Unemployed,124845.34762084013,2,3.8865301744262726,1,0
+Claiborne County,Black,50,Female,High School,Unemployed,14366.474002007408,1,4.613557592199629,0,1
+Claiborne County,Black,44,Female,Master's Degree,Employed,74306.57273274323,2,7.24020247382992,0,0
+Claiborne County,Black,60,Male,Master's Degree,Employed,34674.87271193969,1,7.02843078126531,0,0
+Claiborne County,Black,55,Male,High School,Employed,33481.034454490844,2,5.27231839173564,0,0
+Claiborne County,Black,35,Female,Less than High School,Employed,14773.23080095422,1,9.03629430200159,1,1
+Claiborne County,Black,69,Female,Less than High School,Employed,72082.48574093486,0,7.493054100445956,0,0
+Claiborne County,Black,63,Female,Less than High School,Unemployed,36078.82323503228,3,7.07266957428428,0,0
+Claiborne County,Black,71,Male,Some College,Unemployed,15671.532038946705,0,5.060937971535386,1,0
+Claiborne County,Black,68,Female,Bachelor's Degree,Employed,71792.37356443454,3,8.602645764253353,0,1
+Claiborne County,Black,68,Male,Some College,Employed,15682.67281093755,4,7.845572585939836,0,1
+Claiborne County,Black,24,Female,High School,Unemployed,35079.01809767861,1,5.560818274140769,0,0
+Claiborne County,Black,56,Female,High School,Employed,14699.34851693081,2,4.528782676313339,0,0
+Claiborne County,Black,61,Male,PhD,Employed,119710.77594095204,0,6.306164706808342,0,0
+Claiborne County,Black,61,Female,Some College,Unemployed,15000.936402105626,2,8.192495282165543,1,1
+Claiborne County,Black,45,Female,High School,Employed,15441.773316736122,5,4.163263814479379,1,0
+Claiborne County,Black,72,Female,Less than High School,Employed,15310.629715900048,4,4.712964161508911,0,1
+Claiborne County,Black,27,Female,High School,Employed,14325.33901719596,1,3.7090971804694157,1,1
+Claiborne County,Black,70,Female,Less than High School,Employed,14359.352753051855,2,3.611635732534306,1,0
+Claiborne County,Black,50,Female,Less than High School,Employed,34660.05648921423,1,2.910352535283958,1,0
+Claiborne County,White,27,Male,Master's Degree,Employed,34283.5167291678,2,1.0179835373709267,1,0
+Claiborne County,Black,53,Female,Bachelor's Degree,Employed,34063.345130696165,1,2.9353464270598395,1,0
+Claiborne County,White,38,Male,High School,Employed,34233.5157461805,1,5.924969906428474,1,0
+Claiborne County,Black,69,Female,Some College,Unemployed,77276.12057472662,1,2.1616634777974992,1,0
+Claiborne County,Black,42,Male,High School,Employed,36502.29818771149,2,3.87860437361864,1,0
+Claiborne County,Black,71,Female,Bachelor's Degree,Employed,34667.85943084648,2,6.016787386991774,0,0
+Claiborne County,Black,51,Male,High School,Employed,36421.38850746374,2,4.226922410192914,1,0
+Claiborne County,White,62,Female,High School,Unemployed,73661.21775935912,2,3.9172342258570163,1,0
+Claiborne County,Black,60,Male,High School,Employed,14964.655479515686,2,8.195338720364598,1,1
+Claiborne County,Black,47,Male,Some College,Employed,14589.043496724,1,4.289890966997397,1,1
+Claiborne County,Black,41,Female,Less than High School,Employed,15210.714063263766,3,5.449520623657643,0,1
+Claiborne County,Other,52,Female,High School,Employed,78592.35836381106,1,0.9294146961858076,1,0
+Claiborne County,White,74,Female,High School,Employed,15155.239644065068,2,2.1706350500645977,1,1
+Claiborne County,Black,53,Female,Bachelor's Degree,Employed,34502.34929439742,2,6.988962810311353,0,0
+Claiborne County,Black,18,Female,Some College,Employed,35517.36106096685,1,8.564839898938125,0,1
+Claiborne County,Black,45,Male,Some College,Employed,33680.22237462886,1,3.9673086049906092,1,0
+Claiborne County,Black,50,Female,High School,Employed,36360.3067809289,2,9.864058635513858,0,0
+Claiborne County,Black,29,Male,High School,Employed,15004.625926169754,0,7.988188950388592,0,0
+Claiborne County,Black,55,Female,Master's Degree,Employed,74620.12306529732,3,5.79450193234501,0,0
+Claiborne County,White,75,Female,High School,Unemployed,75643.98591340138,1,3.080040512590035,0,0
+Claiborne County,Black,61,Female,PhD,Employed,75935.87897092052,3,2.844087371266916,1,0
+Claiborne County,Black,26,Female,Bachelor's Degree,Employed,33501.21532179279,0,4.575863328108664,0,0
+Claiborne County,Black,47,Female,Bachelor's Degree,Employed,76369.62915917551,1,2.7773278331463898,1,0
+Claiborne County,Black,35,Female,High School,Unemployed,14612.897520473292,3,7.404873342332436,0,1
+Claiborne County,Black,61,Male,Less than High School,Employed,35748.83421377306,4,7.443044309619671,0,0
+Claiborne County,Black,51,Male,Less than High School,Employed,77419.01095788147,1,1.855530869059764,1,1
+Claiborne County,Black,41,Female,Bachelor's Degree,Employed,77279.6888066439,4,7.1972246427245,1,1
+Claiborne County,Black,44,Male,High School,Employed,15078.751451111833,4,4.681880084399145,0,1
+Claiborne County,Black,33,Female,High School,Employed,75151.27419233063,1,4.845667283323864,0,0
+Claiborne County,Black,62,Male,Bachelor's Degree,Employed,14464.313942009117,1,9.714219137830822,0,0
+Claiborne County,Black,50,Male,Master's Degree,Employed,15413.019225604703,0,7.9583386244205965,0,0
+Claiborne County,Black,20,Female,Some College,Employed,34199.9328315635,2,8.268092381633643,0,1
+Claiborne County,Black,48,Male,Less than High School,Employed,34988.43397986281,1,6.541247819682282,0,0
+Claiborne County,Black,75,Male,PhD,Employed,73382.05569695638,1,8.446120233855607,0,0
+Claiborne County,Black,35,Female,High School,Employed,14450.742544499539,2,3.6326948930131833,0,0
+Claiborne County,Black,62,Male,High School,Employed,35453.45193912108,1,1.867574025228866,1,0
+Claiborne County,Black,25,Female,High School,Employed,14331.498052234356,1,6.690026474644743,0,1
+Claiborne County,Black,49,Female,High School,Employed,35870.258319441695,2,8.418618871698143,0,1
+Claiborne County,White,46,Female,Some College,Employed,73631.90096445837,0,3.6709620270056447,1,0
+Claiborne County,Black,53,Female,Less than High School,Unemployed,71251.01019753364,3,2.7723815226603605,1,0
+Claiborne County,Black,23,Male,Some College,Employed,35038.9519873303,1,3.9686230144261807,1,0
+Claiborne County,Black,67,Female,Less than High School,Employed,33413.98167984661,3,4.7063337184057925,0,0
+Claiborne County,Black,32,Male,High School,Employed,122202.11947276125,2,6.809977805467306,0,0
+Claiborne County,Black,32,Male,Some College,Employed,15310.464731183574,1,8.005467633367772,0,1
+Claiborne County,Black,33,Female,Bachelor's Degree,Employed,33469.41367567653,4,7.266552760081112,0,1
+Claiborne County,Black,65,Female,Some College,Employed,36187.68472324601,0,4.539312139841099,1,0
+Claiborne County,Black,22,Female,High School,Employed,33263.36972930504,2,9.538938718036276,0,1
+Claiborne County,Black,25,Male,High School,Employed,34113.883542206655,1,6.153480467389089,0,0
+Claiborne County,Black,48,Male,High School,Unemployed,15361.356084228108,2,7.330814451118195,0,1
+Claiborne County,Black,43,Male,Some College,Employed,14724.405224593958,3,6.448294348928133,0,1
+Claiborne County,Black,67,Female,Some College,Employed,14402.83858209902,1,5.420872400531813,0,1
+Claiborne County,Black,70,Male,Some College,Employed,34510.8187158015,3,4.561077959854864,1,0
+Claiborne County,Black,68,Female,Less than High School,Employed,34196.37650234584,3,4.776877648147203,0,0
+Claiborne County,Black,54,Male,Less than High School,Employed,36199.49165756194,3,6.367441535751674,0,0
+Claiborne County,White,48,Male,Less than High School,Employed,122666.84896981428,2,4.198607752306927,1,0
+Claiborne County,Black,68,Male,Some College,Employed,36011.263651216024,2,7.495233630970204,0,0
+Claiborne County,Black,57,Female,Bachelor's Degree,Employed,77939.04108608051,3,6.593089052671395,0,0
+Claiborne County,Black,60,Male,Some College,Employed,14900.726129364793,1,4.870472102791382,0,0
+Claiborne County,Other,73,Female,Bachelor's Degree,Employed,78074.57357890795,3,3.9876183881528173,0,0
+Claiborne County,Black,65,Female,High School,Unemployed,34570.613188871175,1,1.0236509543060592,1,0
+Claiborne County,Black,59,Male,Bachelor's Degree,Employed,130800.98020612635,4,6.816479095397681,0,1
+Claiborne County,Black,58,Male,Less than High School,Unemployed,71919.6714339418,2,5.955041659359777,0,0
+Claiborne County,Black,72,Female,High School,Unemployed,35654.56743276135,1,4.197976750507006,1,0
+Claiborne County,Black,25,Male,High School,Employed,14990.721060685393,1,4.536683202890598,0,0
+Claiborne County,Black,60,Female,Some College,Employed,14831.47320818347,1,5.702924333212825,0,0
+Claiborne County,Black,26,Female,Less than High School,Unemployed,35464.49157562011,0,3.1280097515307315,1,0
+Claiborne County,Black,41,Male,Less than High School,Employed,15305.785637451494,3,8.63233094029952,0,1
+Claiborne County,Black,57,Female,PhD,Employed,71282.72452237732,2,7.0163484189619325,0,0
+Claiborne County,Black,56,Female,Less than High School,Unemployed,72502.148165604,4,4.025690788212253,1,1
+Claiborne County,Black,38,Female,Some College,Employed,15319.569075951476,1,5.528606413607731,1,0
+Claiborne County,Black,33,Female,Less than High School,Unemployed,127079.81766972756,1,5.936894840188145,0,0
+Claiborne County,Black,40,Female,Bachelor's Degree,Employed,78495.35628846507,3,10.065234532910045,0,1
+Claiborne County,White,52,Female,High School,Unemployed,15391.556685376174,2,8.536446906542514,0,0
+Claiborne County,Black,48,Female,High School,Employed,15676.159061597005,4,5.723091877139257,1,1
+Claiborne County,Black,49,Female,Some College,Unemployed,15303.81075230221,2,6.828197828346472,1,1
+Claiborne County,Black,35,Female,Bachelor's Degree,Employed,73485.39156479582,2,6.328099676888817,0,0
+Claiborne County,Black,49,Male,Bachelor's Degree,Employed,120067.0615281357,5,4.822079165583179,0,0
+Claiborne County,Black,56,Female,Less than High School,Employed,128522.79829181168,1,5.653737608395854,0,0
+Claiborne County,Black,40,Female,Less than High School,Employed,35504.522275165706,3,3.8619978817423317,1,0
+Claiborne County,Black,25,Male,High School,Employed,71611.39509294972,0,5.543714558183101,0,0
+Claiborne County,Black,39,Female,Less than High School,Unemployed,73950.37849425734,1,9.702949105331811,0,1
+Claiborne County,Black,46,Male,Less than High School,Employed,15685.199723226428,1,10.187184907108097,0,0
+Claiborne County,Black,67,Female,Bachelor's Degree,Employed,125005.0143213775,1,6.214922782973387,0,0
+Claiborne County,Black,48,Male,Bachelor's Degree,Employed,74495.46852014778,6,10.578342477214678,0,1
+Claiborne County,Black,45,Female,High School,Employed,14936.549407738941,2,4.998442198929057,0,0
+Claiborne County,Black,26,Male,High School,Employed,14563.324086007746,1,4.586920288087423,0,0
+Claiborne County,Black,23,Male,Some College,Employed,34540.47509802678,0,6.0445278501822575,0,0
+Claiborne County,Black,64,Male,Some College,Unemployed,74023.59941990383,1,7.121577565229231,0,0
+Claiborne County,Black,68,Female,Less than High School,Unemployed,71642.66265140603,4,5.24543947418433,0,1
+Claiborne County,Black,45,Female,High School,Unemployed,77006.75721388438,3,6.904323364721551,0,0
+Claiborne County,Black,45,Female,High School,Employed,34707.76551166357,2,7.404128484472902,1,1
+Claiborne County,Black,65,Male,High School,Unemployed,36127.62960385748,2,4.783775905798724,0,0
+Claiborne County,Black,64,Male,Bachelor's Degree,Employed,36226.21800391963,1,6.808315214958089,0,0
+Claiborne County,Black,60,Male,High School,Unemployed,72839.95541023993,2,5.145917241331601,0,0
+Claiborne County,Black,42,Female,Some College,Employed,15236.030223255193,2,8.11324528747026,0,0
+Claiborne County,White,37,Female,Some College,Unemployed,14958.422706244472,2,6.7985354162569855,0,1
+Claiborne County,Black,66,Female,Less than High School,Employed,15570.235106882226,2,6.583818298551576,0,0
+Claiborne County,Black,19,Female,Master's Degree,Employed,72868.0550938234,1,9.190394674842398,1,0
+Claiborne County,Black,71,Female,Less than High School,Unemployed,15266.719800465065,2,7.579562866777591,0,1
+Claiborne County,Black,47,Male,Less than High School,Unemployed,35377.13242788453,4,2.7610694835722422,0,1
+Claiborne County,Black,73,Male,High School,Unemployed,14692.95221635775,1,3.7222873113474657,0,0
+Claiborne County,Black,40,Female,Some College,Employed,14454.901355476759,1,5.69514927406141,0,0
+Claiborne County,Black,56,Male,Less than High School,Unemployed,35530.73916167046,3,4.660681373259556,1,0
+Claiborne County,Black,28,Male,High School,Employed,15357.896187198496,2,2.8119402144307832,1,1
+Claiborne County,Black,53,Female,Some College,Unemployed,73617.20507822512,2,3.8280761349550776,1,0
+Claiborne County,Black,22,Male,Master's Degree,Employed,35506.9141140781,1,7.4773977524716075,0,1
+Claiborne County,Black,55,Female,High School,Unemployed,14842.696361417253,1,10.79353084925285,1,1
+Claiborne County,Black,57,Male,Less than High School,Unemployed,15319.810324923927,2,4.580233745661642,1,1
+Claiborne County,Other,57,Female,High School,Unemployed,14548.82291234108,0,6.029413667484305,1,0
+Claiborne County,Black,43,Male,Bachelor's Degree,Employed,36365.75250922661,2,5.892476192387594,0,0
+Claiborne County,White,74,Female,Some College,Unemployed,34255.93358762953,0,2.1929514467634426,1,0
+Claiborne County,Black,22,Male,Less than High School,Employed,34537.250957146534,1,5.534446682601663,0,0
+Claiborne County,Black,37,Female,Less than High School,Employed,71685.68964060262,0,6.8569978386640384,0,0
+Claiborne County,Black,29,Male,Some College,Employed,33640.29274312447,1,8.751152693240591,0,0
+Claiborne County,Black,52,Female,High School,Unemployed,15023.792854068493,3,9.657912826609165,0,1
+Claiborne County,Black,75,Female,Bachelor's Degree,Employed,34186.574368547896,3,5.31707207094928,0,0
+Claiborne County,Black,21,Female,PhD,Employed,77516.10169306646,0,7.6126445232719036,1,0
+Claiborne County,Black,60,Male,Less than High School,Employed,14272.04008298243,1,5.605065104868078,0,1
+Claiborne County,Black,35,Female,Some College,Unemployed,34576.829170351775,0,6.202371863909318,0,0
+Claiborne County,Black,42,Male,High School,Employed,14756.018320153638,0,5.429375989127586,0,0
+Claiborne County,Black,20,Male,High School,Employed,33317.6467082116,0,3.034057735808358,0,0
+Claiborne County,Black,18,Male,Some College,Unemployed,14436.552598500766,2,10.1432253789398,1,0
+Claiborne County,Black,36,Male,Less than High School,Unemployed,14870.464012377952,3,5.735974912392341,0,1
+Claiborne County,Black,67,Female,Less than High School,Employed,34975.02604556606,1,5.269492933191938,0,0
+Claiborne County,Black,21,Male,High School,Employed,14856.434620882303,3,5.624452498269028,0,0
+Claiborne County,Black,25,Male,Master's Degree,Employed,75232.0325880907,3,7.71788677824679,0,0
+Claiborne County,Black,29,Male,Bachelor's Degree,Employed,35332.960862169886,1,4.9254364386164164,0,0
+Claiborne County,Black,42,Male,Some College,Employed,71324.42865845875,2,5.007610378684455,0,0
+Claiborne County,Black,25,Female,Master's Degree,Employed,74730.71369590127,2,7.587855571864129,0,0
+Claiborne County,Black,38,Female,High School,Unemployed,36622.24734310656,3,3.691869459791363,1,0
+Claiborne County,White,53,Female,High School,Employed,35066.612980453414,2,1.0221240084883265,1,0
+Claiborne County,Black,53,Male,High School,Employed,35621.39793610633,4,3.8309044425922045,1,0
+Claiborne County,Black,67,Male,Less than High School,Employed,14717.795786875324,5,4.06499057713809,1,1
+Claiborne County,Black,22,Female,Master's Degree,Employed,77054.93533614572,0,5.5852352583290426,1,1
+Claiborne County,Black,45,Male,Master's Degree,Employed,35955.2251865664,3,3.984912081483854,1,0
+Claiborne County,Black,74,Male,High School,Unemployed,35074.53616678948,1,6.039107319061904,1,0
+Claiborne County,Black,40,Female,High School,Unemployed,78570.1036745941,2,5.462188244186912,0,0
+Claiborne County,Black,69,Male,Less than High School,Employed,33689.42575166928,4,8.705887700749058,0,1
+Claiborne County,Black,75,Female,High School,Employed,33309.31682711353,4,7.415063483102359,0,1
+Claiborne County,Black,62,Female,Some College,Employed,35945.55374114984,2,5.476049964567322,0,1
+Claiborne County,Black,74,Male,Less than High School,Employed,77303.66653023662,1,9.881928418301902,0,0
+Claiborne County,Black,47,Female,Less than High School,Unemployed,14430.310843680863,2,7.715766151959557,0,1
+Claiborne County,Black,66,Female,High School,Employed,73241.87124718954,0,7.433824224196489,0,0
+Claiborne County,Black,61,Male,Less than High School,Unemployed,118969.40454208285,2,6.656496916669269,0,0
+Claiborne County,Black,47,Female,Bachelor's Degree,Employed,73449.81458085423,1,3.1089016333343578,1,1
+Claiborne County,Black,40,Female,High School,Employed,77048.56405439004,1,4.208182287911749,1,0
+Claiborne County,Black,69,Male,High School,Employed,15026.94079156887,1,3.0573832443647064,1,0
+Claiborne County,White,57,Female,Less than High School,Employed,34468.33457608901,3,2.9829457131300954,1,0
+Claiborne County,Black,51,Female,Some College,Unemployed,74038.04471179747,2,8.841313645465084,0,1
+Claiborne County,Black,23,Male,High School,Unemployed,14252.030438573202,3,5.818641919851594,0,0
+Claiborne County,Black,24,Female,Master's Degree,Employed,73498.50395673927,0,5.429529144247827,1,0
+Claiborne County,Black,48,Female,High School,Employed,35512.605595732755,1,5.330619407787729,0,0
+Claiborne County,Black,75,Male,PhD,Employed,36659.68055335725,2,6.558032292799815,0,0
+Claiborne County,Black,42,Male,Bachelor's Degree,Employed,129338.26033729872,1,4.624297223485545,1,0
+Claiborne County,Black,39,Male,Less than High School,Employed,14285.392446968293,1,5.230867475203644,0,1
+Claiborne County,White,23,Female,Bachelor's Degree,Employed,129982.00755843548,0,3.263004274092623,1,0
+Claiborne County,Black,36,Female,Less than High School,Employed,15424.79761994794,4,7.489972905865057,0,0
+Claiborne County,Black,68,Female,Master's Degree,Employed,77102.82092678235,6,9.132992534733555,0,0
+Claiborne County,Black,34,Male,Some College,Employed,14936.993638505355,2,7.337568909006082,0,1
+Claiborne County,Black,68,Male,Less than High School,Employed,14847.007939431754,2,6.089367735815894,0,1
+Claiborne County,Black,27,Male,High School,Unemployed,34310.20505091617,1,7.4785602874615815,0,1
+Claiborne County,Black,53,Female,Less than High School,Employed,71742.71144215774,1,7.423635802602063,0,1
+Claiborne County,White,31,Male,Less than High School,Unemployed,34048.823772227945,4,8.472427698975824,1,1
+Claiborne County,Black,64,Male,Bachelor's Degree,Employed,121832.5454372253,2,4.701627320047745,0,0
+Claiborne County,Black,74,Male,Less than High School,Unemployed,14976.115604565302,1,2.798193565719423,1,0
+Claiborne County,Black,62,Female,Some College,Employed,15371.166609895039,1,3.7314126383447945,1,0
+Claiborne County,White,38,Male,Some College,Unemployed,14960.71474259692,1,1.0629149440462764,1,1
+Claiborne County,White,25,Female,PhD,Employed,14336.76667417074,1,2.06607888827848,1,1
+Claiborne County,Black,35,Female,Some College,Unemployed,36602.264303458716,4,9.041517764584416,0,1
+Claiborne County,Black,59,Male,Master's Degree,Employed,78320.43239320585,3,8.745894871422305,0,1
+Claiborne County,Black,57,Male,Some College,Employed,15427.78431472261,1,7.528080757138352,1,1
+Claiborne County,Black,23,Male,Some College,Employed,36719.64765547477,2,6.84942315039169,0,0
+Claiborne County,Black,59,Female,Less than High School,Employed,15066.723499200392,0,5.316599439471577,0,0
+Claiborne County,Black,51,Female,High School,Employed,78470.76262689904,1,3.951307926856175,1,0
+Claiborne County,Black,24,Male,Some College,Employed,14363.407560925125,0,3.901555543539926,1,1
+Claiborne County,Black,52,Male,High School,Unemployed,34529.882618914795,0,3.970143828535685,1,1
+Claiborne County,Black,18,Male,High School,Employed,34038.83443802368,2,1.9205511496656569,1,0
+Claiborne County,Black,29,Female,Master's Degree,Employed,33935.41579446995,1,7.346653132246752,0,0
+Claiborne County,Black,51,Male,Some College,Unemployed,72306.02211669507,4,5.002720390092479,0,1
+Claiborne County,Black,30,Female,High School,Employed,126530.17051957497,0,5.678655234176181,0,0
+Claiborne County,Black,71,Male,High School,Employed,35984.62649511557,2,10.799149146549137,0,1
+Claiborne County,Black,55,Female,Less than High School,Employed,35274.04439797126,0,7.814225954197139,0,0
+Claiborne County,Black,27,Male,Bachelor's Degree,Employed,72352.22032191158,0,8.069684577782382,0,0
+Claiborne County,Black,48,Male,Some College,Unemployed,15466.685654900206,3,3.2438832665787283,1,0
+Claiborne County,Black,18,Female,High School,Employed,76019.66030372796,5,7.173933194279588,0,0
+Claiborne County,Black,65,Male,Some College,Employed,123602.07132658744,1,3.6935184325666914,1,0
+Claiborne County,Black,54,Female,Bachelor's Degree,Employed,76305.97721652048,3,10.87966424722695,0,0
+Claiborne County,Black,72,Female,High School,Unemployed,121998.81224053541,1,6.153249663685702,0,0
+Claiborne County,Black,61,Female,High School,Employed,34458.17272972973,0,5.801886737588504,0,0
+Claiborne County,Black,69,Female,High School,Employed,15626.228764697986,1,6.494980901728742,1,1
+Claiborne County,Black,72,Female,High School,Unemployed,14685.75675850713,1,6.352830227124356,0,1
+Claiborne County,Black,45,Female,Some College,Employed,34894.95893855278,2,8.192116409485621,1,1
+Claiborne County,White,68,Male,Some College,Unemployed,15585.211706094022,4,6.040153310371585,1,1
+Claiborne County,Black,19,Female,Some College,Employed,35727.024725936346,2,7.5514496162713405,0,0
+Claiborne County,Black,48,Female,Some College,Employed,33467.71129157646,4,6.346316653469437,0,1
+Claiborne County,Black,28,Male,Some College,Unemployed,33765.56065497639,0,6.512344831625851,0,0
+Claiborne County,Black,36,Female,High School,Unemployed,33277.4455677017,4,5.774066481354659,0,1
+Claiborne County,Black,65,Male,High School,Employed,35458.22626580207,1,4.748489139814466,0,0
+Claiborne County,Black,43,Female,Bachelor's Degree,Employed,34816.856988936466,5,7.341524809601747,0,1
+Claiborne County,Black,48,Male,Bachelor's Degree,Employed,72257.06138176705,3,7.2536518955772475,0,1
+Claiborne County,Black,57,Female,Some College,Employed,15686.901181585154,2,8.111823495794107,0,1
+Claiborne County,Black,72,Male,Less than High School,Employed,75222.44792959213,2,6.314950422888829,0,0
+Claiborne County,Black,41,Female,High School,Unemployed,14612.839941169334,3,7.52747189146645,0,1
+Claiborne County,Black,29,Female,Less than High School,Employed,15000.90535673206,0,4.842081748715907,0,0
+Claiborne County,Black,34,Female,Bachelor's Degree,Employed,127245.25415918883,2,6.385508765606416,0,0
+Claiborne County,Black,58,Female,High School,Employed,33516.83726290747,1,5.5327580843462485,0,0
+Claiborne County,Black,61,Male,Master's Degree,Employed,34211.46335266762,1,2.1385809166938072,1,1
+Claiborne County,Black,53,Male,Some College,Employed,36074.37921809397,1,9.254977324663965,1,0
+Claiborne County,Black,45,Male,Bachelor's Degree,Employed,74697.48652801994,3,7.835659664896588,1,1
+Claiborne County,Black,51,Female,Bachelor's Degree,Employed,75349.3285652422,0,10.594590731559109,0,1
+Claiborne County,Black,67,Male,Some College,Employed,34764.85600773314,3,4.649917427348774,0,1
+Claiborne County,White,75,Female,Some College,Unemployed,14315.849913964508,2,4.729251395232642,1,0
+Claiborne County,White,70,Female,High School,Employed,14498.624669730232,3,5.222252568393067,1,0
+Claiborne County,Black,31,Male,Some College,Unemployed,14918.312458112836,3,7.308051151164504,0,0
+Claiborne County,Black,40,Male,Bachelor's Degree,Employed,72818.89099055946,2,8.225836212616477,0,1
+Claiborne County,Black,18,Female,Some College,Employed,119374.73785824598,0,5.1939484444671,0,0
+Claiborne County,White,53,Female,Some College,Employed,15515.474496077735,2,2.0170897773390384,0,0
+Claiborne County,Black,64,Male,Some College,Employed,15721.788793746175,2,1.9007196235627812,1,1
+Claiborne County,Black,38,Female,High School,Employed,36026.00005898859,2,3.8765567948031356,1,0
+Claiborne County,Black,61,Female,Some College,Employed,36238.247225966334,2,2.8089586300808556,1,0
+Claiborne County,Black,19,Male,High School,Employed,14612.965695475568,0,6.490140673600354,1,0
+Claiborne County,Black,65,Female,High School,Employed,36612.194414296195,5,8.133426871625794,0,1
+Claiborne County,Black,40,Female,PhD,Employed,14545.388556680142,5,8.821532550174553,0,1
+Claiborne County,Black,63,Female,Less than High School,Employed,15677.144715542749,2,9.924011607288266,0,0
+Claiborne County,Black,46,Female,Some College,Unemployed,15742.228940948928,2,7.6261966754565425,0,0
+Claiborne County,Black,61,Male,Some College,Employed,35741.02982011117,1,4.653351403116081,0,0
+Claiborne County,Black,67,Female,High School,Employed,15721.715597687733,2,6.103475798420157,0,0
+Claiborne County,Black,69,Male,High School,Unemployed,35243.38922848486,2,2.0023554715537863,1,0
+Claiborne County,Black,40,Female,High School,Employed,34158.396241116316,5,5.111454235434648,0,1
+Claiborne County,Black,56,Female,Less than High School,Employed,124212.44857082026,0,5.4217322205850085,0,0
+Claiborne County,Black,65,Female,Some College,Unemployed,15140.341403068178,3,6.446548690732982,0,0
+Claiborne County,Black,68,Female,High School,Employed,14359.622343040523,2,7.604965595477057,0,1
+Claiborne County,Black,24,Male,Some College,Unemployed,35428.20142616036,0,6.07815982030705,0,0
+Claiborne County,Black,72,Female,Less than High School,Unemployed,36684.12242866803,4,7.27531115342765,0,1
+Claiborne County,Black,34,Male,Less than High School,Employed,33915.37677424304,4,7.591499133648214,0,1
+Claiborne County,Black,36,Female,High School,Employed,15438.892674432574,1,3.1243431805880393,0,1
+Claiborne County,Black,70,Female,Bachelor's Degree,Employed,78059.24095334715,2,3.7220312343314093,1,1
+Claiborne County,Black,37,Male,High School,Employed,15665.55238923033,1,7.106803704233538,0,0
+Claiborne County,White,47,Male,Bachelor's Degree,Employed,78451.01703304086,0,4.085372037106285,1,1
+Claiborne County,Black,61,Female,Some College,Employed,35075.108735525144,1,5.908956805562863,0,0
+Claiborne County,Black,53,Male,Bachelor's Degree,Employed,130966.34884989378,0,4.1891553884997785,1,1
+Claiborne County,Black,48,Female,Bachelor's Degree,Employed,35900.58572497053,2,5.434367014769014,0,0
+Claiborne County,Black,34,Male,High School,Employed,14492.507154355442,0,3.2553411077440657,1,0
+Claiborne County,Black,24,Female,Bachelor's Degree,Employed,74826.75079850978,0,1.9803357485616528,1,0
+Claiborne County,Black,61,Female,Some College,Unemployed,15327.496763058007,0,6.458533264177057,0,1
+Claiborne County,Black,44,Male,High School,Employed,34115.69110536679,0,5.484841198962335,0,0
+Claiborne County,White,54,Female,Less than High School,Employed,76054.61387661666,2,9.610016555602682,0,0
+Claiborne County,Black,20,Male,Less than High School,Unemployed,35583.101676663166,1,5.549595217443921,0,0
+Claiborne County,Black,49,Female,Less than High School,Unemployed,14494.049615712847,2,7.589178635664321,0,1
+Claiborne County,Black,44,Female,Some College,Employed,35227.798593584645,0,1.0739792724124257,1,0
+Claiborne County,Black,64,Female,Bachelor's Degree,Employed,77037.20183233956,2,4.015070445700858,0,0
+Claiborne County,Black,21,Female,Some College,Employed,14998.343496803913,0,6.109530522893916,0,1
+Claiborne County,White,53,Female,High School,Unemployed,14268.15467516416,3,3.9192021630961045,1,0
+Claiborne County,Black,68,Male,Some College,Employed,71317.78851809469,2,6.376666294350844,0,0
+Claiborne County,Black,38,Female,High School,Employed,34499.60270389504,2,7.736315586633442,0,0
+Claiborne County,Black,30,Male,Less than High School,Employed,15639.291102647674,2,1.0605706897196023,1,0
+Claiborne County,White,27,Female,Some College,Employed,14593.015169405413,3,3.603705618403682,1,1
+Claiborne County,White,44,Male,Less than High School,Employed,15201.54553330753,0,5.800199006029373,1,0
+Claiborne County,Black,48,Male,High School,Employed,72915.5690301999,1,2.9389012161545662,1,0
+Claiborne County,Black,21,Male,Some College,Unemployed,34375.84496380842,0,6.044874723525508,0,0
+Claiborne County,White,43,Female,Less than High School,Unemployed,15522.063134402226,3,5.419855616412761,1,0
+Claiborne County,Black,29,Female,High School,Employed,15343.292163404918,0,5.815615193239154,0,1
+Claiborne County,Black,36,Male,Bachelor's Degree,Employed,119942.49096641512,2,3.8775625615169824,0,0
+Claiborne County,Black,42,Female,High School,Unemployed,74465.26515739824,3,9.427502246597546,0,1
+Claiborne County,Black,26,Female,High School,Unemployed,71468.77322733948,1,4.952217940889807,0,0
+Claiborne County,White,21,Male,Bachelor's Degree,Employed,124761.12683253761,0,7.559367716703972,1,1
+Claiborne County,Black,41,Female,Some College,Unemployed,15243.6510175516,2,6.933415322585771,0,0
+Claiborne County,Black,72,Female,Some College,Unemployed,33664.75918259353,2,4.6408570203798,0,0
+Claiborne County,Black,38,Male,Master's Degree,Employed,73416.63704181873,0,5.611664383807469,0,0
+Claiborne County,Black,24,Female,High School,Unemployed,34642.428189257545,1,7.997388436383168,0,0
+Claiborne County,Black,75,Female,Bachelor's Degree,Employed,78146.48268492038,4,7.870280719207277,0,0
+Claiborne County,Black,38,Male,High School,Employed,36726.392553980375,0,2.16593836042724,1,1
+Claiborne County,Black,56,Female,Less than High School,Employed,14317.366948493423,2,5.83487267893996,0,1
+Claiborne County,Black,52,Male,Master's Degree,Employed,76957.55942621543,4,7.112823690389261,1,1
+Claiborne County,White,35,Male,High School,Unemployed,34551.0342324082,2,3.079358572751718,1,0
+Claiborne County,Black,65,Male,High School,Employed,14838.687279344218,1,7.220951130541334,0,0
+Claiborne County,Black,64,Male,Master's Degree,Employed,76906.98730010267,4,5.163537372016711,0,1
+Claiborne County,Black,49,Male,Some College,Unemployed,78138.19824109056,3,1.8712143867479005,1,0
+Claiborne County,Black,24,Male,Less than High School,Employed,36578.250080758924,0,5.4610703174694555,0,0
+Claiborne County,Black,18,Male,Less than High School,Unemployed,15115.68387905748,0,5.578395273303736,1,1
+Claiborne County,Black,74,Female,Some College,Employed,34499.92405755176,0,3.931699298981619,1,0
+Claiborne County,Black,60,Male,Bachelor's Degree,Employed,36006.42180050573,2,6.419489535310102,0,1
+Claiborne County,White,66,Female,Some College,Unemployed,34128.50484141805,1,3.298124551107569,1,0
+Claiborne County,Black,46,Male,Bachelor's Degree,Employed,75480.55521625139,1,5.002195010331243,1,0
+Claiborne County,Black,41,Female,Less than High School,Unemployed,73939.33846143655,4,7.133539024248062,0,0
+Claiborne County,Black,25,Female,Less than High School,Employed,35548.20875797756,0,4.567076477388428,0,0
+Claiborne County,Black,19,Female,High School,Employed,14610.59836934026,1,6.299952564479013,0,1
+Claiborne County,Black,47,Male,Some College,Employed,14537.389418602237,2,4.709905593095586,1,1
+Claiborne County,Other,25,Male,Less than High School,Employed,15627.358630013154,2,4.318443431552571,1,0
+Claiborne County,Black,35,Female,High School,Employed,33606.31289032338,1,4.705139640482007,1,0
+Claiborne County,White,66,Female,Some College,Employed,35020.85267707225,0,4.690687720663666,1,0
+Claiborne County,Black,55,Female,Some College,Employed,14581.279174444513,0,4.536549667848095,0,0
+Claiborne County,Black,32,Male,High School,Unemployed,14308.3949449885,4,8.949720501198,0,1
+Claiborne County,White,55,Male,PhD,Employed,71520.1411371857,0,5.064841133262616,1,0
+Claiborne County,Black,56,Female,Bachelor's Degree,Employed,72564.1632907937,4,8.218275550971034,0,1
+Claiborne County,Black,54,Male,Some College,Employed,36283.696240771,4,5.27552761669501,0,0
+Claiborne County,Black,69,Male,High School,Unemployed,34238.67560391959,3,5.943946601697633,0,0
+Claiborne County,Black,49,Male,Bachelor's Degree,Employed,78378.44377931471,2,7.034146377058612,0,0
+Claiborne County,Black,28,Female,High School,Unemployed,15122.433439483792,0,3.9526101975505825,1,1
+Claiborne County,Black,48,Male,High School,Unemployed,14904.921284653148,0,5.880915673050391,1,0
+Claiborne County,Black,25,Male,High School,Unemployed,15120.133252004181,0,7.083496463831506,1,1
+Claiborne County,Black,63,Female,Less than High School,Employed,35058.44434829194,4,4.655240245930712,0,0
+Claiborne County,White,74,Male,Master's Degree,Employed,76940.82190317994,1,3.745542504396217,1,0
+Claiborne County,Black,74,Female,Some College,Employed,34238.736230904986,0,6.434142745216221,0,0
+Claiborne County,Black,68,Female,Some College,Employed,34485.67637060106,2,8.713784739413812,0,0
+Claiborne County,White,46,Male,Master's Degree,Employed,129926.17878166563,2,8.771956769303555,0,1
+Claiborne County,Black,23,Male,Some College,Employed,36562.59779602642,0,3.816595738514843,1,0
+Claiborne County,Black,37,Female,High School,Employed,36373.95379620266,1,7.2015993605346225,0,0
+Claiborne County,White,57,Male,Some College,Unemployed,14879.171990935969,4,6.872227839537335,0,1
+Claiborne County,Black,75,Female,Some College,Employed,15420.54825451032,1,6.335540897924483,0,0
+Claiborne County,Black,37,Male,High School,Unemployed,14964.503599951648,1,8.381074675259143,0,1
+Claiborne County,Black,21,Female,Bachelor's Degree,Employed,34991.38948251136,0,3.1295833373084383,1,0
+Claiborne County,Black,35,Female,Less than High School,Employed,14557.020163585925,2,1.0317847883820304,1,1
+Claiborne County,Black,36,Male,Master's Degree,Employed,75683.47727443886,1,5.43251519100418,0,0
+Claiborne County,Black,38,Female,Some College,Employed,14529.203846630022,4,2.8331832971597697,1,0
+Claiborne County,Black,66,Female,Less than High School,Employed,34410.47644673518,3,6.623504715223301,0,0
+Claiborne County,Black,75,Female,High School,Unemployed,36242.60570566977,2,4.137514194878983,0,0
+Claiborne County,Black,70,Male,Less than High School,Unemployed,14560.613713816281,1,5.423652645305237,0,0
+Claiborne County,Black,47,Female,High School,Unemployed,33499.05399810701,0,3.683286865587659,1,0
+Claiborne County,White,29,Male,High School,Unemployed,14353.511388919223,2,7.419882519522465,0,1
+Claiborne County,Black,45,Female,High School,Employed,36542.74582176088,1,7.485671459286934,0,1
+Claiborne County,Black,29,Female,Bachelor's Degree,Employed,75051.90328471376,0,8.244393772562999,0,1
+Claiborne County,Black,33,Male,Less than High School,Employed,74320.59053862763,1,4.738182781046726,0,0
+Claiborne County,Black,21,Male,Some College,Unemployed,77331.5893575594,0,8.278994506966821,0,0
+Claiborne County,White,24,Male,High School,Employed,77518.69445932886,2,4.743172190999454,0,0
+Claiborne County,Black,65,Male,Less than High School,Employed,34412.668615904615,4,7.311173704597923,0,1
+Claiborne County,Black,72,Male,High School,Employed,15290.427086210691,3,8.569114348970057,0,0
+Claiborne County,Black,34,Male,Less than High School,Employed,15406.684223777827,2,6.39626383748039,0,1
+Claiborne County,Black,58,Female,Less than High School,Employed,15231.97603029893,1,5.876620235542147,0,0
+Claiborne County,Black,49,Male,Less than High School,Employed,72386.96306100074,2,5.168085136570646,0,0
+Claiborne County,Black,64,Female,Some College,Employed,36315.5907923097,0,7.527974872665314,0,1
+Claiborne County,Black,29,Female,Master's Degree,Employed,15058.641829104012,2,5.751777276313216,0,1
+Claiborne County,Black,74,Male,Some College,Employed,34238.653492295016,1,5.39633581852112,0,0
+Claiborne County,Black,37,Female,Some College,Unemployed,74439.2113907827,1,4.513001923510736,0,0
+Claiborne County,Black,63,Male,Some College,Employed,14306.35663559836,3,1.8342034123417872,1,1
+Claiborne County,Black,48,Female,High School,Employed,72209.00100916812,3,9.415772510292054,0,1
+Claiborne County,White,69,Male,Master's Degree,Employed,76991.60062886897,2,2.715919322324292,1,0
+Claiborne County,Black,26,Male,Bachelor's Degree,Employed,118750.14543444206,2,4.6814354350897975,0,1
+Claiborne County,Black,71,Female,Some College,Unemployed,123957.07285602865,4,6.099649873163631,0,0
+Claiborne County,White,38,Male,Some College,Unemployed,35078.78563379956,3,7.874279280947997,0,0
+Claiborne County,Black,70,Male,Bachelor's Degree,Employed,14331.951630001457,3,4.31413736886158,1,1
+Claiborne County,Black,60,Female,Less than High School,Employed,36655.773570403166,3,6.380932274086129,1,0
+Claiborne County,Black,68,Female,High School,Employed,14589.187996874507,2,5.810180822037451,0,0
+Claiborne County,Black,50,Female,Less than High School,Employed,14706.29807945442,1,7.615077493490068,0,0
+Claiborne County,White,33,Male,Some College,Unemployed,14705.913768382541,2,4.8796924081672675,1,1
+Claiborne County,Black,51,Female,Less than High School,Employed,14595.624993176025,4,3.054176965508885,1,1
+Claiborne County,Black,63,Female,High School,Unemployed,14252.210733129466,1,2.860838184493726,0,1
+Claiborne County,Black,47,Male,PhD,Employed,35802.706779307984,2,5.1241489078491345,1,0
+Claiborne County,Black,49,Male,High School,Unemployed,15700.268249698927,1,7.855058643505985,0,1
+Claiborne County,Black,35,Female,Some College,Employed,34035.027191497655,0,5.0520471808519805,0,1
+Claiborne County,Black,54,Female,High School,Employed,35570.66517131198,1,3.9489012233082534,1,0
+Claiborne County,White,44,Female,High School,Employed,35846.6371443555,1,1.917786303816767,0,0
+Claiborne County,Black,62,Female,Bachelor's Degree,Employed,77613.19034317894,1,4.358762645569725,1,0
+Claiborne County,Black,65,Female,Less than High School,Employed,74419.71897760207,2,4.210884635327809,1,0
+Claiborne County,Black,36,Female,Some College,Unemployed,34310.2581697415,1,6.496158446073034,0,0
+Claiborne County,Black,34,Male,High School,Employed,73689.71350517274,2,6.442161571077495,0,1
+Claiborne County,Black,31,Female,Less than High School,Employed,35744.174665844796,1,7.979889917199222,0,0
+Claiborne County,Black,56,Male,Less than High School,Employed,36108.72813276972,2,6.47346267227291,0,0
+Claiborne County,Black,28,Male,Some College,Employed,14522.420951634904,0,9.539739460705167,0,0
+Claiborne County,Black,70,Female,High School,Employed,34548.29352855218,3,2.95512810268154,1,1
+Claiborne County,Black,69,Male,High School,Employed,15602.910295123724,3,6.331457031648164,0,1
+Claiborne County,Black,68,Female,Some College,Employed,77300.20139771054,1,6.676148303138925,0,0
+Claiborne County,Black,74,Female,PhD,Employed,78636.43802071857,2,5.041634214660867,0,0
+Claiborne County,White,42,Male,Less than High School,Employed,15381.37238952312,1,4.106782575860918,1,0
+Claiborne County,Black,30,Male,High School,Employed,74198.96400770942,0,7.612620296693124,0,0
+Claiborne County,Black,34,Male,High School,Employed,75679.78375495979,0,5.567227288887389,0,1
+Claiborne County,Black,65,Female,High School,Unemployed,35563.54988986562,0,6.401916284159158,0,0
+Claiborne County,Black,24,Male,Some College,Unemployed,33524.59535710993,2,6.581282616844263,0,0
+Claiborne County,Black,43,Female,Bachelor's Degree,Employed,75333.72719327897,1,4.0205521458421485,1,0
+Claiborne County,Black,40,Female,High School,Unemployed,35732.62289965413,0,5.606015143017965,0,0
+Claiborne County,Black,33,Male,Less than High School,Employed,14500.98195600159,3,5.726768791823242,0,0
+Claiborne County,Black,66,Female,Bachelor's Degree,Employed,77104.73788069168,1,5.42206881185696,0,0
+Claiborne County,White,47,Male,Bachelor's Degree,Employed,35293.204731799386,2,2.1657195226241996,1,0
+Claiborne County,Black,37,Male,Less than High School,Unemployed,15678.332678546392,3,4.617751082890141,0,1
+Claiborne County,Black,65,Male,High School,Employed,14313.633447310338,2,6.091819770617104,0,0
+Claiborne County,White,61,Male,High School,Employed,122066.57671944333,0,0.9548110441374412,1,0
+Claiborne County,Black,26,Female,Less than High School,Unemployed,15152.330818949735,1,1.0108356005031587,1,0
+Claiborne County,Black,35,Female,Some College,Unemployed,14694.839868308894,4,5.151420388351864,0,0
+Claiborne County,Black,27,Male,Master's Degree,Employed,76608.1812305343,0,2.131896721482881,1,0
+Claiborne County,Black,51,Female,High School,Employed,35906.51848882676,3,6.5889897804648445,0,0
+Claiborne County,Black,56,Female,Less than High School,Unemployed,72018.86973049855,0,6.315394160121873,0,0
+Claiborne County,White,53,Male,Master's Degree,Employed,75103.90848155077,3,2.782131378041284,1,0
+Claiborne County,Black,26,Male,Less than High School,Employed,35031.11694456869,1,7.560026098587348,0,0
+Claiborne County,Black,62,Female,Some College,Employed,34542.48269575439,1,6.448668093075018,0,0
+Claiborne County,Black,45,Female,High School,Employed,130411.56078212091,2,7.136378343038432,0,0
+Claiborne County,Black,57,Male,Some College,Employed,129093.82899841527,2,8.160826976693846,0,0
+Claiborne County,Black,25,Female,Some College,Employed,76479.07036432227,1,10.33007334909251,0,1
+Claiborne County,White,73,Female,Bachelor's Degree,Employed,76607.44976801248,1,2.8052227671740697,1,1
+Claiborne County,Black,30,Male,Bachelor's Degree,Employed,124521.45179766398,0,7.580176724294944,0,0
+Claiborne County,Black,36,Male,Bachelor's Degree,Employed,130262.4315137072,3,4.918770524892073,1,0
+Claiborne County,Black,72,Male,High School,Unemployed,35681.0839953865,2,9.766277056498996,1,0
+Claiborne County,Black,19,Male,Some College,Unemployed,76717.35796241861,1,8.03026832845254,0,0
+Claiborne County,Black,61,Female,High School,Employed,36265.9181632557,0,4.546965966775055,0,0
+Claiborne County,Black,29,Female,Less than High School,Unemployed,14661.107384013285,0,6.532796716258511,0,1
+Claiborne County,Black,64,Female,Some College,Unemployed,15460.606355800053,2,6.2856403397116445,0,0
+Claiborne County,Black,29,Female,Bachelor's Degree,Employed,33933.34211034772,0,4.582798667925126,0,0
+Claiborne County,Black,53,Female,High School,Employed,14768.01292836733,0,10.206304218932775,0,0
+Claiborne County,Black,41,Female,Less than High School,Employed,34424.63658994445,1,5.6944189316175855,0,0
+Claiborne County,Black,57,Male,Bachelor's Degree,Employed,78588.94101291854,0,1.9557182456167908,1,0
+Claiborne County,Black,57,Female,Less than High School,Unemployed,129456.71529684907,4,3.83095498941656,1,1
+Claiborne County,Black,60,Male,Bachelor's Degree,Employed,76508.77396192696,1,6.797941803050929,0,0
+Claiborne County,Black,36,Female,Master's Degree,Employed,127838.20952019237,3,4.175236724147396,1,0
+Claiborne County,Black,51,Female,Some College,Employed,15093.109191603855,0,5.75654605874781,0,1
+Claiborne County,Black,23,Female,Some College,Employed,36564.817334879815,1,10.132809280593795,0,0
+Claiborne County,White,63,Female,High School,Employed,34986.90563508826,3,2.98563024131946,1,0
+Claiborne County,Black,38,Male,High School,Employed,74103.8828240242,0,3.0982026992175893,1,1
+Claiborne County,Black,36,Female,High School,Unemployed,72472.76502698693,0,6.524195687189709,0,0
+Claiborne County,Black,52,Female,Some College,Employed,77146.54239195793,3,7.325600936094351,0,0
+Claiborne County,Black,24,Male,Bachelor's Degree,Employed,76758.32949056695,0,3.7719523028726054,1,0
+Claiborne County,Black,57,Male,High School,Unemployed,34595.24263483447,5,5.437419762073541,0,0
+Claiborne County,White,44,Male,High School,Unemployed,33338.1769488573,2,4.762264044299825,0,1
+Claiborne County,Black,43,Female,Bachelor's Degree,Employed,129237.46659647512,1,9.17114027526046,0,1
+Claiborne County,White,25,Male,Less than High School,Unemployed,71335.63487590555,1,4.551425813484251,1,0
+Claiborne County,White,31,Female,Less than High School,Employed,76527.74834721787,0,2.997819748320742,0,0
+Claiborne County,Black,53,Male,Some College,Employed,36645.8998840412,2,4.0774742791335115,1,0
+Claiborne County,Black,36,Female,Some College,Employed,74532.45996111153,1,7.734790225307138,0,0
+Claiborne County,Black,63,Female,High School,Unemployed,34072.40691748583,2,5.270912203745822,0,0
+Claiborne County,Black,40,Male,High School,Employed,35717.04853515184,1,7.370557205014035,0,0
+Claiborne County,Black,69,Female,Some College,Employed,77378.46106511688,1,5.490165338082971,0,0
+Claiborne County,Black,43,Male,Some College,Employed,35162.50610627247,2,6.2738265074443245,0,0
+Claiborne County,Black,51,Male,Some College,Unemployed,130837.94094070184,3,6.993687842688678,0,1
+Claiborne County,Black,19,Male,Bachelor's Degree,Employed,71637.5154124347,1,8.301443834284377,0,0
+Claiborne County,Black,73,Male,Less than High School,Employed,15007.193397456791,1,4.934827338603746,0,1
+Claiborne County,Black,23,Male,High School,Unemployed,127730.67434153188,0,4.746402033239107,0,0
+Claiborne County,Black,60,Female,Some College,Unemployed,15543.960706723767,2,6.38292278120904,0,0
+Claiborne County,Black,40,Male,High School,Unemployed,33877.39464167727,1,7.419182230556571,0,0
+Claiborne County,Black,30,Female,Some College,Employed,15450.00522264552,1,6.233635765025313,0,1
+Claiborne County,Black,46,Female,Bachelor's Degree,Employed,75395.3030678891,4,5.726574164675956,0,1
+Claiborne County,Black,40,Male,High School,Employed,74224.15261492472,1,6.108276800242904,0,0
+Claiborne County,Black,67,Female,Less than High School,Employed,120396.43785723866,1,3.8887791175520214,1,0
+Claiborne County,Black,49,Male,Bachelor's Degree,Employed,129566.1969863614,2,4.591582073326634,0,0
+Claiborne County,Black,41,Female,Master's Degree,Employed,33800.456228629,1,9.751164435832036,1,1
+Claiborne County,Black,38,Male,Some College,Employed,14714.681788813648,2,5.564182357102753,0,0
+Claiborne County,Black,35,Male,Bachelor's Degree,Employed,73425.34148971828,2,4.360189883056642,1,0
+Claiborne County,Black,21,Male,Some College,Unemployed,77785.6052564314,1,5.935206927549547,0,0
